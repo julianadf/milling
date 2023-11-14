@@ -1,0 +1,704 @@
+Year;Station;Datum;Behandling;Ruta;Total täckningsgrad träd och buskar %;Förekommande arter;Stam, lev. Stubbe, död stubbe;Kat 1 (Årsskott);Kat 2 (<3cm);Kat 3 (3-5 cm);Kat 4 (5-10 cm);Sandförekomst %;Kommentar (kornstorlek mm);;;
+2017;Brunflo;20170718;Rotryckning;1;1;björk sp.;S;4;;;;1;Grus- och sandblandad jord.  Tunt förnalager, grässvål och mossa.;;;
+2017;Brunflo;20170718;Rotryckning;2;1;björk sp.;S;6;;;;3;Grus- och sandblandad jord.  Tunt förnalager, grässvål och mossa.;;;
+2017;Brunflo;20170718;Rotryckning;3;1;björk sp.;S;3;;;;-;Jord och grovkornigt grus. Grässvål. Förekomst av getväppling.;;;
+2017;Brunflo;20170718;Rotryckning;4;1;björk sp.;S;3;;;;-;Ingen sand ytligt. Getväppling, liten blåklocka.;;;
+2017;Brunflo;20170718;Rotryckning;4;1;rönn;L;;9;;;-;Skott från samma stubbe.;;;
+2017;Brunflo;20170718;Rotryckning;4;2;glasbjörk;L;;24;;;-;Möjligen från samma stubbe eller tre närstående stubbar.;;;
+2017;Brunflo;20170718;Rotryckning;5;0;-;;;;;;2;Mest inblandat i jord och grus.;;;
+2017;Brunflo;20170718;Rotryckning;6;0;-;;;;;;?1;Inblandat i jord. Grusigt/stenigt.;;;
+2017;Brunflo;20170718;Ytskrapning;1;1;glasbjörk;L;;7;;;70;Sten- och grusblandad sand med jordinslag. Rätt mycket stora stenar.;;;
+2017;Brunflo;20170718;Ytskrapning;1;1;björk sp.;S;5;;;;70;Sten- och grusblandad sand med jordinslag. Rätt mycket stora stenar.;;;
+2017;Brunflo;20170718;Ytskrapning;2;0;-;;;;;;50;Mer sten än ruta 1;;;
+2017;Brunflo;20170718;Ytskrapning;3;0;-;;;;;;60;Grus och sten med sand mellan. Även sandblandad jord.;;;
+2017;Brunflo;20170718;Ytskrapning;4;0;-;;;;;;40;Mycket sten.;;;
+2017;Brunflo;20170718;Ytskrapning;5;1;björk sp.;S;1;;;;40;Mycket sten och grus.;;;
+2017;Brunflo;20170718;Ytskrapning;6;0;-;;;;;;50;Grusigt och stenigt.;;;
+2017;Ope;20170719;Ytskrapning;1;0;-;;;;;;20;Smågrusigt, visst sandinslag under. Förna inblandat.;;;
+2017;Ope;20170719;Ytskrapning;2;0;-;;;;;;30;Smågrusigt, visst sandinslag under. Förna inblandat. Markskärningar.;;;
+2017;Ope;20170719;Ytskrapning;3;0;-;;;;;;40;Mer tydligt sandinslag i jorden men mestadels under gruslager.;;;
+2017;Ope;20170719;Ytskrapning;4;0;-;;;;;;30;Under gruslager. Skärningar förekommer.;;;
+2017;Ope;20170719;Ytskrapning;5;0;-;;;;;;30;Småkuperat av markskärningar. Grus och större sten förekommer.;;;
+2017;Ope;20170719;Ytskrapning;6;0;-;;;;;;30;Småkuperat av markskärningar. Grus och större sten förekommer.;;;
+2017;Ope;20170719;Rotryckning;1;0;-;;;;;;-;Ytligt gruslager med grässvål.;;;
+2017;Ope;20170719;Rotryckning;2;0;-;;;;;;-;Tjock grässvål. Grus kan kännas genom denna på vissa håll.;;;
+2017;Ope;20170719;Rotryckning;3;0;-;;;;;;-;Fläckvis grässvål och mossmatta på grus.;;;
+2017;Ope;20170719;Rotryckning;4;0;-;;;;;;1;Sand finns inblandat i grusig mark.;;;
+2017;Ope;20170719;Rotryckning;5;0;-;;;;;;?1;Tät grässvål, sparsam sandinblandning i jorden. Även grusigt.;;;
+2017;Ope;20170719;Rotryckning;6;0;-;;;;;;-;Grusdominerad mark med grässvål och mossor.;;;
+2017;Trångsviken;20170720;Ytskrapning;1;0;-;;;;;;?5;Mycket små gruskorn. Porös jord däremellan.;;;
+2017;Trångsviken;20170720;Ytskrapning;2;0;-;;;;;;?5;Grus och sten. Ett mindre hak. Porös jord och grus.;;;
+2017;Trångsviken;20170720;Ytskrapning;3;0;-;;;;;;?5;Grus, delvis packat. Jord och ett mindre hak.;;;
+2017;Trångsviken;20170720;Ytskrapning;4;0;-;;;;;;?5;Grus, delvis packat. Lite kuperat med tuvor.;;;
+2017;Trångsviken;20170720;Ytskrapning;5;0;-;;;;;;?5;Grus, delvis packat.;;;
+2017;Trångsviken;20170720;Ytskrapning;6;0;-;;;;;;?5;Grus, delvis packat.;;;
+2017;Trångsviken;20170720;Rotryckning;1;1;glasbjörk;S;;7;;;?1;Sparsam sandinblandning i grus och jord. Mestadels täckt av grässvål och mossor.;;;
+2017;Trångsviken;20170720;Rotryckning;1;1;Salix sp.;S;1;17;;;?1;se ovan;;;
+2017;Trångsviken;20170720;Rotryckning;2;1;glasbjörk;S;;1;;;-;Utvecklad grässvål med mossor. Ingen blottad mineraljord.;;;
+2017;Trångsviken;20170720;Rotryckning;3;1;Betula sp.;S;2;;;;2;Öppen jord med sandinblandning. Rätt hårt packat.;;;
+2017;Trångsviken;20170720;Rotryckning;4;1;Betula sp.;S;7;;;;3;Hårt packad sandblandad jord. Mosstäcke. Vissa möjligheter för grävande insekter i körspår.;;;
+2017;Trångsviken;20170720;Rotryckning;4;2;glasbjörk;S;;24;;;3;se ovan;;;
+2017;Trångsviken;20170720;Rotryckning;4;2;Salix sp.;S;2;20;;;3;se ovan;;;
+2017;Trångsviken;20170720;Rotryckning;5;1;glasbjörk;S;;1;;;1;Jord med sandinblandning. Främst mosstäckt men grus/sand/jord i skärning.;;;
+2017;Trångsviken;20170720;Rotryckning;6;0;-;;;;;;?1;Mest täckt av grässvål. Sand inblandat i jorden.;;;
+2017;Mattmar;20170722;Ytskrapning;1;1;Betula sp.;S;1;;;;20;Grus-/sand-/jordblandad mark. Halvpackat, men poröst. Smulas lätt.;;;
+2017;Mattmar;20170722;Ytskrapning;2;0;-;;;;;;20;Grus-/sand-/jordblandad mark. Halvpackat, men poröst. Smulas lätt.;;;
+2017;Mattmar;20170722;Ytskrapning;3;0;-;;;;;;20;Grus-/sand-/jordblandad mark. Halvpackat, men poröst. Smulas lätt.;;;
+2017;Mattmar;20170722;Ytskrapning;4;0;-;;;;;;30;Grus-/sand-/jordblandad mark med större stenar. Små hak. Halvpackat, smulas relativt lätt.;;;
+2017;Mattmar;20170722;Ytskrapning;5;0;-;;;;;;30;Grus-/sand-/jordblandad mark med större stenar. Små hak. Halvpackat, smulas relativt lätt.;;;
+2017;Mattmar;20170722;Ytskrapning;6;0;-;;;;;;30;Grus-/sand-/jordblandad mark med större stenar. Små hak. Halvpackat, smulas relativt lätt.;;;
+2017;Mattmar;20170722;Rotryckning;1;1;Betula sp.;S;1;;;;?1;Inblandat i jorden. Täcks av mossor och tät grässvål.;;;
+2017;Mattmar;20170722;Rotryckning;2;1;Betula sp.;S;1;;;;?1;Inblandat i jorden. Täcks av mossor och fläckvis utbredd grässvål.;;;
+2017;Mattmar;20170722;Rotryckning;2;1;glasbjörk;S;;2;;;?1;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;3;1;Betula sp.;S;2;;;;3;Inblandat i jord. Blottor genom gamla körspår.;;;
+2017;Mattmar;20170722;Rotryckning;3;1;glasbjörk;S;;10;;;3;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;3;1;Salix sp.;S;;;;;3;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;3;3;vårtbjörk;S;;;;;3;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;3;1;tall;L;;1;;;3;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;4;1;tall;S;;1;;;2;Inblandat i jord. Blottor genom gamla körspår.;;;
+2017;Mattmar;20170722;Rotryckning;4;1;glasbjörk;S;;3;;;;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;4;1;Spirea sp.;S;;2;;;;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;4;1;Betula sp.;S;2;;;;;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;4;1;vårtbjörk;S;;2;;;;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;5;1;Betula sp.;L;;1;;;2;Inblandat i jord. Blottor genom gamla körspår.;;;
+2017;Mattmar;20170722;Rotryckning;5;1;Betula sp.;S;2;;;;;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;5;1;glasbjörk;S;;2;;;;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;5;1;Salix sp.;S;;1;;;;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;5;2;vårtbjörk;S;;4;;;;se ovan;;;
+2017;Mattmar;20170722;Rotryckning;6;1;Salix sp.;S;;3;;;3;Ytligt liggande makadam med gott om sten- och jordblottor. Sandinblandning i den porösa jorden. Även grus.;;;
+2017;Mattmar;20170722;Rotryckning;6;1;glasbjörk;S;;6;;;;se ovan;;;
+2017;Avesta;20170704;Ytskrapning;1;5;Vårtbjörk;;7;2;;;;;;;
+2017;Avesta;20170704;Ytskrapning;1;5;Sälg;;;1;;;;;;;
+2017;Avesta;20170704;Ytskrapning;2;20;Vårtbjörk;;33;7;;;;;;;
+2017;Avesta;20170704;Ytskrapning;2;20;Asp;;;2;;;;;;;
+2017;Avesta;20170704;Ytskrapning;3;4;Vårtbjörk;;;2;;;;;;;
+2017;Avesta;20170704;Ytskrapning;4;5;Jolster;;;1;;;;;;;
+2017;Avesta;20170704;Ytskrapning;4;5;Vårtbjörk;;6;4;;;;;;;
+2017;Avesta;20170704;Ytskrapning;5;1;Tall;;1;;;;;;;;
+2017;Avesta;20170704;Ytskrapning;5;1;Asp;;1;;;;;;;;
+2017;Avesta;20170704;Ytskrapning;6;15;Sälg;;;1;;;;;;;
+2017;Avesta;20170704;Ytskrapning;6;15;Vårtbjörk;;1;2;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;1;2;Asp;;1;1;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;1;2;Vårtbjörk;;7;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;1;2;Gråal;;1;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;1;2;Gråvide;;;1;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;2;1;Vårtbjörk;;4;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;2;1;Asp;;1;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;3;1;Vårtbjörk;;2;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;3;1;Gråal;;2;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;4;40;Gråal;;40;9;4;1;;;;;
+2017;Jularbo;20170705;Ytskrapning;4;40;Vårtbjörk;;15;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;4;40;Tall;;;1;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;5;10;Gråal;;1;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;5;10;Vårtbjörk;;5;3;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;5;10;Asp;;1;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;5;10;Tall;;1;;;;;;;;
+2017;Jularbo;20170705;Ytskrapning;6;5;Vårtbjörk;;1;4;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;1;0;-;;;;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;2;3;Tall;;;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;3;5;Tall;;;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;3;5;Asp;;;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;4;10;Glasbjörk;;5;18;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;4;10;Tall;;;2;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;4;10;Gran;;;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;5;10;Gråal;;;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;5;10;Vårtbjörk;;9;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;5;10;Glasbjörk;;2;;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;5;10;Tall;;1;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;6;5;Tall;;2;2;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;6;5;Asp;;;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;1;2;Vårtbjörk;;2;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;1;2;Tall;;;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;2;4;Glasbjörk;;2;8;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;2;4;Asp;;;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;3;1;Glasbjörk;;1;;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;4;4;Sälg;;;1;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;4;4;Hallon;;;3;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;5;5;Tall;;;;1;;;;;;
+2017;Byvalla;20170707;Ytskrapning;5;5;Glasbjörk;;2;9;;;;;;;
+2017;Byvalla;20170707;Ytskrapning;6;1;Tall;;;1;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;1;20;Tall;;;2;4;;;;;;
+2017;Gustafs;20170710;Ytskrapning;1;20;Vårtbjörk;;;1;4;;;;;;
+2017;Gustafs;20170710;Ytskrapning;2;7;Tall;;;3;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;2;7;Vårtbjörk;;;1;1;;;;;;
+2017;Gustafs;20170710;Ytskrapning;3;5;Tall;;1;;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;3;5;Vårtbjörk;;;1;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;4;2;Vårtbjörk;;;1;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;5;2;Vårtbjörk;;;1;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;5;2;Tall;;;1;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;6;8;Tall;;1;3;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;6;8;Vårtbjörk;;;2;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;1;10;Vårtbjörk;;3;;2;;;;;;
+2017;Gustafs;20170710;Ytskrapning;1;10;Tall;;;;1;;;;;;
+2017;Gustafs;20170710;Ytskrapning;2;80;Vårtbjörk;;3;16;4;;;;;;
+2017;Gustafs;20170710;Ytskrapning;2;80;Tall;;;1;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;3;15;Vårtbjörk;;;2;1;;;;;;
+2017;Gustafs;20170710;Ytskrapning;3;15;Tall;;4;;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;4;20;Vårtbjörk;;;10;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;4;20;Tall;;1;;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;5;100;Vårtbjörk;;;4;26;;;;;;
+2017;Gustafs;20170710;Ytskrapning;5;100;Tall;;;2;;;;;;;
+2017;Gustafs;20170710;Ytskrapning;6;15;Vårtbjörk;;;7;;;;;;;
+2017;Avesta;20170704;Rotryckning;1;15;Vårtbjörk;;;8;;;;;;;
+2017;Avesta;20170704;Rotryckning;2;5;Vårtbjörk;;;7;;;;;;;
+2017;Avesta;20170704;Rotryckning;3;10;Vårtbjörk;;;8;;;;;;;
+2017;Avesta;20170704;Rotryckning;4;20;Vårtbjörk;;;2;1;1;;;;;
+2017;Avesta;20170704;Rotryckning;5;15;Vårtbjörk;;;4;2;1;;;;;
+2017;Avesta;20170704;Rotryckning;6;10;Vårtbjörk;;;3;;;;;;;
+2017;Jularbo;20170704;Rotryckning;1;20;Asp;;;;2;;;;;;
+2017;Jularbo;20170704;Rotryckning;1;20;Vårtbjörk;;;;2;;;;;;
+2017;Jularbo;20170704;Rotryckning;2;5;Glasbjörk;;;2;;;;;;;
+2017;Jularbo;20170704;Rotryckning;3;30;Glasbjörk;;;10;;;;;;;
+2017;Jularbo;20170704;Rotryckning;3;30;Vårtbjörk;;;2;;;;;;;
+2017;Jularbo;20170704;Rotryckning;4;2;Asp;;;4;;;;;;;
+2017;Jularbo;20170704;Rotryckning;4;2;Vårtbjörk;;;4;;;;;;;
+2017;Jularbo;20170704;Rotryckning;5;25;Vårtbjörk;;;4;1;;;;;;
+2017;Jularbo;20170704;Rotryckning;5;25;Glasbjörk;;;2;;;;;;;
+2017;Jularbo;20170704;Rotryckning;6;2;Glasbjörk;;4;;;;;;;;
+2017;Byvalla;20170706;Rotryckning;1;7;Vårtbjörk;;;15;;;;;;;
+2017;Byvalla;20170706;Rotryckning;2;5;Vårtbjörk;;;7;;;;;;;
+2017;Byvalla;20170706;Rotryckning;3;50;Glasbjörk;;;8;;;;;;;
+2017;Byvalla;20170706;Rotryckning;3;50;Vårtbjörk;;;18;;;;;;;
+2017;Byvalla;20170706;Rotryckning;4;40;Vårtbjörk;;;20;;;;;;;
+2017;Byvalla;20170706;Rotryckning;4;40;Glasbjörk;;;9;;;;;;;
+2017;Byvalla;20170706;Rotryckning;4;40;Asp;;;2;;;;;;;
+2017;Byvalla;20170706;Rotryckning;5;50;Sälg;;;20;;;;;;;
+2017;Byvalla;20170706;Rotryckning;5;50;Vårtbjörk;;;32;;;;;;;
+2017;Byvalla;20170706;Rotryckning;5;50;Asp;;;1;;;;;;;
+2017;Byvalla;20170706;Rotryckning;6;20;Glasbjörk;;;5;;;;;;;
+2017;Byvalla;20170706;Rotryckning;6;20;Asp;;;3;;;;;;;
+2017;Byvalla;20170706;Rotryckning;1;10;Asp;;;;3;;;;;;
+2017;Byvalla;20170706;Rotryckning;2;15;Asp;;;1;2;;;;;;
+2017;Byvalla;20170706;Rotryckning;2;15;Glasbjörk;;;1;;;;;;;
+2017;Byvalla;20170706;Rotryckning;2;15;Vårtbjörk;;;3;;;;;;;
+2017;Byvalla;20170706;Rotryckning;3;60;Vårtbjörk;;;2;1;;;;;;
+2017;Byvalla;20170706;Rotryckning;3;60;Sälg;;;4;1;;;;;;
+2017;Byvalla;20170706;Rotryckning;4;30;Glasbjörk;;;;1;;;;;;
+2017;Byvalla;20170706;Rotryckning;4;30;Asp;;;5;;;;;;;
+2017;Byvalla;20170706;Rotryckning;5;15;Glasbjörk;;;;1;;;;;;
+2017;Byvalla;20170706;Rotryckning;6;5;Sälg;;;2;;;;;;;
+2017;Gustafs;20170710;Rotryckning;1;10;Tall;;;;4;;;;;;
+2017;Gustafs;20170710;Rotryckning;2;10;Tall;;;;1;;;;;;
+2017;Gustafs;20170710;Rotryckning;2;10;Vårtbjörk;;;;;;;;;;
+2017;Gustafs;20170710;Rotryckning;3;2;Vårtbjörk;;;1;;;;;;;
+2017;Gustafs;20170710;Rotryckning;4;0;;;;;;;;;;;
+2017;Gustafs;20170710;Rotryckning;5;0;;;;;;;;;;;
+2017;Gustafs;20170710;Rotryckning;6;3;Nyponros;;;2;;;;;;;
+2017;Gustafs;20170710;Rotryckning;1;15;Tall;;;2;;;;;;;
+2017;Gustafs;20170710;Rotryckning;1;15;Vårtbjörk;;;;2;;;;;;
+2017;Gustafs;20170710;Rotryckning;2;20;Tall;;;;1;1;;;;;
+2017;Gustafs;20170710;Rotryckning;2;20;Vårtbjörk;;;;1;;;;;;
+2017;Gustafs;20170710;Rotryckning;3;20;Tall;;;;;1;;;;;
+2017;Gustafs;20170710;Rotryckning;3;20;Vårtbjörk;;;;3;;;;;;
+2017;Gustafs;20170710;Rotryckning;4;10;Tall;;;;1;1;;;;;
+2017;Gustafs;20170710;Rotryckning;5;100;Tall;;;;1;1;;;;;
+2017;Gustafs;20170710;Rotryckning;5;100;Vårtbjörk;;;;3;;;;;;
+2017;Gustafs;20170711;Rotryckning;6;0;;;;;;;;;;;
+2016;Dagarn;20160815;rotryckning;1;6;björk sp.;S/L;;13;;;8 st i samma stubbe. Blomsterlupin strax utanför ytan;;;;
+2016;Dagarn;20160815;rotryckning;2;1;glasbjörk;S;;4;;;;;;;
+2016;Dagarn;20160815;rotryckning;2;1;vårtbjörk;S;;1;;;;;;;
+2016;Dagarn;20160815;rotryckning;3;1;gran;S;;1;;;Rutan nära levande stubbe av björk;;;;
+2016;Dagarn;20160815;rotryckning;4;5;Salix sp.;S/L;;23;;;Varav 13 st i stubbe. Sand inblandat i jorden;;;;
+2016;Dagarn;20160815;rotryckning;5;7;hallon;S;7;14;;;;;;;
+2016;Dagarn;20160815;rotryckning;5;1;asp;S;1;1;;;;;;;
+2016;Dagarn;20160815;rotryckning;5;15;glasbjörk;S/L;3;28;;;24 i stubbe;;;;
+2016;Dagarn;20160815;rotryckning;6;45;glasbjörk;L;;48;;;3 stubbar á 22, 12 och 12 stammar;;;;
+2016;Dala-Järna;20160818;rotryckning;1;0;-;;;;;;Ingen vedartad vegetation.;;;;
+2016;Dala-Järna;20160818;rotryckning;2;0;-;;;;;;Ingen vedartad vegetation. ;;;;
+2016;Dala-Järna;20160818;rotryckning;3;0;-;;;;;;Ingen vedartad vegetation.;;;;
+2016;Dala-Järna;20160818;rotryckning;4;1;vårtbjörk;S/L;;5;;;1 stubbe á 3 skott.;;;;
+2016;Dala-Järna;20160818;rotryckning;5;0;-;;;;;;Ingen vedartad vegetation. ;;;;
+2016;Dala-Järna;20160818;rotryckning;6;15;vårtbjörk;S/L;29;46;;;1 stubbe á 8 skott. Mkt rikligt med kortklippta skott. ;;;;
+2016;Grängesberg;20160817;rotryckning;1;1;Salix sp.;S;;1;;;Tjockt mosstäcke.;;;;
+2016;Grängesberg;20160817;rotryckning;2;0;-;;;;;;Ingen vedartad vegetation i denna ruta. Förekommer 1,5 m bort. ;;;;
+2016;Grängesberg;20160817;rotryckning;3;0;-;;;;;;Ingen vedartad vegetation.;;;;
+2016;Grängesberg;20160817;rotryckning;4;1;Salix sp.;S;;2;;;;;;;
+2016;Grängesberg;20160817;rotryckning;4;1;vårtbjörk;S;;1;;;;;;;
+2016;Grängesberg;20160817;rotryckning;5;3;asp;S;;5;;;;;;;
+2016;Grängesberg;20160817;rotryckning;5;1;glasbjörk;S;;3;;;;;;;
+2016;Grängesberg;20160817;rotryckning;5;1;Salix sp.;S;;1;;;;;;;
+2016;Grängesberg;20160817;rotryckning;5;1;tall;S;;1;;;;;;;
+2016;Grängesberg;20160817;rotryckning;6;2;vårtbjörk;L;;8;;;3 stubbar á 3, 2, 3 skott.;;;;
+2016;Grängesberg;20160817;rotryckning;6;1;glasbjörk;S/L;;6;;;1 stubbe á 3 skott;;;;
+2016;Kopparberg;20160817;rotryckning;1;1;glasbjörk;S;;5;;;;;;;
+2016;Kopparberg;20160817;rotryckning;2;1;glasbjörk;S;;5;;;;;;;
+2016;Kopparberg;20160817;rotryckning;2;1;Salix sp.;S;;2;;;;;;;
+2016;Kopparberg;20160817;rotryckning;2;1;vedartad groddplanta;S;;1;;;;;;;
+2016;Kopparberg;20160817;rotryckning;2;1;tall;S;;1;;;;;;;
+2016;Kopparberg;20160817;rotryckning;2;1;vårtbjörk;S;;3;;;;;;;
+2016;Kopparberg;20160817;rotryckning;3;1;vårtbjörk;S/L;;4;;;1 stubbe á 3 skott. ;;;;
+2016;Kopparberg;20160817;rotryckning;3;1;glasbjörk;S;1;9;;;;;;;
+2016;Kopparberg;20160817;rotryckning;3;1;tall;S;1;;;;;;;;
+2016;Kopparberg;20160817;rotryckning;4;3;glasbjörk;S;;28;;;Mkt små skott av båda björkarna;;;;
+2016;Kopparberg;20160817;rotryckning;4;1;betula sp.;S;;1;;;vedartad men mkt liten med ett litet blad;;;;
+2016;Kopparberg;20160817;rotryckning;4;1;Salix sp.;S;;1;;;;;;;
+2016;Kopparberg;20160817;rotryckning;4;1;tall;S;1;1;;;;;;;
+2016;Kopparberg;20160817;rotryckning;4;2;vårtbjörk;S;;13;;;Mkt små skott;;;;
+2016;Kopparberg;20160817;rotryckning;5;1;vårtbjörk;S/L;;7;;;1 stubbe á 3 skott. ;;;;
+2016;Kopparberg;20160817;rotryckning;5;4;glasbjörk;S;;21;;;;;;;
+2016;Kopparberg;20160817;rotryckning;6;1;Salix sp.;S;;1;;;;;;;
+2016;Kopparberg;20160817;ytskrapning;1;0;-;;;;;;Ingen vedartad vegetation. ;;;;
+2016;Kopparberg;20160817;ytskrapning;2;0;-;;;;;;Ingen vedartad vegetation.;;;;
+2016;Kopparberg;20160817;ytskrapning;3;1;björk sp.;S;1;;;;Yttersta 15 cm av ytan slagen vid vägslåtter. ;;;;
+2016;Kopparberg;20160817;ytskrapning;4;1;björk sp.;S/L;2;6;;;1 stubbe á 6 skott Kat 2. Mycket liten grodd och död stubbe.;;;;
+2016;Kopparberg;20160817;ytskrapning;4;1;glasbjörk;S;;1;;;;;;;
+2016;Kopparberg;20160817;ytskrapning;4;1;Salix sp.;S;;1;;;;;;;
+2016;Kopparberg;20160817;ytskrapning;5;1;Salix sp.;S;;1;;;;;;;
+2016;Kopparberg;20160817;ytskrapning;6;1;glasbjörk;S;1;;;;;;;;
+2016;Kopparberg;20160817;ytskrapning;6;1;Salix sp.;S;;1;;;;;;;
+2016;Kopparberg;20160817;ytskrapning;6;1;vedartad groddplanta;S;;1;;;;;;;
+2016;Krampen;20160815;rotryckning;1;2;tall;S;;7;;;Grässvål;;;;
+2016;Krampen;20160815;rotryckning;2;10;glasbjörk;S;;17;;;;;;;
+2016;Krampen;20160815;rotryckning;2;1;betula sp.;S;;2;;;;;;;
+2016;Krampen;20160815;rotryckning;2;3;tall;L;;5;;;;;;;
+2016;Krampen;20160815;rotryckning;2;15;vårtbjörk;L;;11;;;3 stubbar á 3, 4, 4 skott;;;;
+2016;Krampen;20160815;rotryckning;3;10;vårtbjörk;S/L;;8;;;1 stubbe á 5 skott;;;;
+2016;Krampen;20160815;rotryckning;3;5;glasbjörk;S;2;12;;;;;;;
+2016;Krampen;20160815;rotryckning;3;1;tall;S;;1;;;;;;;
+2016;Krampen;20160815;rotryckning;4;1;glasbjörk;S;2;1;;;;;;;
+2016;Krampen;20160815;rotryckning;4;3;asp;S;;1;;;;;;;
+2016;Krampen;20160815;rotryckning;4;1;tall;S;1;3;;;;;;;
+2016;Krampen;20160815;rotryckning;4;10;vårtbjörk;S;;2;;;;;;;
+2016;Krampen;20160816;rotryckning;5;15;vårtbjörk;S/L;;6;;;1 stubbe á 5 st;;;;
+2016;Krampen;20160816;rotryckning;5;5;glasbjörk;S;2;6;;;;;;;
+2016;Krampen;20160816;rotryckning;5;1;vedartad groddplanta;S;;1;;;;;;;
+2016;Krampen;20160816;rotryckning;5;1;tall;S;;3;;;;;;;
+2016;Krampen;20160816;rotryckning;6;8;tall;S;;5;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;1;1;vårtbjörk;S;;1;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;1;1;glasbjörk;S;;1;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;1;1;Salix sp.;S;2;1;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;1;1;tall;S;1;2;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;1;1;vedartad groddplanta;S;2;;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;2;5;vedartad groddplanta;S;2;7;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;2;2;glasbjörk;S;2;1;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;2;1;Salix sp.;S;1;;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;2;1;tall;S;;1;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;3;4;vedartad groddplanta;S;;7;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;3;1;Salix sp.;S;;1;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;3;1;tall;S;2;;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;4;1;tall;S;1;;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;4;1;Salix sp.;S;;3;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;4;3;vedartad groddplanta;S;1;5;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;5;1;tall;S;1;2;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;5;25;asp;S;;17;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;5;1;vedartad groddplanta;S;3;;;;;;;;
+2016;Krampen;20160815;rotryckning/ytskrapning;6;1;tall;S;;2;;;;;;;
+2016;Mockfjärd;20160818;rotryckt;1;0;-;;;;;;;;;;
+2016;Mockfjärd;20160818;rotryckt;2;1;hallon;S;;2;;;;;;;
+2016;Mockfjärd;20160818;rotryckt;3;0;-;;;;;;Ingen vedartad vegetation.;;;;
+2016;Mockfjärd;20160818;rotryckt;4;0;-;;;;;;Ingen vedartad vegetation.;;;;
+2016;Mockfjärd;20160818;rotryckt;5;0;-;;;;;;Ingen vedartad vegetation.;;;;
+2016;Mockfjärd;20160818;rotryckt;6;1;glasbjörk;S;;2;;;;;;;
+2016;Mockfjärd;20160818;rotryckt;6;1;vedartad groddplanta;S;;1;;;;;;;
+2016;Repbäcken;20160818;rotryckning;1;15;hallon;S;;14;;;;;;;
+2016;Repbäcken;20160818;rotryckning;2;25;hallon;S;;34;;;;;;;
+2016;Repbäcken;20160818;rotryckning;3;0;-;;;;;;;;;;
+2016;Repbäcken;20160818;rotryckning;4;0;-;;;;;;;;;;
+2016;Repbäcken;20160818;rotryckning;5;1;tall;S;;2;;;;;;;
+2016;Repbäcken;20160818;rotryckning;5;2;glasbjörk;S;1;10;;;;;;;
+2016;Repbäcken;20160818;rotryckning;5;1;Salix sp.;S/L;;8;;;1 stubbe á 7 skott.;;;;
+2016;Repbäcken;20160818;rotryckning;5;1;vårtbjörk;S;;2;;;;;;;
+2016;Repbäcken;20160818;rotryckning;6;3;Salix sp.;S/L;;4;;;"1 stubbe á 2 skott. 3 ""popplar"". ";;;;
+2016;Repbäcken;20160818;ytskrapning/slåtter;1;1;tall;S;1;;;;;;;;
+2016;Repbäcken;20160818;ytskrapning/slåtter;2;0;-;;;;;;Ingen vedartad vegetation. ;;;;
+2016;Repbäcken;20160818;ytskrapning/slåtter;3;0;-;;;;;;Ingen vedartad vegetation. ;;;;
+2016;Repbäcken;20160818;ytskrapning/slåtter;4;0;-;;;;;;;;;;
+2016;Repbäcken;20160818;ytskrapning/slåtter;5;0;-;;;;;;;;;;
+2016;Repbäcken;20160818;ytskrapning/slåtter;6;0;-;;;;;;Grässvål och slipers;;;;
+2016;Ställdalen;20160623;rotryckning;1;3;asp;S;;11;;;Södra sektionen;;;;
+2016;Ställdalen;20160623;rotryckning;1;1;Salix sp.;S;;4;;;;;;;
+2016;Ställdalen;20160623;rotryckning;1;1;vårtbjörk;S;2;1;;;;;;;
+2016;Ställdalen;20160816;rotryckning;2;8;vårtbjörk;S;;6;;;I norr. Kanadensiskt gullris strax utanför ytan;;;;
+2016;Ställdalen;20160816;rotryckning;2;1;glasbjörk;S;;2;;;;;;;
+2016;Ställdalen;20160816;rotryckning;3;20;vårtbjörk;S/L;;41;;;I norr. 6 stubbar á 5, 4, 6, 2, 5, 4 skott.;;;;
+2016;Ställdalen;20160816;rotryckning;3;1;glasbjörk;S;2;4;;;;;;;
+2016;Ställdalen;20160816;rotryckning;3;1;Salix sp.;S/L;;5;;;4 st i stubbe;;;;
+2016;Ställdalen;20160816;rotryckning;4;1;asp;S;;1;;;I nordväst på andra sidan av spåren.;;;;
+2016;Ställdalen;20160816;rotryckning;4;30;glasbjörk;S/L;;29;1;;3 stubbar á 3, 11, 10 skott;;;;
+2016;Ställdalen;20160816;rotryckning;4;10;Salix sp.;S;3;11;;;;;;;
+2016;Ställdalen;20160816;rotryckning;5;2;vårtbjörk;S;;3;;;I väster. ;;;;
+2016;Ställdalen;20160816;rotryckning;5;1;hallon;S;;1;;;;;;;
+2016;Ställdalen;20160816;rotryckning;6;1;asp;S;;1;;;I söder. ;;;;
+2016;Ställdalen;20160816;rotryckning;6;1;glasbjörk;S;;2;;;;;;;
+2016;Ställdalen;20160816;rotryckning;6;1;Salix sp.;S/L;;5;;;1 stubbe á 2 skott;;;;
+2016;Vansbro;20160819;ytskrapning;1;0;-;;;;;;;;;;
+2016;Vansbro;20160819;ytskrapning;2;1;tall;S;1;;;;;;;;
+2016;Vansbro;20160819;ytskrapning;3;0;-;;;;;;;;;;
+2016;Vansbro;20160819;ytskrapning;4;0;-;;;;;;;;;;
+2016;Vansbro;20160819;ytskrapning;5;0;-;;;;;;;;;;
+2016;Vansbro;20160819;ytskrapning;6;1;Salix sp.;L;;4;;;;;;;
+2022;Dagarn;20220608;rotryckning/slåtter;1;;;;;;;;;;;;6
+2022;Dagarn;20220608;rotryckning/slåtter;2;;;;;;;;;;;;1
+2022;Dagarn;20220608;rotryckning/slåtter;3;;;;;;;;;;;;<1
+2022;Dagarn;20220609;rotryckning/slåtter;3;;;;;;;;;;;;<1
+2022;Dagarn;20220608;rotryckning/slåtter;3;;;;;;;;;;;;5
+2022;Dagarn;20220608;rotryckning/slåtter;4;;;;;;;;;;;;7
+2022;Dagarn;20220608;rotryckning/slåtter;4;;;;;;;;;;;;<1
+2022;Dagarn;20220608;rotryckning/slåtter;4;;;;;;;;;;;;15
+2022;Dagarn;20220608;rotryckning/slåtter;4;;;;;;;;;;;;45
+2022;Dagarn;20220608;rotryckning/slåtter;5;;;;;;;;;;;;
+2022;Dagarn;20220608;rotryckning/slåtter;5;;;;;;;;;;;;
+2022;Dagarn;20220608;rotryckning/slåtter;5;;;;;;;;;;;;
+2022;Dagarn;20220608;rotryckning/slåtter;6;;;;;;;;;;;;1
+2022;Dagarn;20220609;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Dala-Järna;20220806;rotryckning/slåtter;1;;;;;;;;;;;;15
+2022;Dala-Järna;20220806;rotryckning/slåtter;2;;;;;;;;;;;;<1
+2022;Dala-Järna;20220806;rotryckning/slåtter;3;;;;;;;;;;;;
+2022;Dala-Järna;20220806;rotryckning/slåtter;4;;;;;;;;;;;;
+2022;Dala-Järna;20220806;rotryckning/slåtter;5;;;;;;;;;;;;<1
+2022;Dala-Järna;20220806;rotryckning/slåtter;6;;;;;;;;;;;;<1
+2022;Grängesberg;20220731;rotryckning;1;;;;;;;;;;;;3
+2022;Grängesberg;20220731;rotryckning;2;;;;;;;;;;;;1
+2022;Grängesberg;20220731;rotryckning;3;;;;;;;;;;;;<1
+2022;Grängesberg;20220731;rotryckning/slåtter;4;;;;;;;;;;;;<1
+2022;Grängesberg;20220731;rotryckning/slåtter;5;;;;;;;;;;;;2
+2022;Grängesberg;20220731;rotryckning/slåtter;6;;;;;;;;;;;;1
+2022;Kopparberg;20220731;rotryckning;-;;;;;;;;;;;;1
+2022;Kopparberg;20220731;ytskrapning;-;;;;;;;;;;;;<1
+2022;Krampen;20220608;rotryckning/slåtter;1;;;;;;;;;;;;<1
+2022;Krampen;20220608;rotryckning/slåtter;1;;;;;;;;;;;;<1
+2022;Krampen;20220608;rotryckning/slåtter;1;;;;;;;;;;;;1
+2022;Krampen;20220718;rotryckning/slåtter;2;;;;;;;;;;;;<1
+2022;Krampen;20220718;rotryckning/slåtter;2;;;;;;;;;;;;1
+2022;Krampen;20220718;rotryckning/slåtter;3;;;;;;;;;;;;<1
+2022;Krampen;20220718;rotryckning/slåtter;3;;;;;;;;;;;;<1
+2022;Krampen;20220718;rotryckning/slåtter;4;;;;;;;;;;;;3
+2022;Krampen;20220718;rotryckning/slåtter;4;;;;;;;;;;;;<1
+2022;Krampen;20220718;rotryckning/slåtter;5;;;;;;;;;;;;1
+2022;Krampen;20220718;rotryckning/slåtter;5;;;;;;;;;;;;<1
+2022;Krampen;20220718;rotryckning/slåtter;5;;;;;;;;;;;;2
+2022;Krampen;20220718;rotryckning/slåtter;5;;;;;;;;;;;;1
+2022;Krampen;20220718;rotryckning/slåtter;6;;;;;;;;;;;;4
+2022;Krampen;20220718;rotryckning/slåtter;6;;;;;;;;;;;;1
+2022;Krampen;20220718;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Krampen;20220608;ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Krampen;20220608;ytskrapning/slåtter;1;;;;;;;;;;;;<1
+2022;Krampen;20220608;ytskrapning/slåtter;1;;;;;;;;;;;;<1
+2022;Krampen;20220608;ytskrapning/slåtter;2;;;;;;;;;;;;<1
+2022;Krampen;20220608;ytskrapning/slåtter;2;;;;;;;;;;;;<1
+2022;Krampen;20220608;ytskrapning/slåtter;3;;;;;;;;;;;;<1
+2022;Krampen;20220608;ytskrapning/slåtter;3;;;;;;;;;;;;<1
+2022;Krampen;20220608;ytskrapning/slåtter;4;;;;;;;;;;;;<1
+2022;Krampen;20220608;ytskrapning/slåtter;4;;;;;;;;;;;;<1
+2022;Krampen;20220608;ytskrapning/slåtter;4;;;;;;;;;;;;2
+2022;Krampen;20220608;ytskrapning/slåtter;5;;;;;;;;;;;;10
+2022;Krampen;20220608;ytskrapning/slåtter;5;;;;;;;;;;;;1
+2022;Krampen;20220718;ytskrapning/slåtter;6;;;;;;;;;;;;3
+2022;Krampen;20220718;ytskrapning/slåtter;6;;;;;;;;;;;;15
+2022;Krampen;20220718;ytskrapning/slåtter;6;;;;;;;;;;;;10
+2022;Krampen;20220718;ytskrapning/slåtter;6;;;;;;;;;;;;5
+2022;Krampen;20220718;ytskrapning/slåtter;6;;;;;;;;;;;;<1
+2022;Krampen;20220718;ytskrapning/slåtter;6;;;;;;;;;;;;1
+2022;Krampen;20220718;ytskrapning/slåtter;7;;;;;;;;;;;;3
+2022;Krampen;20220718;ytskrapning/slåtter;7;;;;;;;;;;;;1
+2022;Krampen;20220718;ytskrapning/slåtter;7;;;;;;;;;;;;10
+2022;Krampen;20220718;ytskrapning/slåtter;7;;;;;;;;;;;;15
+2022;Mockfjärd;20220803;rotryckning/slåtter;1;;;;;;;;;;;;5
+2022;Mockfjärd;20220803;rotryckning/slåtter;2;;;;;;;;;;;;<1
+2022;Mockfjärd;20220803;rotryckning/slåtter;3;;;;;;;;;;;;1
+2022;Mockfjärd;20220803;rotryckning/slåtter;3;;;;;;;;;;;;8
+2022;Mockfjärd;20220803;rotryckning/slåtter;3;;;;;;;;;;;;1
+2022;Mockfjärd;20220803;rotryckning/slåtter;4;;;;;;;;;;;;<1
+2022;Mockfjärd;20220803;rotryckning/slåtter;4;;;;;;;;;;;;<1
+2022;Mockfjärd;20220803;rotryckning/slåtter;5;;;;;;;;;;;;1
+2022;Mockfjärd;20220803;rotryckning/slåtter;6;;;;;;;;;;;;1
+2022;Repbäcken;20220806;rotryckning/slåtter;1;;;;;;;;;;;;5
+2022;Repbäcken;20220806;rotryckning/slåtter;1;;;;;;;;;;;;2
+2022;Repbäcken;20220806;rotryckning/slåtter;2;;;;;;;;;;;;<1
+2022;Repbäcken;20220806;rotryckning/slåtter;2;;;;;;;;;;;;1
+2022;Repbäcken;20220806;rotryckning/slåtter;2;;;;;;;;;;;;4
+2022;Repbäcken;20220806;rotryckning/slåtter;3;;;;;;;;;;;;<1
+2022;Repbäcken;20220806;rotryckning/slåtter;4;;;;;;;;;;;;<1
+2022;Repbäcken;20220806;rotryckning/slåtter;5;;;;;;;;;;;;<1
+2022;Repbäcken;20220806;rotryckning/slåtter;6;;;;;;;;;;;;1
+2022;Repbäcken;20220805;ytskrapning/slåtter;1;;;;;;;;;;;;3
+2022;Repbäcken;20220805;ytskrapning/slåtter;1;;;;;;;;;;;;<1
+2022;Repbäcken;20220805;ytskrapning/slåtter;1;;;;;;;;;;;;25
+2022;Repbäcken;20220805;ytskrapning/slåtter;1;;;;;;;;;;;;<1
+2022;Repbäcken;20220805;ytskrapning/slåtter;1;;;;;;;;;;;;<1
+2022;Repbäcken;20220805;ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Repbäcken;20220805;ytskrapning/slåtter;2;;;;;;;;;;;;<1
+2022;Repbäcken;20220805;ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Repbäcken;20220805;ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Repbäcken;20220805;ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Repbäcken;20220805;ytskrapning/slåtter;6;;;;;;;;;;;;<1
+2022;Ställdalen;20220731;rotryckning/slåtter;1;;;;;;;;;;;;<1
+2022;Ställdalen;20220731;rotryckning/slåtter;2;;;;;;;;;;;;15
+2022;Ställdalen;20220731;rotryckning/slåtter;3;;;;;;;;;;;;25
+2022;Ställdalen;20220731;rotryckning/slåtter;4;;;;;;;;;;;;
+2022;Ställdalen;20220731;rotryckning/slåtter;5;;;;;;;;;;;;
+2022;Ställdalen;20220731;rotryckning/slåtter;6;;;;;;;;;;;;<1
+2022;Vansbro;20220807;ytskrapning/slåtter;1;;;;;;;;;;;;2
+2022;Vansbro;20220807;ytskrapning/slåtter;2;;;;;;;;;;;;1
+2022;Vansbro;20220807;ytskrapning/slåtter;3;;;;;;;;;;;;<1
+2022;Vansbro;20220807;ytskrapning/slåtter;4;;;;;;;;;;;;3
+2022;Vansbro;20220807;ytskrapning/slåtter;5;;;;;;;;;;;;<1
+2022;Vansbro;20220807;ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning;1;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning;1;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning;2;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning;2;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning;3;;;;;;;;;;;;3
+2022;Gustavs;20220804;rotryckning;3;;;;;;;;;;;;1
+2022;Gustavs;20220804;rotryckning;4;;;;;;;;;;;;1
+2022;Gustavs;20220804;rotryckning;5;;;;;;;;;;;;8
+2022;Gustavs;20220804;rotryckning;6;;;;;;;;;;;;<1
+2022;Gustavs;20220804;rotryckning/slåtter;1;;;;;;;;;;;;20
+2022;Gustavs;20220804;rotryckning/slåtter;2;;;;;;;;;;;;1
+2022;Gustavs;20220804;rotryckning/slåtter;3;;;;;;;;;;;;1
+2022;Gustavs;20220804;rotryckning/slåtter;4;;;;;;;;;;;;<1
+2022;Gustavs;20220804;rotryckning/slåtter;5;;;;;;;;;;;;30
+2022;Gustavs;20220804;rotryckning/slåtter;6;;;;;;;;;;;;10
+2022;Gustavs;20220804;rotryckning/ytskrapning;1;;;;;;;;;;;;2
+2022;Gustavs;20220804;rotryckning/ytskrapning;2;;;;;;;;;;;;<1
+2022;Gustavs;20220804;rotryckning/ytskrapning;3;;;;;;;;;;;;<1
+2022;Gustavs;20220804;rotryckning/ytskrapning;3;;;;;;;;;;;;<1
+2022;Gustavs;20220804;rotryckning/ytskrapning;4;;;;;;;;;;;;1
+2022;Gustavs;20220805;rotryckning/ytskrapning;5;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning;6;;;;;;;;;;;;<1
+2022;Gustavs;20220805;rotryckning/ytskrapning;6;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning;6;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning;6;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning;6;;;;;;;;;;;;<1
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;2;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning;1;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning;1;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning;2;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning;3;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning;1;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning;1;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning;2;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning;3;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/slåtter;4;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/slåtter;5;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning/slåtter;4;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning/slåtter;5;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning;1;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning;2;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning/ytskrapning;1;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning/ytskrapning;1;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning/ytskrapning;2;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Jularbo;20220901;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;3;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;3;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning;5;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning;6;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/slåtter;4;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/slåtter;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/slåtter;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/slåtter;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;2;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning;4;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning;5;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;5;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning;6;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Byvalla;20220902;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;;;;;;;;;;;;
+2022;Brunflo;20220626;Rotryckning;1;;;;;;;;;;;;
+2022;Brunflo;20220626;Rotryckning;2;;;;;;;;;;;;
+2022;Brunflo;20220626;Rotryckning;3;;;;;;;;;;;;
+2022;Brunflo;20220626;Rotryckning;4;;;;;;;;;;;;
+2022;Brunflo;20220626;Rotryckning;5;;;;;;;;;;;;
+2022;Brunflo;20220626;Rotryckning;6;;;;;;;;;;;;
+2022;Brunflo;20220626;Ytskrapning;1;;;;;;;;;;;;
+2022;Brunflo;20220626;Ytskrapning;2;;;;;;;;;;;;
+2022;Brunflo;20220626;Ytskrapning;3;;;;;;;;;;;;
+2022;Brunflo;20220626;Ytskrapning;4;;;;;;;;;;;;
+2022;Brunflo;20220626;Ytskrapning;5;;;;;;;;;;;;
+2022;Brunflo;20220626;Ytskrapning;6;;;;;;;;;;;;
+2022;Mattmar;20220628;Rotryckning;1;;;;;;;;;;;;
+2022;Mattmar;20220628;Rotryckning;2;;;;;;;;;;;;
+2022;Mattmar;20220628;Rotryckning;3;;;;;;;;;;;;
+2022;Mattmar;20220628;Rotryckning;4;;;;;;;;;;;;
+2022;Mattmar;20220628;Rotryckning;5;;;;;;;;;;;;
+2022;Mattmar;20220628;Rotryckning;6;;;;;;;;;;;;
+2022;Mattmar;20220628;Rotryckning;6;;;;;;;;;;;;
+2022;Mattmar;20220628;Rotryckning;6;;;;;;;;;;;;
+2022;Mattmar;20220628;Ytskrapning;1;;;;;;;;;;;;
+2022;Mattmar;20220628;Ytskrapning;2;;;;;;;;;;;;
+2022;Mattmar;20220628;Ytskrapning;3;;;;;;;;;;;;
+2022;Mattmar;20220628;Ytskrapning;4;;;;;;;;;;;;
+2022;Mattmar;20220628;Ytskrapning;5;;;;;;;;;;;;
+2022;Mattmar;20220628;Ytskrapning;6;;;;;;;;;;;;
+2022;Ope;20220622;Rotryckning;1;;;;;;;;;;;;
+2022;Ope;20220622;Rotryckning;2;;;;;;;;;;;;
+2022;Ope;20220622;Rotryckning;3;;;;;;;;;;;;
+2022;Ope;20220622;Rotryckning;4;;;;;;;;;;;;
+2022;Ope;20220622;Rotryckning;5;;;;;;;;;;;;
+2022;Ope;20220622;Rotryckning;6;;;;;;;;;;;;
+2022;Ope;20220622;Ytskrapning;1;;;;;;;;;;;;
+2022;Ope;20220622;Ytskrapning;2;;;;;;;;;;;;
+2022;Ope;20220622;Ytskrapning;3;;;;;;;;;;;;
+2022;Ope;20220622;Ytskrapning;4;;;;;;;;;;;;
+2022;Ope;20220622;Ytskrapning;5;;;;;;;;;;;;
+2022;Ope;20220622;Ytskrapning;6;;;;;;;;;;;;
+2022;Trångsviken;20220627;Rotryckning;1;;;;;;;;;;;;
+2022;Trångsviken;20220627;Rotryckning;2;;;;;;;;;;;;
+2022;Trångsviken;20220627;Rotryckning;3;;;;;;;;;;;;
+2022;Trångsviken;20220627;Rotryckning;4;;;;;;;;;;;;
+2022;Trångsviken;20220627;Rotryckning;5;;;;;;;;;;;;
+2022;Trångsviken;20220627;Rotryckning;6;;;;;;;;;;;;
+2022;Trångsviken;20220627;Rotryckning;6;;;;;;;;;;;;
+2022;Trångsviken;20220627;Ytskrapning;1;;;;;;;;;;;;
+2022;Trångsviken;20220627;Ytskrapning;2;;;;;;;;;;;;
+2022;Trångsviken;20220627;Ytskrapning;3;;;;;;;;;;;;
+2022;Trångsviken;20220627;Ytskrapning;4;;;;;;;;;;;;
+2022;Trångsviken;20220627;Ytskrapning;5;;;;;;;;;;;;
+2022;Trångsviken;20220627;Ytskrapning;6;;;;;;;;;;;;

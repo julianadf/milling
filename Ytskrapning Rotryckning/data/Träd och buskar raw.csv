@@ -1,0 +1,704 @@
+Year;År;Station;Datum;Behandling;Ruta;Total täckningsgrad träd och buskar %;Förekommande arter;Stam, lev. Stubbe, död stubbe;Dead/Alive;Kat 1 (Årsskott);Kat 2 (<3cm);Kat 3 (3-5 cm);Kat 4 (5-10 cm);Sandförekomst %;Total täckningsgrad per ruta;Kommentar (kornstorlek mm)
+1;2017;Brunflo;20170718;rotryckning;1;1;Björk sp.;S;D;4;0;0;0;1;1;Grus- och sandblandad jord.  Tunt förnalager, grässvål och mossa.
+1;2017;Brunflo;20170718;rotryckning;2;1;Björk sp.;S;D;6;0;0;0;3;1;Grus- och sandblandad jord.  Tunt förnalager, grässvål och mossa.
+1;2017;Brunflo;20170718;rotryckning;3;1;Björk sp.;S;D;3;0;0;0;0;1;Jord och grovkornigt grus. Grässvål. Förekomst av getväppling.
+1;2017;Brunflo;20170718;rotryckning;4;1;Björk sp.;S;D;3;0;0;0;0;4;Ingen sand ytligt. Getväppling, liten blåklocka.
+1;2017;Brunflo;20170718;rotryckning;4;1;Rönn;L;A;0;9;0;0;0;4;Skott från samma stubbe.
+1;2017;Brunflo;20170718;rotryckning;4;2;Glasbjörk;L;A;0;24;0;0;0;4;Möjligen från samma stubbe eller tre närstående stubbar.
+1;2017;Brunflo;20170718;rotryckning;5;0;;;;0;0;0;0;2;0;Mest inblandat i jord och grus.
+1;2017;Brunflo;20170718;rotryckning;6;0;;;;0;0;0;0;1;0;Inblandat i jord. Grusigt/stenigt.
+1;2017;Brunflo;20170718;ytskrapning;1;1;Glasbjörk;L;A;0;7;0;0;70;2;Sten- och grusblandad sand med jordinslag. Rätt mycket stora stenar.
+1;2017;Brunflo;20170718;ytskrapning;1;1;Björk sp.;S;D;5;0;0;0;70;2;Sten- och grusblandad sand med jordinslag. Rätt mycket stora stenar.
+1;2017;Brunflo;20170718;ytskrapning;2;0;;;;0;0;0;0;50;0;Mer sten än ruta 1
+1;2017;Brunflo;20170718;ytskrapning;3;0;;;;0;0;0;0;60;0;Grus och sten med sand mellan. Även sandblandad jord.
+1;2017;Brunflo;20170718;ytskrapning;4;0;;;;0;0;0;0;40;0;Mycket sten.
+1;2017;Brunflo;20170718;ytskrapning;5;1;Björk sp.;S;D;1;0;0;0;40;1;Mycket sten och grus.
+1;2017;Brunflo;20170718;ytskrapning;6;0;;;;0;0;0;0;50;0;Grusigt och stenigt.
+1;2017;Ope;20170719;ytskrapning;1;0;;;;0;0;0;0;20;0;Smågrusigt, visst sandinslag under. Förna inblandat.
+1;2017;Ope;20170719;ytskrapning;2;0;;;;0;0;0;0;30;0;Smågrusigt, visst sandinslag under. Förna inblandat. Markskärningar.
+1;2017;Ope;20170719;ytskrapning;3;0;;;;0;0;0;0;40;0;Mer tydligt sandinslag i jorden men mestadels under gruslager.
+1;2017;Ope;20170719;ytskrapning;4;0;;;;0;0;0;0;30;0;Under gruslager. Skärningar förekommer.
+1;2017;Ope;20170719;ytskrapning;5;0;;;;0;0;0;0;30;0;Småkuperat av markskärningar. Grus och större sten förekommer.
+1;2017;Ope;20170719;ytskrapning;6;0;;;;0;0;0;0;30;0;Småkuperat av markskärningar. Grus och större sten förekommer.
+1;2017;Ope;20170719;rotryckning;1;0;;;;0;0;0;0;0;0;Ytligt gruslager med grässvål.
+1;2017;Ope;20170719;rotryckning;2;0;;;;0;0;0;0;0;0;Tjock grässvål. Grus kan kännas genom denna på vissa håll.
+1;2017;Ope;20170719;rotryckning;3;0;;;;0;0;0;0;0;0;Fläckvis grässvål och mossmatta på grus.
+1;2017;Ope;20170719;rotryckning;4;0;;;;0;0;0;0;1;0;Sand finns inblandat i grusig mark.
+1;2017;Ope;20170719;rotryckning;5;0;;;;0;0;0;0;1;0;Tät grässvål, sparsam sandinblandning i jorden. Även grusigt.
+1;2017;Ope;20170719;rotryckning;6;0;;;;0;0;0;0;0;0;Grusdominerad mark med grässvål och mossor.
+1;2017;Trångsviken;20170720;ytskrapning;1;0;;;;0;0;0;0;5;0;Mycket små gruskorn. Porös jord däremellan.
+1;2017;Trångsviken;20170720;ytskrapning;2;0;;;;0;0;0;0;5;0;Grus och sten. Ett mindre hak. Porös jord och grus.
+1;2017;Trångsviken;20170720;ytskrapning;3;0;;;;0;0;0;0;5;0;Grus, delvis packat. Jord och ett mindre hak.
+1;2017;Trångsviken;20170720;ytskrapning;4;0;;;;0;0;0;0;5;0;Grus, delvis packat. Lite kuperat med tuvor.
+1;2017;Trångsviken;20170720;ytskrapning;5;0;;;;0;0;0;0;5;0;Grus, delvis packat.
+1;2017;Trångsviken;20170720;ytskrapning;6;0;;;;0;0;0;0;5;0;Grus, delvis packat.
+1;2017;Trångsviken;20170720;rotryckning;1;1;Glasbjörk;S;D;0;7;0;0;1;2;Sparsam sandinblandning i grus och jord. Mestadels täckt av grässvål och mossor.
+1;2017;Trångsviken;20170720;rotryckning;1;1;Salix sp.;S;D;1;17;0;0;1;2;se ovan
+1;2017;Trångsviken;20170720;rotryckning;2;1;Glasbjörk;S;D;0;1;0;0;0;1;Utvecklad grässvål med mossor. Ingen blottad mineraljord.
+1;2017;Trångsviken;20170720;rotryckning;3;1;Betula sp.;S;D;2;0;0;0;2;1;Öppen jord med sandinblandning. Rätt hårt packat.
+1;2017;Trångsviken;20170720;rotryckning;4;1;Betula sp.;S;D;7;0;0;0;3;5;Hårt packad sandblandad jord. Mosstäcke. Vissa möjligheter för grävande insekter i körspår.
+1;2017;Trångsviken;20170720;rotryckning;4;2;Glasbjörk;S;D;0;24;0;0;3;5;se ovan
+1;2017;Trångsviken;20170720;rotryckning;4;2;Salix sp.;S;D;2;20;0;0;3;5;se ovan
+1;2017;Trångsviken;20170720;rotryckning;5;1;Glasbjörk;S;D;0;1;0;0;1;1;Jord med sandinblandning. Främst mosstäckt men grus/sand/jord i skärning.
+1;2017;Trångsviken;20170720;rotryckning;6;0;;;;0;0;0;0;1;0;Mest täckt av grässvål. Sand inblandat i jorden.
+1;2017;Mattmar;20170722;ytskrapning;1;1;Betula sp.;S;D;1;0;0;0;20;1;Grus-/sand-/jordblandad mark. Halvpackat, men poröst. Smulas lätt.
+1;2017;Mattmar;20170722;ytskrapning;2;0;;;;0;0;0;0;20;0;Grus-/sand-/jordblandad mark. Halvpackat, men poröst. Smulas lätt.
+1;2017;Mattmar;20170722;ytskrapning;3;0;;;;0;0;0;0;20;0;Grus-/sand-/jordblandad mark. Halvpackat, men poröst. Smulas lätt.
+1;2017;Mattmar;20170722;ytskrapning;4;0;;;;0;0;0;0;30;0;Grus-/sand-/jordblandad mark med större stenar. Små hak. Halvpackat, smulas relativt lätt.
+1;2017;Mattmar;20170722;ytskrapning;5;0;;;;0;0;0;0;30;0;Grus-/sand-/jordblandad mark med större stenar. Små hak. Halvpackat, smulas relativt lätt.
+1;2017;Mattmar;20170722;ytskrapning;6;0;;;;0;0;0;0;30;0;Grus-/sand-/jordblandad mark med större stenar. Små hak. Halvpackat, smulas relativt lätt.
+1;2017;Mattmar;20170722;rotryckning;1;1;Betula sp.;S;D;1;0;0;0;1;1;Inblandat i jorden. Täcks av mossor och tät grässvål.
+1;2017;Mattmar;20170722;rotryckning;2;1;Betula sp.;S;D;1;0;0;0;1;2;Inblandat i jorden. Täcks av mossor och fläckvis utbredd grässvål.
+1;2017;Mattmar;20170722;rotryckning;2;1;Glasbjörk;S;D;0;2;0;0;1;2;se ovan
+1;2017;Mattmar;20170722;rotryckning;3;1;Betula sp.;S;D;2;0;0;0;3;7;Inblandat i jord. Blottor genom gamla körspår.
+1;2017;Mattmar;20170722;rotryckning;3;1;Glasbjörk;S;D;0;10;0;0;3;7;se ovan
+1;2017;Mattmar;20170722;rotryckning;3;1;Salix sp.;S;D;0;0;0;0;3;7;se ovan
+1;2017;Mattmar;20170722;rotryckning;3;3;Vårtbjörk;S;D;0;0;0;0;3;7;se ovan
+1;2017;Mattmar;20170722;rotryckning;3;1;Tall;L;A;0;1;0;0;3;7;se ovan
+1;2017;Mattmar;20170722;rotryckning;4;1;Tall;S;D;0;1;0;0;2;5;Inblandat i jord. Blottor genom gamla körspår.
+1;2017;Mattmar;20170722;rotryckning;4;1;Glasbjörk;S;D;0;3;0;0;2;5;se ovan
+1;2017;Mattmar;20170722;rotryckning;4;1;Spirea sp.;S;D;0;2;0;0;2;5;se ovan
+1;2017;Mattmar;20170722;rotryckning;4;1;Betula sp.;S;D;2;0;0;0;2;5;se ovan
+1;2017;Mattmar;20170722;rotryckning;4;1;Vårtbjörk;S;D;0;2;0;0;2;5;se ovan
+1;2017;Mattmar;20170722;rotryckning;5;1;Betula sp.;L;A;0;1;0;0;2;6;Inblandat i jord. Blottor genom gamla körspår.
+1;2017;Mattmar;20170722;rotryckning;5;1;Betula sp.;S;D;2;0;0;0;2;6;se ovan
+1;2017;Mattmar;20170722;rotryckning;5;1;Glasbjörk;S;D;0;2;0;0;2;6;se ovan
+1;2017;Mattmar;20170722;rotryckning;5;1;Salix sp.;S;D;0;1;0;0;2;6;se ovan
+1;2017;Mattmar;20170722;rotryckning;5;2;Vårtbjörk;S;D;0;4;0;0;2;6;se ovan
+1;2017;Mattmar;20170722;rotryckning;6;1;Salix sp.;S;D;0;3;0;0;3;2;Ytligt liggande makadam med gott om sten- och jordblottor. Sandinblandning i den porösa jorden. Även grus.
+1;2017;Mattmar;20170722;rotryckning;6;1;Glasbjörk;S;D;0;6;0;0;3;2;se ovan
+1;2017;Avesta;20170704;Ytskrapning;1;5;Vårtbjörk;;;7;2;0;0;;10;
+1;2017;Avesta;20170704;Ytskrapning;1;5;Sälg;;;0;1;0;0;;10;
+1;2017;Avesta;20170704;Ytskrapning;2;20;Vårtbjörk;;;33;7;0;0;;40;
+1;2017;Avesta;20170704;Ytskrapning;2;20;Asp;;;0;2;0;0;;40;
+1;2017;Avesta;20170704;Ytskrapning;3;4;Vårtbjörk;;;0;2;0;0;;4;
+1;2017;Avesta;20170704;Ytskrapning;4;5;Jolster;;;0;1;0;0;;10;
+1;2017;Avesta;20170704;Ytskrapning;4;5;Vårtbjörk;;;6;4;0;0;;10;
+1;2017;Avesta;20170704;Ytskrapning;5;1;Tall;;;1;0;0;0;;2;
+1;2017;Avesta;20170704;Ytskrapning;5;1;Asp;;;1;0;0;0;;2;
+1;2017;Avesta;20170704;Ytskrapning;6;15;Sälg;;;0;1;0;0;;30;
+1;2017;Avesta;20170704;Ytskrapning;6;15;Vårtbjörk;;;1;2;0;0;;30;
+1;2017;Jularbo;20170705;Ytskrapning;1;2;Asp;;;1;1;0;0;;8;
+1;2017;Jularbo;20170705;Ytskrapning;1;2;Vårtbjörk;;;7;0;0;0;;8;
+1;2017;Jularbo;20170705;Ytskrapning;1;2;Gråal;;;1;0;0;0;;8;
+1;2017;Jularbo;20170705;Ytskrapning;1;2;Gråvide;;;0;1;0;0;;8;
+1;2017;Jularbo;20170705;Ytskrapning;2;1;Vårtbjörk;;;4;0;0;0;;2;
+1;2017;Jularbo;20170705;Ytskrapning;2;1;Asp;;;1;0;0;0;;2;
+1;2017;Jularbo;20170705;Ytskrapning;3;1;Vårtbjörk;;;2;0;0;0;;2;
+1;2017;Jularbo;20170705;Ytskrapning;3;1;Gråal;;;2;0;0;0;;2;
+1;2017;Jularbo;20170705;Ytskrapning;4;40;Gråal;;;40;9;4;1;;120;
+1;2017;Jularbo;20170705;Ytskrapning;4;40;Vårtbjörk;;;15;0;0;0;;120;
+1;2017;Jularbo;20170705;Ytskrapning;4;40;Tall;;;0;1;0;0;;120;
+1;2017;Jularbo;20170705;Ytskrapning;5;10;Gråal;;;1;0;0;0;;40;
+1;2017;Jularbo;20170705;Ytskrapning;5;10;Vårtbjörk;;;5;3;0;0;;40;
+1;2017;Jularbo;20170705;Ytskrapning;5;10;Asp;;;1;0;0;0;;40;
+1;2017;Jularbo;20170705;Ytskrapning;5;10;Tall;;;1;0;0;0;;40;
+1;2017;Jularbo;20170705;Ytskrapning;6;5;Vårtbjörk;;;1;4;0;0;;5;
+1;2017;Byvalla;20170707;Ytskrapning;1;0;;;;0;0;0;0;;4;
+1;2017;Byvalla;20170707;Ytskrapning;2;3;Tall;;;0;1;0;0;;11;
+1;2017;Byvalla;20170707;Ytskrapning;3;5;Tall;;;0;1;0;0;;11;
+1;2017;Byvalla;20170707;Ytskrapning;3;5;Asp;;;0;1;0;0;;11;
+1;2017;Byvalla;20170707;Ytskrapning;4;10;Glasbjörk;;;5;18;0;0;;38;
+1;2017;Byvalla;20170707;Ytskrapning;4;10;Tall;;;0;2;0;0;;38;
+1;2017;Byvalla;20170707;Ytskrapning;4;10;Gran;;;0;1;0;0;;38;
+1;2017;Byvalla;20170707;Ytskrapning;5;10;Gråal;;;0;1;0;0;;50;
+1;2017;Byvalla;20170707;Ytskrapning;5;10;Vårtbjörk;;;9;1;0;0;;50;
+1;2017;Byvalla;20170707;Ytskrapning;5;10;Glasbjörk;;;2;0;0;0;;50;
+1;2017;Byvalla;20170707;Ytskrapning;5;10;Tall;;;1;1;0;0;;50;
+1;2017;Byvalla;20170707;Ytskrapning;6;5;Tall;;;2;2;0;0;;11;
+1;2017;Byvalla;20170707;Ytskrapning;6;5;Asp;;;0;1;0;0;;11;
+1;2017;Byvalla;20170707;Ytskrapning;1;2;Vårtbjörk;;;2;1;0;0;;4;
+1;2017;Byvalla;20170707;Ytskrapning;1;2;Tall;;;0;1;0;0;;4;
+1;2017;Byvalla;20170707;Ytskrapning;2;4;Glasbjörk;;;2;8;0;0;;11;
+1;2017;Byvalla;20170707;Ytskrapning;2;4;Asp;;;0;1;0;0;;11;
+1;2017;Byvalla;20170707;Ytskrapning;3;1;Glasbjörk;;;1;0;0;0;;11;
+1;2017;Byvalla;20170707;Ytskrapning;4;4;Sälg;;;0;1;0;0;;38;
+1;2017;Byvalla;20170707;Ytskrapning;4;4;Hallon;;;0;3;0;0;;38;
+1;2017;Byvalla;20170707;Ytskrapning;5;5;Tall;;;0;0;1;0;;50;
+1;2017;Byvalla;20170707;Ytskrapning;5;5;Glasbjörk;;;2;9;0;0;;50;
+1;2017;Byvalla;20170707;Ytskrapning;6;1;Tall;;;0;1;0;0;;11;
+1;2017;Gustafs;20170710;Ytskrapning;1;20;Tall;;;0;2;4;0;;60;
+1;2017;Gustafs;20170710;Ytskrapning;1;20;Vårtbjörk;;;0;1;4;0;;60;
+1;2017;Gustafs;20170710;Ytskrapning;2;7;Tall;;;0;3;0;0;;174;
+1;2017;Gustafs;20170710;Ytskrapning;2;7;Vårtbjörk;;;0;1;1;0;;174;
+1;2017;Gustafs;20170710;Ytskrapning;3;5;Tall;;;1;0;0;0;;40;
+1;2017;Gustafs;20170710;Ytskrapning;3;5;Vårtbjörk;;;0;1;0;0;;40;
+1;2017;Gustafs;20170710;Ytskrapning;4;2;Vårtbjörk;;;0;1;0;0;;42;
+1;2017;Gustafs;20170710;Ytskrapning;5;2;Vårtbjörk;;;0;1;0;0;;204;
+1;2017;Gustafs;20170710;Ytskrapning;5;2;Tall;;;0;1;0;0;;204;
+1;2017;Gustafs;20170710;Ytskrapning;6;8;Tall;;;1;3;0;0;;31;
+1;2017;Gustafs;20170710;Ytskrapning;6;8;Vårtbjörk;;;0;2;0;0;;31;
+1;2017;Gustafs;20170710;Ytskrapning;1;10;Vårtbjörk;;;3;0;2;0;;60;
+1;2017;Gustafs;20170710;Ytskrapning;1;10;Tall;;;0;0;1;0;;60;
+1;2017;Gustafs;20170710;Ytskrapning;2;80;Vårtbjörk;;;3;16;4;0;;174;
+1;2017;Gustafs;20170710;Ytskrapning;2;80;Tall;;;0;1;0;0;;174;
+1;2017;Gustafs;20170710;Ytskrapning;3;15;Vårtbjörk;;;0;2;1;0;;40;
+1;2017;Gustafs;20170710;Ytskrapning;3;15;Tall;;;4;0;0;0;;40;
+1;2017;Gustafs;20170710;Ytskrapning;4;20;Vårtbjörk;;;0;10;0;0;;42;
+1;2017;Gustafs;20170710;Ytskrapning;4;20;Tall;;;1;0;0;0;;42;
+1;2017;Gustafs;20170710;Ytskrapning;5;100;Vårtbjörk;;;0;4;26;0;;204;
+1;2017;Gustafs;20170710;Ytskrapning;5;100;Tall;;;0;2;0;0;;204;
+1;2017;Gustafs;20170710;Ytskrapning;6;15;Vårtbjörk;;;0;7;0;0;;31;
+1;2017;Avesta;20170704;Rotryckning;1;15;Vårtbjörk;;;0;8;0;0;;15;
+1;2017;Avesta;20170704;Rotryckning;2;5;Vårtbjörk;;;0;7;0;0;;5;
+1;2017;Avesta;20170704;Rotryckning;3;10;Vårtbjörk;;;0;8;0;0;;10;
+1;2017;Avesta;20170704;Rotryckning;4;20;Vårtbjörk;;;0;2;1;1;;20;
+1;2017;Avesta;20170704;Rotryckning;5;15;Vårtbjörk;;;0;4;2;1;;15;
+1;2017;Avesta;20170704;Rotryckning;6;10;Vårtbjörk;;;0;3;0;0;;10;
+1;2017;Jularbo;20170704;Rotryckning;1;20;Asp;;;0;0;2;0;;40;
+1;2017;Jularbo;20170704;Rotryckning;1;20;Vårtbjörk;;;0;0;2;0;;40;
+1;2017;Jularbo;20170704;Rotryckning;2;5;Glasbjörk;;;0;2;0;0;;5;
+1;2017;Jularbo;20170704;Rotryckning;3;30;Glasbjörk;;;0;10;0;0;;60;
+1;2017;Jularbo;20170704;Rotryckning;3;30;Vårtbjörk;;;0;2;0;0;;60;
+1;2017;Jularbo;20170704;Rotryckning;4;2;Asp;;;0;4;0;0;;4;
+1;2017;Jularbo;20170704;Rotryckning;4;2;Vårtbjörk;;;0;4;0;0;;4;
+1;2017;Jularbo;20170704;Rotryckning;5;25;Vårtbjörk;;;0;4;1;0;;50;
+1;2017;Jularbo;20170704;Rotryckning;5;25;Glasbjörk;;;0;2;0;0;;50;
+1;2017;Jularbo;20170704;Rotryckning;6;2;Glasbjörk;;;4;0;0;0;;2;
+1;2017;Byvalla;20170706;Rotryckning;1;7;Vårtbjörk;;;0;15;0;0;;17;
+1;2017;Byvalla;20170706;Rotryckning;2;5;Vårtbjörk;;;0;7;0;0;;50;
+1;2017;Byvalla;20170706;Rotryckning;3;50;Glasbjörk;;;0;8;0;0;;220;
+1;2017;Byvalla;20170706;Rotryckning;3;50;Vårtbjörk;;;0;18;0;0;;220;
+1;2017;Byvalla;20170706;Rotryckning;4;40;Vårtbjörk;;;0;20;0;0;;180;
+1;2017;Byvalla;20170706;Rotryckning;4;40;Glasbjörk;;;0;9;0;0;;180;
+1;2017;Byvalla;20170706;Rotryckning;4;40;Asp;;;0;2;0;0;;180;
+1;2017;Byvalla;20170706;Rotryckning;5;50;Sälg;;;0;20;0;0;;165;
+1;2017;Byvalla;20170706;Rotryckning;5;50;Vårtbjörk;;;0;32;0;0;;165;
+1;2017;Byvalla;20170706;Rotryckning;5;50;Asp;;;0;1;0;0;;165;
+1;2017;Byvalla;20170706;Rotryckning;6;20;Glasbjörk;;;0;5;0;0;;45;
+1;2017;Byvalla;20170706;Rotryckning;6;20;Asp;;;0;3;0;0;;45;
+1;2017;Byvalla;20170706;Rotryckning;1;10;Asp;;;0;0;3;0;;17;
+1;2017;Byvalla;20170706;Rotryckning;2;15;Asp;;;0;1;2;0;;50;
+1;2017;Byvalla;20170706;Rotryckning;2;15;Glasbjörk;;;0;1;0;0;;50;
+1;2017;Byvalla;20170706;Rotryckning;2;15;Vårtbjörk;;;0;3;0;0;;50;
+1;2017;Byvalla;20170706;Rotryckning;3;60;Vårtbjörk;;;0;2;1;0;;220;
+1;2017;Byvalla;20170706;Rotryckning;3;60;Sälg;;;0;4;1;0;;220;
+1;2017;Byvalla;20170706;Rotryckning;4;30;Glasbjörk;;;0;0;1;0;;180;
+1;2017;Byvalla;20170706;Rotryckning;4;30;Asp;;;0;5;0;0;;180;
+1;2017;Byvalla;20170706;Rotryckning;5;15;Glasbjörk;;;0;0;1;0;;165;
+1;2017;Byvalla;20170706;Rotryckning;6;5;Sälg;;;0;2;0;0;;45;
+1;2017;Gustafs;20170710;Rotryckning;1;10;Tall;;;0;0;4;0;;40;
+1;2017;Gustafs;20170710;Rotryckning;2;10;Tall;;;0;0;1;0;;60;
+1;2017;Gustafs;20170710;Rotryckning;2;10;Vårtbjörk;;;0;0;0;0;;60;
+1;2017;Gustafs;20170710;Rotryckning;3;2;Vårtbjörk;;;0;1;0;0;;42;
+1;2017;Gustafs;20170710;Rotryckning;4;0;;;;0;0;0;0;;10;
+1;2017;Gustafs;20170710;Rotryckning;5;0;;;;0;0;0;0;;200;
+1;2017;Gustafs;20170710;Rotryckning;6;3;Nyponros;;;0;2;0;0;;3;
+1;2017;Gustafs;20170710;Rotryckning;1;15;Tall;;;0;2;0;0;;40;
+1;2017;Gustafs;20170710;Rotryckning;1;15;Vårtbjörk;;;0;0;2;0;;40;
+1;2017;Gustafs;20170710;Rotryckning;2;20;Tall;;;0;0;1;1;;60;
+1;2017;Gustafs;20170710;Rotryckning;2;20;Vårtbjörk;;;0;0;1;0;;60;
+1;2017;Gustafs;20170710;Rotryckning;3;20;Tall;;;0;0;0;1;;42;
+1;2017;Gustafs;20170710;Rotryckning;3;20;Vårtbjörk;;;0;0;3;0;;42;
+1;2017;Gustafs;20170710;Rotryckning;4;10;Tall;;;0;0;1;1;;10;
+1;2017;Gustafs;20170710;Rotryckning;5;100;Tall;;;0;0;1;1;;200;
+1;2017;Gustafs;20170710;Rotryckning;5;100;Vårtbjörk;;;0;0;3;0;;200;
+1;2017;Gustafs;20170711;Rotryckning;6;0;;;;0;0;0;0;;3;
+0;2016;Dagarn;20160815;rotryckning/slåtter;1;6;Björk sp.;S/L;;0;13;0;0;30;6;8 st i samma stubbe. Blomsterlupin strax utanför ytan
+0;2016;Dagarn;20160815;rotryckning/slåtter;2;1;Glasbjörk;S;D;0;4;0;0;30;2;
+0;2016;Dagarn;20160815;rotryckning/slåtter;2;1;Vårtbjörk;S;D;0;1;0;0;30;2;
+0;2016;Dagarn;20160815;rotryckning/slåtter;3;1;Gran;S;D;0;1;0;0;0;1;Rutan nära levande stubbe av björk
+0;2016;Dagarn;20160815;rotryckning/slåtter;4;5;Salix sp.;S/L;A;0;23;0;0;5;5;Varav 13 st i stubbe. Sand inblandat i jorden
+0;2016;Dagarn;20160815;rotryckning/slåtter;5;7;Hallon;S;D;7;14;0;0;0;23;
+0;2016;Dagarn;20160815;rotryckning/slåtter;5;1;Asp;S;D;1;1;0;0;0;23;
+0;2016;Dagarn;20160815;rotryckning/slåtter;5;15;Glasbjörk;S/L;A;3;28;0;0;0;23;24 i stubbe
+0;2016;Dagarn;20160815;rotryckning/slåtter;6;45;Glasbjörk;L;A;0;48;0;0;5;45;3 stubbar á 22, 12 och 12 stammar
+0;2016;Dala-Järna;20160818;rotryckning/slåtter;1;0;;;;0;0;0;0;30;0;Ingen vedartad vegetation.
+0;2016;Dala-Järna;20160818;rotryckning/slåtter;2;0;;;;0;0;0;0;60;0;Ingen vedartad vegetation. 
+0;2016;Dala-Järna;20160818;rotryckning/slåtter;3;0;;;;0;0;0;0;40;0;Ingen vedartad vegetation.
+0;2016;Dala-Järna;20160818;rotryckning/slåtter;4;1;Vårtbjörk;S/L;A;0;5;0;0;60;1;1 stubbe á 3 skott.
+0;2016;Dala-Järna;20160818;rotryckning/slåtter;5;0;;;;0;0;0;0;60;0;Ingen vedartad vegetation. 
+0;2016;Dala-Järna;20160818;rotryckning/slåtter;6;15;Vårtbjörk;S/L;A;29;46;0;0;50;15;1 stubbe á 8 skott. Mkt rikligt med kortklippta skott. 
+0;2016;Grängesberg;20160817;rotryckning;1;1;Salix sp.;S;;0;1;0;0;;1;Tjockt mosstäcke.
+0;2016;Grängesberg;20160817;rotryckning;2;0;;;;0;0;0;0;;0;Ingen vedartad vegetation i denna ruta. Förekommer 1,5 m bort. 
+0;2016;Grängesberg;20160817;rotryckning;3;0;;;;0;0;0;0;;0;Ingen vedartad vegetation.
+0;2016;Grängesberg;20160817;rotryckning;4;1;Salix sp.;S;;0;2;0;0;;2;
+0;2016;Grängesberg;20160817;rotryckning;4;1;Vårtbjörk;S;;0;1;0;0;;2;
+0;2016;Grängesberg;20160817;rotryckning;5;3;Asp;S;;0;5;0;0;;6;
+0;2016;Grängesberg;20160817;rotryckning;5;1;Glasbjörk;S;;0;3;0;0;;6;
+0;2016;Grängesberg;20160817;rotryckning;5;1;Salix sp.;S;;0;1;0;0;;6;
+0;2016;Grängesberg;20160817;rotryckning;5;1;Tall;S;;0;1;0;0;;6;
+0;2016;Grängesberg;20160817;rotryckning;6;2;Vårtbjörk;L;;0;8;0;0;;3;3 stubbar á 3, 2, 3 skott.
+0;2016;Grängesberg;20160817;rotryckning;6;1;Glasbjörk;S/L;;0;6;0;0;;3;1 stubbe á 3 skott
+0;2016;Kopparberg;20160817;rotryckning;1;1;Glasbjörk;S;;0;5;0;0;;1;
+0;2016;Kopparberg;20160817;rotryckning;2;1;Glasbjörk;S;;0;5;0;0;;5;
+0;2016;Kopparberg;20160817;rotryckning;2;1;Salix sp.;S;;0;2;0;0;;5;
+0;2016;Kopparberg;20160817;rotryckning;2;1;vedartad groddplanta;S;;0;1;0;0;;5;
+0;2016;Kopparberg;20160817;rotryckning;2;1;Tall;S;;0;1;0;0;;5;
+0;2016;Kopparberg;20160817;rotryckning;2;1;Vårtbjörk;S;;0;3;0;0;;5;
+0;2016;Kopparberg;20160817;rotryckning;3;1;Vårtbjörk;S/L;;0;4;0;0;;3;1 stubbe á 3 skott. 
+0;2016;Kopparberg;20160817;rotryckning;3;1;Glasbjörk;S;;1;9;0;0;;3;
+0;2016;Kopparberg;20160817;rotryckning;3;1;Tall;S;;1;0;0;0;;3;
+0;2016;Kopparberg;20160817;rotryckning;4;3;Glasbjörk;S;;0;28;0;0;;8;Mkt små skott av båda björkarna
+0;2016;Kopparberg;20160817;rotryckning;4;1;betula sp.;S;;0;1;0;0;;8;vedartad men mkt liten med ett litet blad
+0;2016;Kopparberg;20160817;rotryckning;4;1;Salix sp.;S;;0;1;0;0;;8;
+0;2016;Kopparberg;20160817;rotryckning;4;1;Tall;S;;1;1;0;0;;8;
+0;2016;Kopparberg;20160817;rotryckning;4;2;Vårtbjörk;S;;0;13;0;0;;8;Mkt små skott
+0;2016;Kopparberg;20160817;rotryckning;5;1;Vårtbjörk;S/L;;0;7;0;0;;5;1 stubbe á 3 skott. 
+0;2016;Kopparberg;20160817;rotryckning;5;4;Glasbjörk;S;;0;21;0;0;;5;
+0;2016;Kopparberg;20160817;rotryckning;6;1;Salix sp.;S;;0;1;0;0;;1;
+0;2016;Kopparberg;20160817;ytskrapning;1;0;;;;0;0;0;0;;0;Ingen vedartad vegetation. 
+0;2016;Kopparberg;20160817;ytskrapning;2;0;;;;0;0;0;0;;0;Ingen vedartad vegetation.
+0;2016;Kopparberg;20160817;ytskrapning;3;1;Björk sp.;S;;1;0;0;0;;1;Yttersta 15 cm av ytan slagen vid vägslåtter. 
+0;2016;Kopparberg;20160817;ytskrapning;4;1;Björk sp.;S/L;;2;6;0;0;;3;1 stubbe á 6 skott Kat 2. Mycket liten grodd och död stubbe.
+0;2016;Kopparberg;20160817;ytskrapning;4;1;Glasbjörk;S;;0;1;0;0;;3;
+0;2016;Kopparberg;20160817;ytskrapning;4;1;Salix sp.;S;;0;1;0;0;;3;
+0;2016;Kopparberg;20160817;ytskrapning;5;1;Salix sp.;S;;0;1;0;0;;1;
+0;2016;Kopparberg;20160817;ytskrapning;6;1;Glasbjörk;S;;1;0;0;0;;3;
+0;2016;Kopparberg;20160817;ytskrapning;6;1;Salix sp.;S;;0;1;0;0;;3;
+0;2016;Kopparberg;20160817;ytskrapning;6;1;vedartad groddplanta;S;;0;1;0;0;;3;
+0;2016;Krampen;20160815;rotryckning;1;2;Tall;S;;0;7;0;0;;2;Grässvål
+0;2016;Krampen;20160815;rotryckning;2;10;Glasbjörk;S;;0;17;0;0;;29;
+0;2016;Krampen;20160815;rotryckning;2;1;betula sp.;S;;0;2;0;0;;29;
+0;2016;Krampen;20160815;rotryckning;2;3;Tall;L;;0;5;0;0;;29;
+0;2016;Krampen;20160815;rotryckning;2;15;Vårtbjörk;L;;0;11;0;0;;29;3 stubbar á 3, 4, 4 skott
+0;2016;Krampen;20160815;rotryckning;3;10;Vårtbjörk;S/L;;0;8;0;0;;16;1 stubbe á 5 skott
+0;2016;Krampen;20160815;rotryckning;3;5;Glasbjörk;S;;2;12;0;0;;16;
+0;2016;Krampen;20160815;rotryckning;3;1;Tall;S;;0;1;0;0;;16;
+0;2016;Krampen;20160815;rotryckning;4;1;Glasbjörk;S;;2;1;0;0;;15;
+0;2016;Krampen;20160815;rotryckning;4;3;Asp;S;;0;1;0;0;;15;
+0;2016;Krampen;20160815;rotryckning;4;1;Tall;S;;1;3;0;0;;15;
+0;2016;Krampen;20160815;rotryckning;4;10;Vårtbjörk;S;;0;2;0;0;;15;
+0;2016;Krampen;20160816;rotryckning;5;15;Vårtbjörk;S/L;;0;6;0;0;;22;1 stubbe á 5 st
+0;2016;Krampen;20160816;rotryckning;5;5;Glasbjörk;S;;2;6;0;0;;22;
+0;2016;Krampen;20160816;rotryckning;5;1;vedartad groddplanta;S;;0;1;0;0;;22;
+0;2016;Krampen;20160816;rotryckning;5;1;Tall;S;;0;3;0;0;;22;
+0;2016;Krampen;20160816;rotryckning;6;8;Tall;S;;0;5;0;0;;8;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;1;1;Vårtbjörk;S;;0;1;0;0;;5;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;1;1;Glasbjörk;S;;0;1;0;0;;5;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;1;1;Salix sp.;S;;2;1;0;0;;5;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;1;1;Tall;S;;1;2;0;0;;5;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;1;1;vedartad groddplanta;S;;2;0;0;0;;5;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;2;5;vedartad groddplanta;S;;2;7;0;0;;9;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;2;2;Glasbjörk;S;;2;1;0;0;;9;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;2;1;Salix sp.;S;;1;0;0;0;;9;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;2;1;Tall;S;;0;1;0;0;;9;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;3;4;vedartad groddplanta;S;;0;7;0;0;;6;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;3;1;Salix sp.;S;;0;1;0;0;;6;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;3;1;Tall;S;;2;0;0;0;;6;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;4;1;Tall;S;;1;0;0;0;;5;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;4;1;Salix sp.;S;;0;3;0;0;;5;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;4;3;vedartad groddplanta;S;;1;5;0;0;;5;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;5;1;Tall;S;;1;2;0;0;;27;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;5;25;Asp;S;;0;17;0;0;;27;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;5;1;vedartad groddplanta;S;;3;0;0;0;;27;
+0;2016;Krampen;20160815;rotryckning/ytskrapning;6;1;Tall;S;;0;2;0;0;;1;
+0;2016;Mockfjärd;20160818;rotryckning/slåtter;1;0;;;;0;0;0;0;0;0;
+0;2016;Mockfjärd;20160818;rotryckning/slåtter;2;1;Hallon;S;D;0;2;0;0;10;1;
+0;2016;Mockfjärd;20160818;rotryckning/slåtter;3;0;;;;0;0;0;0;80;0;Ingen vedartad vegetation.
+0;2016;Mockfjärd;20160818;rotryckning/slåtter;4;0;;;;0;0;0;0;1;0;Ingen vedartad vegetation.
+0;2016;Mockfjärd;20160818;rotryckning/slåtter;5;0;;;;0;0;0;0;1;0;Ingen vedartad vegetation.
+0;2016;Mockfjärd;20160818;rotryckning/slåtter;6;1;Glasbjörk;S;D;0;2;0;0;0;2;
+0;2016;Mockfjärd;20160818;rotryckning/slåtter;6;1;vedartad groddplanta;S;D;0;1;0;0;0;2;
+0;2016;Repbäcken;20160818;rotryckning/slåtter;1;15;Hallon;S;D;0;14;0;0;0;15;
+0;2016;Repbäcken;20160818;rotryckning/slåtter;2;25;Hallon;S;D;0;34;0;0;0;25;
+0;2016;Repbäcken;20160818;rotryckning/slåtter;3;0;;;;0;0;0;0;55;0;
+0;2016;Repbäcken;20160818;rotryckning/slåtter;4;0;;;;0;0;0;0;95;0;
+0;2016;Repbäcken;20160818;rotryckning/slåtter;5;1;Tall;S;D;0;2;0;0;25;5;
+0;2016;Repbäcken;20160818;rotryckning/slåtter;5;2;Glasbjörk;S;D;1;10;0;0;25;5;
+0;2016;Repbäcken;20160818;rotryckning/slåtter;5;1;Salix sp.;S/L;A;0;8;0;0;25;5;1 stubbe á 7 skott.
+0;2016;Repbäcken;20160818;rotryckning/slåtter;5;1;Vårtbjörk;S;D;0;2;0;0;25;5;
+0;2016;Repbäcken;20160818;rotryckning/slåtter;6;3;Salix sp.;S/L;A;0;4;0;0;50;3;"1 stubbe á 2 skott. 3 ""popplar"". "
+0;2016;Repbäcken;20160818;ytskrapning/slåtter;1;1;Tall;S;D;1;0;0;0;70;1;
+0;2016;Repbäcken;20160818;ytskrapning/slåtter;2;0;;;;0;0;0;0;60;0;Ingen vedartad vegetation. 
+0;2016;Repbäcken;20160818;ytskrapning/slåtter;3;0;;;;0;0;0;0;45;0;Ingen vedartad vegetation. 
+0;2016;Repbäcken;20160818;ytskrapning/slåtter;4;0;;;;0;0;0;0;90;0;
+0;2016;Repbäcken;20160818;ytskrapning/slåtter;5;0;;;;0;0;0;0;50;0;
+0;2016;Repbäcken;20160818;ytskrapning/slåtter;6;0;;;;0;0;0;0;60;0;Grässvål och slipers
+0;2016;Ställdalen;20160623;rotryckning/slåtter;1;3;Asp;S;D;0;11;0;0;0;5;Södra sektionen
+0;2016;Ställdalen;20160623;rotryckning/slåtter;1;1;Salix sp.;S;D;0;4;0;0;0;5;
+0;2016;Ställdalen;20160623;rotryckning/slåtter;1;1;Vårtbjörk;S;D;2;1;0;0;0;5;
+0;2016;Ställdalen;20160816;rotryckning/slåtter;2;8;Vårtbjörk;S;D;0;6;0;0;0;9;I norr. Kanadensiskt gullris strax utanför ytan
+0;2016;Ställdalen;20160816;rotryckning/slåtter;2;1;Glasbjörk;S;D;0;2;0;0;0;9;
+0;2016;Ställdalen;20160816;rotryckning/slåtter;3;20;Vårtbjörk;S/L;A;0;41;0;0;6;22;I norr. 6 stubbar á 5, 4, 6, 2, 5, 4 skott.
+0;2016;Ställdalen;20160816;rotryckning/slåtter;3;1;Glasbjörk;S;D;2;4;0;0;6;22;
+0;2016;Ställdalen;20160816;rotryckning/slåtter;3;1;Salix sp.;S/L;A;0;5;0;0;6;22;4 st i stubbe
+0;2016;Ställdalen;20160816;rotryckning/slåtter;4;1;Asp;S;D;0;1;0;0;30;41;I nordväst på andra sidan av spåren.
+0;2016;Ställdalen;20160816;rotryckning/slåtter;4;30;Glasbjörk;S/L;A;0;29;1;0;30;41;3 stubbar á 3, 11, 10 skott
+0;2016;Ställdalen;20160816;rotryckning/slåtter;4;10;Salix sp.;S;D;3;11;0;0;30;41;
+0;2016;Ställdalen;20160816;rotryckning/slåtter;5;2;Vårtbjörk;S;D;0;3;0;0;4;3;I väster. 
+0;2016;Ställdalen;20160816;rotryckning/slåtter;5;1;Hallon;S;D;0;1;0;0;4;3;
+0;2016;Ställdalen;20160816;rotryckning/slåtter;6;1;Asp;S;D;0;1;0;0;45;3;I söder. 
+0;2016;Ställdalen;20160816;rotryckning/slåtter;6;1;Glasbjörk;S;D;0;2;0;0;45;3;
+0;2016;Ställdalen;20160816;rotryckning/slåtter;6;1;Salix sp.;S/L;A;0;5;0;0;45;3;1 stubbe á 2 skott
+0;2016;Vansbro;20160819;ytskrapning/slåtter;1;0;;;;0;0;0;0;45;0;
+0;2016;Vansbro;20160819;ytskrapning/slåtter;2;1;Tall;S;D;1;0;0;0;40;1;
+0;2016;Vansbro;20160819;ytskrapning/slåtter;3;0;;;;0;0;0;0;50;0;
+0;2016;Vansbro;20160819;ytskrapning/slåtter;4;0;;;;0;0;0;0;50;0;
+0;2016;Vansbro;20160819;ytskrapning/slåtter;5;0;;;;0;0;0;0;40;0;
+0;2016;Vansbro;20160819;ytskrapning/slåtter;6;1;Salix sp.;L;A;0;4;0;0;60;1;
+6;2022;Dagarn;20220608;rotryckning/slåtter;1;1;Björk sp.;;;0;4;0;0;0;1;
+6;2022;Dagarn;20220608;rotryckning/slåtter;2;1;Björk sp.;;;0;6;0;0;0;1;
+6;2022;Dagarn;20220608;rotryckning/slåtter;3;2;Gran;;;0;5;1;0;1;2;
+6;2022;Dagarn;20220609;rotryckning/slåtter;3;0;Hägg;S/L;A;0;1;0;0;1;2;
+6;2022;Dagarn;20220608;rotryckning/slåtter;3;0;Asp;S/L;A;0;1;0;0;1;2;
+6;2022;Dagarn;20220608;rotryckning/slåtter;4;1;Salix sp.;S/L;A;0;0;1;0;2;1;
+6;2022;Dagarn;20220608;rotryckning/slåtter;4;0;Asp;S/L;A;0;1;0;0;2;1;
+6;2022;Dagarn;20220608;rotryckning/slåtter;4;0;Gran;S/L;A;1;1;0;0;2;1;
+6;2022;Dagarn;20220608;rotryckning/slåtter;4;0;Ros;;;0;1;0;0;2;1;
+6;2022;Dagarn;20220608;rotryckning/slåtter;5;1,5;Hallon;;;0;1;0;0;1;1,5;
+6;2022;Dagarn;20220608;rotryckning/slåtter;5;0;Asp;S/L;A;0;1;0;0;1;1,5;
+6;2022;Dagarn;20220608;rotryckning/slåtter;5;0;Björk sp.;;;0;2;0;0;1;1,5;
+6;2022;Dagarn;20220608;rotryckning/slåtter;6;0;Gran;;;0;1;0;0;60;0;
+6;2022;Dagarn;20220609;rotryckning/slåtter;6;0;Björk sp.;;;0;1;0;0;60;0;
+6;2022;Dala-Järna;20220806;rotryckning/slåtter;1;0;Hallon;Stam lev.;A;2;0;0;0;1;0;
+6;2022;Dala-Järna;20220806;rotryckning/slåtter;2;0;Hallon;Stam lev.;A;1;0;0;0;1;0;
+6;2022;Dala-Järna;20220806;rotryckning/slåtter;3;0;;;;0;0;0;0;10;0;
+6;2022;Dala-Järna;20220806;rotryckning/slåtter;4;0;;;;0;0;0;0;1;0;
+6;2022;Dala-Järna;20220806;rotryckning/slåtter;5;0;;;;0;0;0;0;1;0;
+6;2022;Dala-Järna;20220806;rotryckning/slåtter;6;0;;;;0;0;0;0;1;0;
+6;2022;Grängesberg;20220731;rotryckning;1;0;;;;0;0;0;0;;0;
+6;2022;Grängesberg;20220731;rotryckning;2;0;;;;0;0;0;0;;0;
+6;2022;Grängesberg;20220731;rotryckning;3;0;;;;0;0;0;0;;0;
+6;2022;Grängesberg;20220731;rotryckning/slåtter;4;0;;;;0;0;0;0;;0;
+6;2022;Grängesberg;20220731;rotryckning/slåtter;5;0;;;;0;0;0;0;;0;
+6;2022;Grängesberg;20220731;rotryckning/slåtter;6;0;;;;0;0;0;0;;0;
+6;2022;Kopparberg;20220731;rotryckning;;0;;;;0;0;0;0;;0;
+6;2022;Kopparberg;20220731;ytskrapning;;0;;;;0;0;0;0;;0;
+6;2022;Krampen;20220608;rotryckning/slåtter;1;1;Tall;S/L;;0;1;0;0;;1;
+6;2022;Krampen;20220608;rotryckning/slåtter;1;0;Björk sp.;;;0;7;0;0;;1;
+6;2022;Krampen;20220608;rotryckning/slåtter;1;0;Asp;;;0;3;0;0;;1;
+6;2022;Krampen;20220718;rotryckning/slåtter;2;20;Björk sp.;Stubbe lev.;;1;12;0;0;;20;
+6;2022;Krampen;20220718;rotryckning/slåtter;2;0;Tall;Stubbe lev.;;0;1;0;0;;20;
+6;2022;Krampen;20220718;rotryckning/slåtter;3;10;Björk sp.;Stubbe lev.;;1;5;0;0;;10;
+6;2022;Krampen;20220718;rotryckning/slåtter;3;0;Asp;Stam lev;;0;1;0;0;;10;
+6;2022;Krampen;20220718;rotryckning/slåtter;4;5;Björk sp.;Stubbe lev.;;0;1;0;0;;5;
+6;2022;Krampen;20220718;rotryckning/slåtter;4;0;Björk sp.;Stam lev;;1;0;0;0;;5;
+6;2022;Krampen;20220718;rotryckning/slåtter;5;0;Björk sp.;Stubbe lev.;;0;23;0;0;;0;
+6;2022;Krampen;20220718;rotryckning/slåtter;5;0;Björk sp.;Stam;;1;0;0;0;;0;
+6;2022;Krampen;20220718;rotryckning/slåtter;5;0;Salix sp.;Stubbe lev.;;0;7;0;0;;0;
+6;2022;Krampen;20220718;rotryckning/slåtter;5;0;Tall;Stubbe lev.;;0;1;0;0;;0;
+6;2022;Krampen;20220718;rotryckning/slåtter;6;0;Björk sp.;Stubbe lev.;;0;11;0;0;;0;
+6;2022;Krampen;20220718;rotryckning/slåtter;6;0;Asp;Stubbe lev.;;0;8;0;0;;0;
+6;2022;Krampen;20220718;rotryckning/slåtter;6;0;Asp;Stam lev;;0;1;0;0;;0;
+6;2022;Krampen;20220608;ytskrapning/slåtter;1;2;Björk sp.;S/L;;47;8;0;0;;2;
+6;2022;Krampen;20220608;ytskrapning/slåtter;1;0;Asp;;;3;11;0;0;;2;
+6;2022;Krampen;20220608;ytskrapning/slåtter;1;0;Salix sp.;;;0;5;0;0;;2;
+6;2022;Krampen;20220608;ytskrapning/slåtter;2;1,5;Björk sp.;Stam lev.;;2;0;0;0;;1,5;
+6;2022;Krampen;20220608;ytskrapning/slåtter;2;0;Björk sp.;Stubbe lev.;;2;0;0;0;;1,5;
+6;2022;Krampen;20220608;ytskrapning/slåtter;3;2;Björk sp.;S/L;;0;41;0;0;;2;
+6;2022;Krampen;20220608;ytskrapning/slåtter;3;0;Asp;;;0;5;0;0;;2;
+6;2022;Krampen;20220608;ytskrapning/slåtter;4;5;Björk sp.;S/L;;23;79;0;0;;5;
+6;2022;Krampen;20220608;ytskrapning/slåtter;4;0;Asp;;;0;4;0;0;;5;
+6;2022;Krampen;20220608;ytskrapning/slåtter;4;0;Salix sp.;;;0;4;0;0;;5;
+6;2022;Krampen;20220608;ytskrapning/slåtter;5;5;Asp;S/L;;0;24;0;0;;5;
+6;2022;Krampen;20220608;ytskrapning/slåtter;5;0;Björk sp.;;;26;56;0;0;;5;
+6;2022;Krampen;20220718;ytskrapning/slåtter;6;15;Björk sp.;Stam lev.;;4;3;0;0;;15;
+6;2022;Krampen;20220718;ytskrapning/slåtter;6;0;Tall;Stubbe lev.;;0;1;0;0;;15;
+6;2022;Krampen;20220718;ytskrapning/slåtter;6;0;Tall;Stam lev;;0;2;0;0;;15;
+6;2022;Krampen;20220718;ytskrapning/slåtter;6;0;Salix sp.;Stubbe lev.;;0;2;0;0;;15;
+6;2022;Krampen;20220718;ytskrapning/slåtter;6;0;Salix sp.;Stam lev ;;0;1;0;0;;15;
+6;2022;Krampen;20220718;ytskrapning/slåtter;6;0;Asp;Stam lev;;0;6;0;0;;15;
+6;2022;Krampen;20220718;ytskrapning/slåtter;7;1;Björk sp.;Stam lev;;15;7;0;0;;1;
+6;2022;Krampen;20220718;ytskrapning/slåtter;7;0;Asp;Stam lev;;1;0;0;0;;1;
+6;2022;Krampen;20220718;ytskrapning/slåtter;7;0;Salix sp.;Stam lev;;1;0;0;0;;1;
+6;2022;Krampen;20220718;ytskrapning/slåtter;7;0;Tall;Stam lev;;8;2;0;0;;1;
+6;2022;Mockfjärd;20220803;rotryckning/slåtter;1;0;;;;0;0;0;0;10;0;
+6;2022;Mockfjärd;20220803;rotryckning/slåtter;2;0;;;;0;0;0;0;0;0;
+6;2022;Mockfjärd;20220803;rotryckning/slåtter;3;0;Björk sp.;Stubbe lev.;A;0;1;0;0;0;0;
+6;2022;Mockfjärd;20220803;rotryckning/slåtter;3;0;Salix sp.;Stubbe lev.;A;0;1;0;0;0;0;
+6;2022;Mockfjärd;20220803;rotryckning/slåtter;3;0;Hallon;Stam lev.;A;0;1;0;0;0;0;
+6;2022;Mockfjärd;20220803;rotryckning/slåtter;4;0;Björk sp.;Stam lev.;A;0;6;0;0;0;0;
+6;2022;Mockfjärd;20220803;rotryckning/slåtter;4;0;Björk sp.;Stubbe lev.;A;0;12;0;0;0;0;
+6;2022;Mockfjärd;20220803;rotryckning/slåtter;5;0;;;;0;0;0;0;0;0;
+6;2022;Mockfjärd;20220803;rotryckning/slåtter;6;1;Lönn;Stubbe lev.;A;0;1;0;0;0;1;
+6;2022;Repbäcken;20220806;rotryckning/slåtter;1;0;Asp;Stubbe lev.;A;0;3;0;0;1;0;
+6;2022;Repbäcken;20220806;rotryckning/slåtter;1;0;Asp;Stam lev.;A;0;1;0;0;1;0;
+6;2022;Repbäcken;20220806;rotryckning/slåtter;2;0;Björk sp.;Stam lev.;A;0;1;0;0;1;0;
+6;2022;Repbäcken;20220806;rotryckning/slåtter;2;0;Asp;Stubbe lev.;A;0;2;0;0;1;0;
+6;2022;Repbäcken;20220806;rotryckning/slåtter;2;0;Asp;Stam lev.;A;2;0;0;0;1;0;
+6;2022;Repbäcken;20220806;rotryckning/slåtter;3;0;;;;0;0;0;0;0;0;
+6;2022;Repbäcken;20220806;rotryckning/slåtter;4;0;;;;0;0;0;0;1;0;
+6;2022;Repbäcken;20220806;rotryckning/slåtter;5;0;;;;0;0;0;0;40;0;
+6;2022;Repbäcken;20220806;rotryckning/slåtter;6;0;;;;0;0;0;0;0;0;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;1;1;Björk sp.;Stam lev.;A;14;2;0;0;80;1;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;1;0;Björk sp.;Stubbe lev.;A;0;4;0;0;80;1;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;1;0;Tall;Stam lev.;A;1;1;0;0;80;1;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;1;0;Tall;Stubbe lev.;A;2;0;0;0;80;1;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;1;0;Salix sp.;Stam lev.;A;0;1;0;0;80;1;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;1;0;Asp;Stam lev.;A;0;1;0;0;80;1;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;2;0;Björk sp.;Stubbe lev.;A;0;1;0;0;80;0;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;3;0;Tall;Stam lev.;A;1;0;0;0;90;0;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;4;0;;;;0;0;0;0;95;0;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;5;0;;;;0;0;0;0;0;0;
+6;2022;Repbäcken;20220805;ytskrapning/slåtter;6;0;;;;0;0;0;0;1;0;
+6;2022;Ställdalen;20220731;rotryckning/slåtter;1;1;Björk sp.;Stam lev;A;0;1;0;0;0;1;
+6;2022;Ställdalen;20220731;rotryckning/slåtter;2;0;;;;0;0;0;0;30;0;
+6;2022;Ställdalen;20220731;rotryckning/slåtter;3;0;;;;0;0;0;0;20;0;
+6;2022;Ställdalen;20220731;rotryckning/slåtter;4;0;;;;0;0;0;0;0;0;
+6;2022;Ställdalen;20220731;rotryckning/slåtter;5;0;;;;0;0;0;0;0;0;
+6;2022;Ställdalen;20220731;rotryckning/slåtter;6;0;;;;0;0;0;0;50;0;
+6;2022;Vansbro;20220807;ytskrapning/slåtter;1;0;;;;0;0;0;0;0;0;
+6;2022;Vansbro;20220807;ytskrapning/slåtter;2;0;;;;0;0;0;0;1;0;
+6;2022;Vansbro;20220807;ytskrapning/slåtter;3;0;;;;0;0;0;0;10;0;
+6;2022;Vansbro;20220807;ytskrapning/slåtter;4;0;;;;0;0;0;0;20;0;
+6;2022;Vansbro;20220807;ytskrapning/slåtter;5;0;;;;0;0;0;0;15;0;
+6;2022;Vansbro;20220807;ytskrapning/slåtter;6;0;;;;0;0;0;0;50;0;
+6;2022;Gustavs;20220804;rotryckning;1;0;Björk sp.;Stubbe lev.;;0;1;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning;1;0;Björk sp.;Stam lev.;;1;3;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning;2;0;Björk sp.;Stubbe lev.;;0;3;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning;2;0;Björk sp.;Stam lev.;;6;10;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning;3;1;Björk sp.;Stam lev.;;1;1;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning;3;0;Tall;Stam lev.;;3;6;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning;4;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning;5;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning;6;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/slåtter;1;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/slåtter;2;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/slåtter;3;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/slåtter;4;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/slåtter;5;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/slåtter;6;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning;1;1;Björk sp.;Stubbe lev.;;0;1;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning;2;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning;3;1;Björk sp.;Stam lev.;;1;0;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning;3;0;Tall;Stam lev.;;1;2;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning;4;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning;5;0;Tall;Stam lev.;;3;1;0;0;;0;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning;6;0;Björk sp.;Stubbe lev.;;0;0;0;0;;0;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning;6;0;Björk sp.;Stam lev.;;6;2;0;0;;0;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning;6;0;Tall;Stubbe lev.;;0;2;0;0;;0;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning;6;0;Tall;Stam lev.;;11;0;0;0;;0;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning;6;0;Salix sp.;Stam lev.;;4;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;1;Björk sp.;Stubbe lev.;;0;1;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;0;Björk sp.;Stam lev.;;1;1;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;0;Tall;Stubbe lev.;;0;1;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;0;Tall;Stam lev.;;0;3;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;1;0;Lönn;Stam lev.;;0;1;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;2;0;;;;0;0;0;0;;0;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;3;1;Björk sp.;Stam lev.;;1;1;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;3;0;Tall;Stam lev.;;0;3;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;3;0;Tall;Stubbe lev.;;2;1;0;0;;1;
+6;2022;Gustavs;20220804;rotryckning/ytskrapning/slåtter;4;0;Tall;Stam lev.;;1;0;0;0;;0;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;10;Björk sp.;Stubbe lev.;;0;2;0;0;;10;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;0;Björk sp.;Stam lev.;;0;3;0;0;;10;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;0;Asp;Stubbe lev.;;0;1;0;0;;10;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;0;Asp;Stam lev. ;;0;1;0;0;;10;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;0;Tall;Stubbe lev.;;0;3;0;0;;10;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;5;0;Tall;Stam lev. ;;0;2;0;0;;10;
+6;2022;Gustavs;20220805;rotryckning/ytskrapning/slåtter;6;0;;;;0;0;0;0;;0;
+6;2022;Jularbo;20220802;rotryckning;1;1;Björk sp.;Stubbe lev.;;0;1;0;0;;21;
+6;2022;Jularbo;20220802;rotryckning;1;0;Asp;Stubbe lev.;;0;1;0;0;;21;
+6;2022;Jularbo;20220802;rotryckning;2;40;Svarta vinbär;Stubbe lev.;;0;7;0;0;;50;
+6;2022;Jularbo;20220802;rotryckning;3;0;;;;0;0;0;0;;0;
+6;2022;Jularbo;20220901;rotryckning;1;20;Björk sp.;Stubbe lev.;;0;1;0;0;;21;
+6;2022;Jularbo;20220901;rotryckning;1;0;Asp;Stam lev. ;;0;5;0;0;;21;
+6;2022;Jularbo;20220901;rotryckning;2;10;Björk sp.;Stubbe lev.;;0;2;0;0;;50;
+6;2022;Jularbo;20220901;rotryckning;3;0;;;;0;0;0;0;;0;
+6;2022;Jularbo;20220802;rotryckning/slåtter;4;0;;;;0;0;0;0;;0;
+6;2022;Jularbo;20220802;rotryckning/slåtter;5;0;;;;0;0;0;0;;15;
+6;2022;Jularbo;20220802;rotryckning/slåtter;6;10;Björk sp.;Stubbe lev.;;0;6;0;0;;20;
+6;2022;Jularbo;20220802;rotryckning/slåtter;6;0;Björk sp.;Stam lev.;;1;0;0;0;;20;
+6;2022;Jularbo;20220802;rotryckning/slåtter;6;0;Tall;Stubbe död;;0;1;0;0;;20;
+6;2022;Jularbo;20220901;rotryckning/slåtter;4;0;;;;0;0;0;0;;0;
+6;2022;Jularbo;20220901;rotryckning/slåtter;5;15;Björk sp.;Stubbe lev.;;0;0;1;0;;15;
+6;2022;Jularbo;20220902;rotryckning/slåtter;6;10;Björk sp.;Stubbe lev.;;0;8;1;0;;20;
+6;2022;Jularbo;20220902;rotryckning/slåtter;6;0;Björk sp.;Stam lev. ;;9;2;0;0;;20;
+6;2022;Jularbo;20220902;rotryckning/slåtter;6;0;Asp;Stam lev. ;;0;1;0;0;;20;
+6;2022;Jularbo;20220902;rotryckning/slåtter;6;0;Gran;Stam lev. ;;0;1;0;0;;20;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning;1;0;;;;0;0;0;0;;5;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning;2;0;Björk sp.;Stam lev. ;;1;1;0;0;;5;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning;3;50;Björk sp.;Stubbe lev.;;0;13;0;0;;60;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning;3;0;Gråal;Stubbe lev.;;0;4;0;0;;60;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning;3;0;Tall;Stubbe lev.;;0;1;0;0;;60;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning;3;0;Asp;Stubbe lev.;;0;2;0;0;;60;
+6;2022;Jularbo;20220901;rotryckning/ytskrapning;1;5;Björk sp.;Stubbe lev.;;0;3;0;0;;5;
+6;2022;Jularbo;20220901;rotryckning/ytskrapning;1;0;Asp;Stam lev. ;;0;1;0;0;;5;
+6;2022;Jularbo;20220901;rotryckning/ytskrapning;2;5;Salix sp.;Stubbe lev.;;0;1;0;0;;5;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning;3;10;Björk sp.;Stubbe lev.;;0;19;0;0;;60;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning;3;0;Björk sp.;Stam lev.;;63;10;0;0;;60;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning;3;0;Gråal;Stubbe lev.;;0;2;0;0;;60;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning;3;0;Gråal;Stam lev.;;0;1;0;0;;60;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning;3;0;Tall;Stubbe lev.;;0;2;0;0;;60;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning;3;0;Gran;Stam lev. ;;1;0;0;0;;60;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning;3;0;Asp;Stam lev.;;0;12;0;0;;60;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning;3;0;Salix sp.;Stam lev.;;2;3;0;0;;60;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;4;0;Salix sp.;Stubbe lev. ;;0;2;0;0;;0;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;5;50;Björk sp.;Stubbe lev. ;;0;2;0;0;;51;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;5;0;Gråal;Stubbe lev. ;;0;3;0;0;;51;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;6;30;Björk sp.;Stubbe lev. ;;0;29;0;0;;80;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;6;0;Björk sp.;Stam lev.;;0;3;0;0;;80;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;6;0;Gråal;Stubbe lev. ;;0;3;0;0;;80;
+6;2022;Jularbo;20220802;rotryckning/ytskrapning/slåtter;6;0;Asp;Stam lev.;;0;2;0;0;;80;
+6;2022;Jularbo;20220901;rotryckning/ytskrapning/slåtter;4;0;;;;0;0;0;0;;0;
+6;2022;Jularbo;20220901;rotryckning/ytskrapning/slåtter;5;1;Asp;Stam lev. ;;0;2;0;0;;51;
+6;2022;Jularbo;20220901;rotryckning/ytskrapning/slåtter;5;0;Salix sp.;Stubbe lev.;;0;1;0;0;;51;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;50;Björk sp.;Stubbe lev.;;0;34;1;0;;80;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;0;Björk sp.;Stam lev. ;;14;18;0;0;;80;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;0;Salix sp.;Stam lev. ;;17;0;0;0;;80;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;0;Tall;Stubbe lev.;;0;1;0;0;;80;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;0;Tall;Stam lev. ;;0;1;0;0;;80;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;0;Gråal;Stam lev.;;0;1;0;0;;80;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;0;Gran;Stam lev.;;0;1;0;0;;80;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;0;Asp;Stubbe lev.;;0;2;0;0;;80;
+6;2022;Jularbo;20220902;rotryckning/ytskrapning/slåtter;6;0;Asp;Stam lev. ;;0;5;0;0;;80;
+6;2022;Byvalla;20220831;rotryckning;1;50;Björk sp.;Stubbe lev.;;0;0;1;0;;50;
+6;2022;Byvalla;20220831;rotryckning;1;0;Björk sp.;Stam lev.;;0;2;0;0;;50;
+6;2022;Byvalla;20220831;rotryckning;1;0;Asp;Stubbe lev.;;0;6;0;0;;50;
+6;2022;Byvalla;20220831;rotryckning;1;0;Asp;Stam lev.;;2;21;0;0;;50;
+6;2022;Byvalla;20220831;rotryckning;1;0;Rönn;Stam lev.;;0;4;0;0;;50;
+6;2022;Byvalla;20220831;rotryckning;2;20;Björk sp.;Stubbe lev.;;0;6;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning;2;0;Björk sp.;Stam lev.;;2;2;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning;2;0;Asp;Stubbe lev.;;0;3;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning;2;0;Asp;Stam lev.;;0;5;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning;2;0;Hallon;Stam lev.;;1;0;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning;3;0;Asp;Stam lev.;;0;1;0;0;;0;
+6;2022;Byvalla;20220831;rotryckning;3;0;Hallon;Stam lev.;;6;0;0;0;;0;
+6;2022;Byvalla;20220831;rotryckning;3;0;Olvon;Stam lev.;;0;1;0;0;;0;
+6;2022;Byvalla;20220901;rotryckning;4;0;Björk sp.;Stubbe lev.;;0;2;0;0;;0;
+6;2022;Byvalla;20220901;rotryckning;5;0;Rönn;Stam lev.;;0;1;0;0;;0;
+6;2022;Byvalla;20220901;rotryckning;5;0;Hallon;Stam lev.;;4;0;0;0;;0;
+6;2022;Byvalla;20220719;rotryckning;6;15;Björk sp.;Stubbe lev.;;0;9;0;0;;15;
+6;2022;Byvalla;20220719;rotryckning;6;0;Björk sp.;Stam lev.;;0;1;0;0;;15;
+6;2022;Byvalla;20220719;rotryckning;6;0;Salix sp.;Stubbe lev.;;0;4;0;0;;15;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;30;Björk sp.;Stubbe lev;;0;11;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Björk sp.;Stam lev.;;2;1;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Asp;Stubbe lev;;0;2;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Asp;Stam lev.;;0;3;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Salix sp.;Stubbe lev.;;0;1;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Gran;Stubbe lev.;;0;1;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Gran;Stam lev.;;0;1;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Lönn;Stam lev.;;1;0;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Hallon;Stam lev.;;1;0;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Rönn;Stubbe lev.;;0;1;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;1;0;Tall;Stubbe lev.;;0;1;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/slåtter;2;20;Björk sp.;Stubbe död;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/slåtter;2;0;Björk sp.;Stubbe lev.;;0;6;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/slåtter;2;0;Björk sp.;Stam lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/slåtter;2;0;Asp;Stubbe lev.;;0;2;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/slåtter;2;0;Stenbär;Stam lev.;;1;0;0;0;;20;
+6;2022;Byvalla;20220901;rotryckning/slåtter;3;10;Björk sp.;Stubbe lev.;;0;9;0;0;;10;
+6;2022;Byvalla;20220901;rotryckning/slåtter;3;0;Björk sp.;Stam lev.;;2;2;0;0;;10;
+6;2022;Byvalla;20220901;rotryckning/slåtter;3;0;Salix sp.;Stubbe lev.;;0;1;0;0;;10;
+6;2022;Byvalla;20220901;rotryckning/slåtter;4;0;Björk sp.;Stubbe lev.;;0;3;0;0;;0;
+6;2022;Byvalla;20220719;rotryckning/slåtter;5;20;Björk sp.;Stubbe lev.;;0;11;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/slåtter;5;0;Salix sp.;Stubbe lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/slåtter;5;0;Asp;Stubbe lev.;;0;6;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/slåtter;6;30;Björk sp.;Stubbe lev.;;0;20;0;0;;30;
+6;2022;Byvalla;20220719;rotryckning/slåtter;6;0;Asp;Stam lev.;;0;9;0;0;;30;
+6;2022;Byvalla;20220719;rotryckning/slåtter;6;0;Asp;Stam lev.;;1;0;0;0;;30;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;1;20;Björk sp.;Stubbe lev.;;0;10;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;1;0;Björk sp.;Stam lev.;;1;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;1;0;Gran;Stam lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;1;0;Asp;Stam lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;1;0;Hallon;Stam lev.;;1;0;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;2;10;Björk sp.;Stubbe lev.;;0;14;0;0;;10;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;2;0;Björk sp.;Stam lev.;;0;1;0;0;;10;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;2;0;Salix sp.;Stam lev. ;;0;2;0;0;;10;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;2;0;Tall;Stubbe död;;0;1;0;0;;10;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;2;0;Tall;Stam lev.;;0;2;0;0;;10;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;2;0;Gran;Stam lev.;;0;2;0;0;;10;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;2;0;Hallon;Stam lev. ;;2;0;0;0;;10;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;3;20;Björk sp.;Stubbe lev.;;0;14;0;0;;20;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;3;0;Björk sp.;Stam lev. ;;0;1;0;0;;20;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;3;0;Hallon;Stam lev. ;;2;0;0;0;;20;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;3;0;Tall;Stubbe död;;0;2;0;0;;20;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;3;0;Gran;Stam lev. ;;0;1;0;0;;20;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;3;0;Lönn;Stam lev. ;;1;0;0;0;;20;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;4;30;Björk sp.;Stubbe lev.;;0;18;0;0;;30;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;4;0;Björk sp.;Stam lev. ;;1;1;0;0;;30;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;4;0;Asp;Stubbe lev.;;0;1;0;0;;30;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;4;0;Tall;Stam död;;0;1;0;0;;30;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;4;0;Tall;Stubbe lev. ;;0;1;0;0;;30;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning;4;0;Gran;Stam lev.;;2;0;0;0;;30;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning;5;5;Björk sp.;Stubbe lev.;;0;4;0;0;;5;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;5;0;Tall;Stubbe lev.;;0;2;0;0;;5;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning;6;5;Björk sp.;Stubbe lev.;;0;3;0;0;;5;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;20;Björk sp.;Stubbe lev.;;0;42;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Björk sp.;Stam lev. ;;8;10;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Asp;Stubbe lev.;;0;2;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Asp;Stam lev. ;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Salix sp.;Stubbe död;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Gran;Stubbe död;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Gran;Stubbe lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Gran;Stam lev. ;;5;0;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Tall;Stubbe död;;0;2;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Tall;Stubbe lev.;;0;2;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;1;0;Tall;Stam lev. ;;1;0;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;20;Björk sp.;Stubbe lev.;;0;31;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;0;Björk sp.;Stam lev. ;;10;14;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;0;Asp;Stubbe lev.;;0;2;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;0;Asp;Stam lev. ;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;0;Gran;Stam lev. ;;2;3;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;0;Tall;Stubbe död;;0;1;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;0;Tall;Stubbe lev.;;0;4;0;0;;20;
+6;2022;Byvalla;20220831;rotryckning/ytskrapning/slåtter;2;0;Salix sp.;Stam lev. ;;18;1;0;0;;20;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;5;Björk sp.;Stubbe lev.;;0;1;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;0;Björk sp.;Stam lev. ;;14;1;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;0;Asp;Stam lev.;;0;1;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;0;Tall;Stubbe lev.;;0;3;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;0;Tall;Stubbe död;;0;2;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;0;Gran;Stam lev.;;1;1;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;3;0;Salix sp.;Stam lev.;;5;0;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;5;Björk sp.;Stubbe lev.;;0;2;0;0;;5;
+6;2022;Byvalla;20220902;rotryckning/ytskrapning/slåtter;4;0;Björk sp.;Stam lev.;;2;1;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;0;Asp;Stam lev.;;0;1;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;0;Gran;Stam lev.;;0;2;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;0;Tall;Stam lev.;;0;1;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;0;Tall;Stubbe död;;0;1;0;0;;5;
+6;2022;Byvalla;20220901;rotryckning/ytskrapning/slåtter;4;0;Salix sp.;Stam lev.;;1;0;0;0;;5;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;15;Asp;Stubbe lev.;;0;1;0;0;;15;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;0;Asp;Stam lev.;;0;1;0;0;;15;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;0;Björk sp.;Stubbe lev.;;0;7;0;0;;15;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;0;Björk sp.;Stam lev.;;0;6;0;0;;15;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;0;Tall;Stubbe lev.;;0;2;0;0;;15;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;5;0;Tall;Stam lev.;;2;2;0;0;;15;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;20;Björk sp.;Stubbe lev.;;0;22;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;0;Asp;Stubbe lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;0;Asp;Stam lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;0;Tall;Stubbe lev.;;0;3;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;0;Tall;Stam lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;0;Salix sp.;Stubbe lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;0;Gran;Stubbe lev.;;0;1;0;0;;20;
+6;2022;Byvalla;20220719;rotryckning/ytskrapning/slåtter;6;0;Gran;Stam lev.;;0;3;0;0;;20;
+6;2022;Brunflo;20220626;rotryckning;1;0;;;;0;0;0;0;5;0;
+6;2022;Brunflo;20220626;rotryckning;2;0;;;;0;0;0;0;35;0;
+6;2022;Brunflo;20220626;rotryckning;3;0;;;;0;0;0;0;0;0;
+6;2022;Brunflo;20220626;rotryckning;4;0;;;;0;0;0;0;0;0;
+6;2022;Brunflo;20220626;rotryckning;5;0;;;;0;0;0;0;0;0;
+6;2022;Brunflo;20220626;rotryckning;6;0;;;;0;0;0;0;0;0;
+6;2022;Brunflo;20220626;ytskrapning;1;0;;;;0;0;0;0;25;0;
+6;2022;Brunflo;20220626;ytskrapning;2;0;;;;0;0;0;0;30;0;
+6;2022;Brunflo;20220626;ytskrapning;3;0;;;;0;0;0;0;35;0;
+6;2022;Brunflo;20220626;ytskrapning;4;0;;;;0;0;0;0;40;0;
+6;2022;Brunflo;20220626;ytskrapning;5;0;;;;0;0;0;0;40;0;
+6;2022;Brunflo;20220626;ytskrapning;6;0;;;;0;0;0;0;20;0;
+6;2022;Mattmar;20220628;rotryckning;1;1;Björk sp.;;;1;1;0;0;25;1;
+6;2022;Mattmar;20220628;rotryckning;2;0;;;;0;0;0;0;15;0;
+6;2022;Mattmar;20220628;rotryckning;3;0;;;;0;0;0;0;30;0;
+6;2022;Mattmar;20220628;rotryckning;4;0;;;;0;0;0;0;20;0;
+6;2022;Mattmar;20220628;rotryckning;5;0;;;;0;0;0;0;0;0;
+6;2022;Mattmar;20220628;rotryckning;6;2;Björk sp.;;;0;2;0;0;0;2;
+6;2022;Mattmar;20220628;rotryckning;6;0;Tall;;;0;3;0;0;0;2;
+6;2022;Mattmar;20220628;rotryckning;6;0;Salix sp.;;;0;1;0;0;0;2;
+6;2022;Mattmar;20220628;ytskrapning;1;0;;;;0;0;0;0;60;0;
+6;2022;Mattmar;20220628;ytskrapning;2;1;Tall;;;0;1;0;0;30;1;
+6;2022;Mattmar;20220628;ytskrapning;3;0;;;;0;0;0;0;30;0;
+6;2022;Mattmar;20220628;ytskrapning;4;0;;;;0;0;0;0;0;0;
+6;2022;Mattmar;20220628;ytskrapning;5;0;;;;0;0;0;0;10;0;
+6;2022;Mattmar;20220628;ytskrapning;6;0;;;;0;0;0;0;1;0;
+6;2022;Ope;20220622;rotryckning;1;0;;;;0;0;0;0;0;0;
+6;2022;Ope;20220622;rotryckning;2;0;;;;0;0;0;0;0;0;
+6;2022;Ope;20220622;rotryckning;3;0;;;;0;0;0;0;1;0;
+6;2022;Ope;20220622;rotryckning;4;0;;;;0;0;0;0;0;0;
+6;2022;Ope;20220622;rotryckning;5;0;;;;0;0;0;0;0;0;
+6;2022;Ope;20220622;rotryckning;6;0;;;;0;0;0;0;0;0;
+6;2022;Ope;20220622;ytskrapning;1;0;;;;0;0;0;0;10;0;
+6;2022;Ope;20220622;ytskrapning;2;0;;;;0;0;0;0;5;0;
+6;2022;Ope;20220622;ytskrapning;3;0;;;;0;0;0;0;10;0;
+6;2022;Ope;20220622;ytskrapning;4;0;;;;0;0;0;0;10;0;
+6;2022;Ope;20220622;ytskrapning;5;0;;;;0;0;0;0;1;0;
+6;2022;Ope;20220622;ytskrapning;6;0;;;;0;0;0;0;1;0;
+6;2022;Trångsviken;20220627;rotryckning;1;0;;;;0;0;0;0;5;0;
+6;2022;Trångsviken;20220627;rotryckning;2;0;;;;0;0;0;0;25;0;
+6;2022;Trångsviken;20220627;rotryckning;3;0;;;;0;0;0;0;15;0;
+6;2022;Trångsviken;20220627;rotryckning;4;0;;;;0;0;0;0;10;0;
+6;2022;Trångsviken;20220627;rotryckning;5;0;Björk sp.;;;0;7;0;0;0;0;
+6;2022;Trångsviken;20220627;rotryckning;6;0;Björk sp.;;;0;1;0;0;1;0;
+6;2022;Trångsviken;20220627;rotryckning;6;0;Salix sp.;;;0;5;0;0;1;0;
+6;2022;Trångsviken;20220627;ytskrapning;1;0;;;;0;0;0;0;0;0;
+6;2022;Trångsviken;20220627;ytskrapning;2;0;;;;0;0;0;0;20;0;
+6;2022;Trångsviken;20220627;ytskrapning;3;0;Björk sp.;;;0;3;0;0;30;0;
+6;2022;Trångsviken;20220627;ytskrapning;4;0;;;;0;0;0;0;20;0;
+6;2022;Trångsviken;20220627;ytskrapning;5;0;Björk sp.;;;0;1;0;0;30;0;
+6;2022;Trångsviken;20220627;ytskrapning;6;0;;;;0;0;0;0;25;0;
