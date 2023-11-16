@@ -1,0 +1,193 @@
+Station;Pairnr;Treatment;Beta.type;value
+Mo Grindar;1;Control;beta.sim;0,25
+Mo Grindar;1;Milled;beta.sim;1
+Mo Grindar;3;Control;beta.sim;0
+Mo Grindar;3;Milled;beta.sim;0
+Mo Grindar;4;Control;beta.sim;0
+Mo Grindar;4;Milled;beta.sim;NA
+Mo Grindar;5;Control;beta.sim;0
+Mo Grindar;5;Milled;beta.sim;NA
+Mo Grindar;6;Control;beta.sim;0
+Mo Grindar;6;Milled;beta.sim;NA
+Mo Grindar;7;Control;beta.sim;0,5
+Mo Grindar;7;Milled;beta.sim;0,5
+Mo Grindar;8;Control;beta.sim;0,6
+Mo Grindar;8;Milled;beta.sim;1
+Mo Grindar;9;Control;beta.sim;0,5
+Mo Grindar;9;Milled;beta.sim;0,333333333
+Norra Valbo;1;Control;beta.sim;0,454545455
+Norra Valbo;1;Milled;beta.sim;0,555555556
+Norra Valbo;3;Control;beta.sim;0,636363636
+Norra Valbo;3;Milled;beta.sim;0,444444444
+Norra Valbo;4;Control;beta.sim;0,25
+Norra Valbo;4;Milled;beta.sim;0,444444444
+Norra Valbo;5;Control;beta.sim;0,363636364
+Norra Valbo;5;Milled;beta.sim;0,727272727
+Norra Valbo;6;Control;beta.sim;0,4375
+Norra Valbo;6;Milled;beta.sim;0,545454545
+Norra Valbo;7;Control;beta.sim;0,083333333
+Norra Valbo;7;Milled;beta.sim;0,3
+Norra Valbo;8;Control;beta.sim;0,454545455
+Norra Valbo;8;Milled;beta.sim;0,555555556
+Norra Valbo;9;Control;beta.sim;0,8
+Norra Valbo;9;Milled;beta.sim;0,636363636
+Storvik;1;Control;beta.sim;0,333333333
+Storvik;1;Milled;beta.sim;0,285714286
+Storvik;3;Control;beta.sim;0,666666667
+Storvik;3;Milled;beta.sim;0,166666667
+Storvik;4;Control;beta.sim;0,4
+Storvik;4;Milled;beta.sim;0,25
+Storvik;5;Control;beta.sim;0,333333333
+Storvik;5;Milled;beta.sim;0,428571429
+Storvik;6;Control;beta.sim;0,142857143
+Storvik;6;Milled;beta.sim;0,333333333
+Storvik;7;Control;beta.sim;0,5
+Storvik;7;Milled;beta.sim;0,5
+Storvik;8;Control;beta.sim;0,285714286
+Storvik;8;Milled;beta.sim;0,5
+Storvik;9;Control;beta.sim;0,2
+Storvik;9;Milled;beta.sim;0,142857143
+Tallåsen;1;Control;beta.sim;0,666666667
+Tallåsen;1;Milled;beta.sim;NA
+Tallåsen;3;Control;beta.sim;0,5
+Tallåsen;3;Milled;beta.sim;NA
+Tallåsen;4;Control;beta.sim;0,5
+Tallåsen;4;Milled;beta.sim;0,5
+Tallåsen;5;Control;beta.sim;0,5
+Tallåsen;5;Milled;beta.sim;1
+Tallåsen;6;Control;beta.sim;0
+Tallåsen;6;Milled;beta.sim;1
+Tallåsen;7;Control;beta.sim;0
+Tallåsen;7;Milled;beta.sim;0,5
+Tallåsen;8;Control;beta.sim;0,333333333
+Tallåsen;8;Milled;beta.sim;1
+Tallåsen;9;Control;beta.sim;0,2
+Tallåsen;9;Milled;beta.sim;0,8
+Mo Grindar;1;Control;beta.sne;0
+Mo Grindar;1;Milled;beta.sne;0
+Mo Grindar;3;Control;beta.sne;0
+Mo Grindar;3;Milled;beta.sne;0,8
+Mo Grindar;4;Control;beta.sne;0
+Mo Grindar;4;Milled;beta.sne;NA
+Mo Grindar;5;Control;beta.sne;0,5
+Mo Grindar;5;Milled;beta.sne;NA
+Mo Grindar;6;Control;beta.sne;0,428571429
+Mo Grindar;6;Milled;beta.sne;NA
+Mo Grindar;7;Control;beta.sne;0,166666667
+Mo Grindar;7;Milled;beta.sne;0
+Mo Grindar;8;Control;beta.sne;0,036363636
+Mo Grindar;8;Milled;beta.sne;0
+Mo Grindar;9;Control;beta.sne;0
+Mo Grindar;9;Milled;beta.sne;0,095238095
+Norra Valbo;1;Control;beta.sne;0
+Norra Valbo;1;Milled;beta.sne;0
+Norra Valbo;3;Control;beta.sne;0,015810277
+Norra Valbo;3;Milled;beta.sne;0,029239766
+Norra Valbo;4;Control;beta.sne;0,178571429
+Norra Valbo;4;Milled;beta.sne;0,101010101
+Norra Valbo;5;Control;beta.sne;0,153605016
+Norra Valbo;5;Milled;beta.sne;0,022727273
+Norra Valbo;6;Control;beta.sne;0
+Norra Valbo;6;Milled;beta.sne;0,084175084
+Norra Valbo;7;Control;beta.sne;0,130952381
+Norra Valbo;7;Milled;beta.sne;0,063636364
+Norra Valbo;8;Control;beta.sne;0,023715415
+Norra Valbo;8;Milled;beta.sne;0,080808081
+Norra Valbo;9;Control;beta.sne;0,104761905
+Norra Valbo;9;Milled;beta.sne;0,03030303
+Storvik;1;Control;beta.sne;0
+Storvik;1;Milled;beta.sne;0,089285714
+Storvik;3;Control;beta.sne;0
+Storvik;3;Milled;beta.sne;0,208333333
+Storvik;4;Control;beta.sne;0,054545455
+Storvik;4;Milled;beta.sne;0,083333333
+Storvik;5;Control;beta.sne;0,166666667
+Storvik;5;Milled;beta.sne;0,038095238
+Storvik;6;Control;beta.sne;0,151260504
+Storvik;6;Milled;beta.sne;0,051282051
+Storvik;7;Control;beta.sne;0,071428571
+Storvik;7;Milled;beta.sne;0,136363636
+Storvik;8;Control;beta.sne;0,047619048
+Storvik;8;Milled;beta.sne;0,166666667
+Storvik;9;Control;beta.sne;0,072727273
+Storvik;9;Milled;beta.sne;0,107142857
+Tallåsen;1;Control;beta.sne;0
+Tallåsen;1;Milled;beta.sne;NA
+Tallåsen;3;Control;beta.sne;0,1
+Tallåsen;3;Milled;beta.sne;NA
+Tallåsen;4;Control;beta.sne;0,1
+Tallåsen;4;Milled;beta.sne;0,214285714
+Tallåsen;5;Control;beta.sne;0,1
+Tallåsen;5;Milled;beta.sne;0
+Tallåsen;6;Control;beta.sne;0,6
+Tallåsen;6;Milled;beta.sne;0
+Tallåsen;7;Control;beta.sne;0,5
+Tallåsen;7;Milled;beta.sne;0,277777778
+Tallåsen;8;Control;beta.sne;0,051282051
+Tallåsen;8;Milled;beta.sne;0
+Tallåsen;9;Control;beta.sne;0,228571429
+Tallåsen;9;Milled;beta.sne;0,057142857
+Mo Grindar;1;Control;beta.sor;0,25
+Mo Grindar;1;Milled;beta.sor;1
+Mo Grindar;3;Control;beta.sor;0
+Mo Grindar;3;Milled;beta.sor;0,8
+Mo Grindar;4;Control;beta.sor;0
+Mo Grindar;4;Milled;beta.sor;
+Mo Grindar;5;Control;beta.sor;0,5
+Mo Grindar;5;Milled;beta.sor;
+Mo Grindar;6;Control;beta.sor;0,428571429
+Mo Grindar;6;Milled;beta.sor;
+Mo Grindar;7;Control;beta.sor;0,666666667
+Mo Grindar;7;Milled;beta.sor;0,5
+Mo Grindar;8;Control;beta.sor;0,636363636
+Mo Grindar;8;Milled;beta.sor;1
+Mo Grindar;9;Control;beta.sor;0,5
+Mo Grindar;9;Milled;beta.sor;0,428571429
+Norra Valbo;1;Control;beta.sor;0,454545455
+Norra Valbo;1;Milled;beta.sor;0,555555556
+Norra Valbo;3;Control;beta.sor;0,652173913
+Norra Valbo;3;Milled;beta.sor;0,473684211
+Norra Valbo;4;Control;beta.sor;0,428571429
+Norra Valbo;4;Milled;beta.sor;0,545454545
+Norra Valbo;5;Control;beta.sor;0,517241379
+Norra Valbo;5;Milled;beta.sor;0,75
+Norra Valbo;6;Control;beta.sor;0,4375
+Norra Valbo;6;Milled;beta.sor;0,62962963
+Norra Valbo;7;Control;beta.sor;0,214285714
+Norra Valbo;7;Milled;beta.sor;0,363636364
+Norra Valbo;8;Control;beta.sor;0,47826087
+Norra Valbo;8;Milled;beta.sor;0,636363636
+Norra Valbo;9;Control;beta.sor;0,904761905
+Norra Valbo;9;Milled;beta.sor;0,666666667
+Storvik;1;Control;beta.sor;0,333333333
+Storvik;1;Milled;beta.sor;0,375
+Storvik;3;Control;beta.sor;0,666666667
+Storvik;3;Milled;beta.sor;0,375
+Storvik;4;Control;beta.sor;0,454545455
+Storvik;4;Milled;beta.sor;0,333333333
+Storvik;5;Control;beta.sor;0,5
+Storvik;5;Milled;beta.sor;0,466666667
+Storvik;6;Control;beta.sor;0,294117647
+Storvik;6;Milled;beta.sor;0,384615385
+Storvik;7;Control;beta.sor;0,571428571
+Storvik;7;Milled;beta.sor;0,636363636
+Storvik;8;Control;beta.sor;0,333333333
+Storvik;8;Milled;beta.sor;0,666666667
+Storvik;9;Control;beta.sor;0,272727273
+Storvik;9;Milled;beta.sor;0,25
+Tallåsen;1;Control;beta.sor;0,666666667
+Tallåsen;1;Milled;beta.sor;
+Tallåsen;3;Control;beta.sor;0,6
+Tallåsen;3;Milled;beta.sor;
+Tallåsen;4;Control;beta.sor;0,6
+Tallåsen;4;Milled;beta.sor;0,714285714
+Tallåsen;5;Control;beta.sor;0,6
+Tallåsen;5;Milled;beta.sor;1
+Tallåsen;6;Control;beta.sor;0,6
+Tallåsen;6;Milled;beta.sor;1
+Tallåsen;7;Control;beta.sor;0,5
+Tallåsen;7;Milled;beta.sor;0,777777778
+Tallåsen;8;Control;beta.sor;0,384615385
+Tallåsen;8;Milled;beta.sor;1
+Tallåsen;9;Control;beta.sor;0,428571429
+Tallåsen;9;Milled;beta.sor;0,857142857

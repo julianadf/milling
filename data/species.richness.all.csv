@@ -1,0 +1,129 @@
+Year;Station;Pairnr;Treatment;Vegetation.height;Litter.depth;Bare.soil;Rock;Grass;Area.for.growth.m2;rich
+Year 1;Mo Grindar;1;Control;0;1,5;0;1;1;0,24;4
+Year 1;Mo Grindar;1;Milled;0;0;24;1;0;0,24;1
+Year 1;Mo Grindar;3;Control;20;3;0;0;0;0,25;1
+Year 1;Mo Grindar;3;Milled;0;0;10;15;0;0,1;1
+Year 1;Mo Grindar;4;Control;35;2;0;0;0;0,25;1
+Year 1;Mo Grindar;4;Milled;0;0;21;4;0;0,21;0
+Year 1;Mo Grindar;5;Control;20;1;0;0;0;0,25;3
+Year 1;Mo Grindar;5;Milled;0;0;21;4;0;0,21;0
+Year 1;Mo Grindar;6;Control;0;0,5;4;6;1;0,19;5
+Year 1;Mo Grindar;6;Milled;0;0;22;3;0;0,22;0
+Year 1;Mo Grindar;7;Control;7,5;0;6;0;0;0,25;2
+Year 1;Mo Grindar;7;Milled;0;0;8;17;0;0,08;2
+Year 1;Mo Grindar;8;Control;10;0,5;0;8;0;0,17;5
+Year 1;Mo Grindar;8;Milled;0;0;22;3;0;0,22;1
+Year 1;Mo Grindar;9;Control;10;2;0;10;0;0,15;3
+Year 1;Mo Grindar;9;Milled;0;0;8;17;0;0,08;3
+Year 1;Norra Valbo;1;Control;0;0;0;2;5;0,23;11
+Year 1;Norra Valbo;1;Milled;0;0;21;4;0;0,21;9
+Year 1;Norra Valbo;3;Control;0;0;1;2;1;0,23;12
+Year 1;Norra Valbo;3;Milled;0;0;22;3;0;0,22;9
+Year 1;Norra Valbo;4;Control;2,5;0,5;0;0;3;0,25;13
+Year 1;Norra Valbo;4;Milled;0;0;25;0;0;0,25;9
+Year 1;Norra Valbo;5;Control;2,5;0;0;1;0;0,24;18
+Year 1;Norra Valbo;5;Milled;0;0;23;2;0;0,23;11
+Year 1;Norra Valbo;6;Control;1;0;0;5;3;0,2;16
+Year 1;Norra Valbo;6;Milled;0;0;18;7;0;0,18;11
+Year 1;Norra Valbo;7;Control;1;0;0;2;0;0,23;16
+Year 1;Norra Valbo;7;Milled;0;0;24;1;0;0,24;10
+Year 1;Norra Valbo;8;Control;1,5;0;1;3;5;0,22;11
+Year 1;Norra Valbo;8;Milled;0;0;23;2;0;0,23;9
+Year 1;Norra Valbo;9;Control;0;0;0;2;0;0,23;16
+Year 1;Norra Valbo;9;Milled;0;0;23;2;0;0,23;13
+Year 1;Storvik;1;Control;10;0,5;0;0;0;0,25;6
+Year 1;Storvik;1;Milled;0;0;24;1;1;0,24;9
+Year 1;Storvik;3;Control;0;0;0;0;1;0,25;9
+Year 1;Storvik;3;Milled;0;0;1;24;1;0,01;11
+Year 1;Storvik;4;Control;2,5;2;0;0;1;0,25;5
+Year 1;Storvik;4;Milled;0;0;24;1;0;0,24;5
+Year 1;Storvik;5;Control;0;1;0;0;3;0,25;3
+Year 1;Storvik;5;Milled;0;0;21;4;0;0,21;8
+Year 1;Storvik;6;Control;5;1;0;0;2;0,25;7
+Year 1;Storvik;6;Milled;0;0;10;6;1;0,19;7
+Year 1;Storvik;7;Control;0;0,5;1;5;0;0,2;6
+Year 1;Storvik;7;Milled;0;0;11;14;0;0,11;7
+Year 1;Storvik;8;Control;1;1;1;4;0;0,21;7
+Year 1;Storvik;8;Milled;0;0;18;7;0;0,18;4
+Year 1;Storvik;9;Control;7,5;2;0;0;0;0,25;5
+Year 1;Storvik;9;Milled;0;0;18;7;0;0,18;7
+Year 1;Tallåsen;1;Control;5;3;0;0;0;0,25;3
+Year 1;Tallåsen;1;Milled;0;0;24;1;0;0,24;0
+Year 1;Tallåsen;3;Control;0;0,5;3;1;0;0,24;2
+Year 1;Tallåsen;3;Milled;0;0;24;1;0;0,24;0
+Year 1;Tallåsen;4;Control;2,5;1;0;0;0;0,25;3
+Year 1;Tallåsen;4;Milled;0;0;20;5;0;0,2;2
+Year 1;Tallåsen;5;Control;2,5;0;2;1;0;0,24;2
+Year 1;Tallåsen;5;Milled;0;0;14;11;0;0,14;2
+Year 1;Tallåsen;6;Control;0;0;2;12;;0,13;1
+Year 1;Tallåsen;6;Milled;0;0;8;17;0;0,08;1
+Year 1;Tallåsen;7;Control;0;0;8;8;0;0,17;1
+Year 1;Tallåsen;7;Milled;0;0;4;21;0;0,04;2
+Year 1;Tallåsen;8;Control;5;2;0;0;0;0,25;7
+Year 1;Tallåsen;8;Milled;0;0;12;13;0;0,12;4
+Year 1;Tallåsen;9;Control;5;1,5;2;0;0;0,25;9
+Year 1;Tallåsen;9;Milled;0;0;15;10;0;0,15;5
+Year 2;Mo Grindar;1;Control;1;0,5;0;2;0;0,23;4
+Year 2;Mo Grindar;1;Milled;1;0;22;1;2;0,24;4
+Year 2;Mo Grindar;3;Control;0;1;0;4;P;0,21;1
+Year 2;Mo Grindar;3;Milled;0;0;13;7;1;0,18;9
+Year 2;Mo Grindar;4;Control;10;2,5;0;3;0;0,22;1
+Year 2;Mo Grindar;4;Milled;5;0;9;9;4;0,16;4
+Year 2;Mo Grindar;5;Control;15;1;0;0;0;0,25;1
+Year 2;Mo Grindar;5;Milled;0;0;13;3;6;0,22;6
+Year 2;Mo Grindar;6;Control;10;1,5;3;6;0;0,19;2
+Year 2;Mo Grindar;6;Milled;0;0;25;2;0;0,23;6
+Year 2;Mo Grindar;7;Control;15;1,5;0;1;0;0,24;4
+Year 2;Mo Grindar;7;Milled;2,5;0;19;2;0;0,23;2
+Year 2;Mo Grindar;8;Control;1,5;0,5;5;5;2;0,2;6
+Year 2;Mo Grindar;8;Milled;0;0;24;2;1;0,23;6
+Year 2;Mo Grindar;9;Control;5;2;0;6;0;0,19;2
+Year 2;Mo Grindar;9;Milled;0;0;25;0;0;0,25;4
+Year 2;Norra Valbo;1;Control;2,5;1;0;0;0;0,25;11
+Year 2;Norra Valbo;1;Milled;2,5;0;19;2;0;0,23;9
+Year 2;Norra Valbo;3;Control;0;0,5;2;3;4;0,22;11
+Year 2;Norra Valbo;3;Milled;0;0,5;8;0;1;0,25;11
+Year 2;Norra Valbo;4;Control;10;2;0;0;0;0,25;8
+Year 2;Norra Valbo;4;Milled;2,5;0,5;0;0;0;0,25;13
+Year 2;Norra Valbo;5;Control;20;1,5;0;1;0;0,24;11
+Year 2;Norra Valbo;5;Milled;0;0;25;3;0;0,22;13
+Year 2;Norra Valbo;6;Control;7,5;0,5;0;1;0;0,24;16
+Year 2;Norra Valbo;6;Milled;2,5;0;13;5;0;0,2;16
+Year 2;Norra Valbo;7;Control;10;1;0;1;1;0,24;12
+Year 2;Norra Valbo;7;Milled;0;0;22;9;0;0,16;12
+Year 2;Norra Valbo;8;Control;5;0,5;0;2;0;0,23;12
+Year 2;Norra Valbo;8;Milled;1;0;11;11;1;0,14;13
+Year 2;Norra Valbo;9;Control;10;2,5;1;1;3;0,24;5
+Year 2;Norra Valbo;9;Milled;5;0,5;6;3;2;0,22;11
+Year 2;Storvik;1;Control;7,5;1;0;0;0;0,25;6
+Year 2;Storvik;1;Milled;5;0,5;0;2;0;0,23;7
+Year 2;Storvik;3;Control;40;0,5;0;0;0;0,25;9
+Year 2;Storvik;3;Milled;5;1;0;0;19;0,25;6
+Year 2;Storvik;4;Control;30;0,5;0;3;0;0,22;6
+Year 2;Storvik;4;Milled;0;0;19;4;0;0,21;4
+Year 2;Storvik;5;Control;1;0,5;0;0;21;0,25;5
+Year 2;Storvik;5;Milled;0;0;20;10;0;0,15;7
+Year 2;Storvik;6;Control;10;1;0;0;7;0,25;10
+Year 2;Storvik;6;Milled;1,5;0;15;0;9;0,25;6
+Year 2;Storvik;7;Control;1;0;9;7;1;0,18;8
+Year 2;Storvik;7;Milled;0;0;22;10;6;0,15;4
+Year 2;Storvik;8;Control;2,5;0,5;0;6;0;0,19;8
+Year 2;Storvik;8;Milled;2,5;0;1;11;2;0,14;8
+Year 2;Storvik;9;Control;15;1,5;0;0;2;0,25;6
+Year 2;Storvik;9;Milled;7,5;0,5;0;0;2;0,25;9
+Year 2;Tallåsen;1;Control;5;1;1;0;0;0,25;3
+Year 2;Tallåsen;1;Milled;1;0;22;0;0;0,25;9
+Year 2;Tallåsen;3;Control;2,5;2,5;0;1;0;0,24;3
+Year 2;Tallåsen;3;Milled;0;0;23;22;0;0,03;7
+Year 2;Tallåsen;4;Control;2,5;1;0;0;0;0,25;2
+Year 2;Tallåsen;4;Milled;0;0;25;12;0;0,13;5
+Year 2;Tallåsen;5;Control;5;2;0;0;0;0,25;3
+Year 2;Tallåsen;5;Milled;0;0;24;5;0;0,2;7
+Year 2;Tallåsen;6;Control;1;0;8;2;0;0,23;4
+Year 2;Tallåsen;6;Milled;0;0;25;5;0;0,2;6
+Year 2;Tallåsen;7;Control;0;0;25;1;0;0,24;3
+Year 2;Tallåsen;7;Milled;0;0;25;2;0;0,23;7
+Year 2;Tallåsen;8;Control;2,5;1;0;2;0;0,23;6
+Year 2;Tallåsen;8;Milled;0;0;25;3;0;0,22;7
+Year 2;Tallåsen;9;Control;5;2,5;0;1;0;0,24;5
+Year 2;Tallåsen;9;Milled;0;0;22;2;0;0,23;9

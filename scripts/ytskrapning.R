@@ -12,6 +12,8 @@ library(emmeans)
 library(performance)
 library(betapart)
 library(ggpubr)
+library(glmmTMB)
+library(sjPlot)
 
 # Artdata ----
 
@@ -70,7 +72,7 @@ sum.station
 rich.ytskr <- arter.skrap %>% 
   filter(tree.bush==0) %>% 
   group_by(Year, Station, Behandling, Ruta) %>% 
-  summarise(rich=n())
+  summarise(rich=n()) 
 rich.ytskr 
 
 rich.box <- ggplot(rich.ytskr, aes(x=Station, y=rich, fill = Year)) + geom_boxplot() +
@@ -81,11 +83,24 @@ rich.box
 mod.herbsrich0 <- glm(rich ~ Year * Station, family = poisson(link = "log"), data=rich.ytskr) #underdispersed
 mod.herbsrich <- glmmTMB(rich ~ Station * Year, data=rich.ytskr, family=compois)
 summary(mod.herbsrich)
-nmod_dharma1 <- mod.herbsrich %>% simulateResiduals(n=1000)
+mod_dharma1 <- mod.herbsrich %>% simulateResiduals(n=1000)
 plot(mod_dharma1)
 testDispersion(mod_dharma1)
 testDispersion(mod_dharma1, alternative = "less")
 plot(allEffects(mod.herbsrich), lines= list(multiline = T), confint = list(style="auto"))
+# Gör en finare plot för Stationsboken:
+fin <- plot_model(mod.herbsrich, type = "int", legend.title = "År efter åtgärd") +
+  theme_classic() +
+  ylab("Artrikedom") +
+  xlab("Station") +
+  theme(legend.position = "right", 
+        axis.text = element_text(size = 14), 
+        axis.title.x = element_text(size = 14),
+        axis.title.y = element_text(size = 14)) +      
+  labs(title =NULL) 
+fin
+
+
 # post-hoc
 emmeans(mod.herbsrich, pairwise ~ Year|Station, adjust= "fdr")$contrasts
 emmeans(mod.herbsrich, pairwise ~ Station|Year, adjust= "fdr")$contrasts
@@ -94,7 +109,7 @@ emmeans(mod.herbsrich, pairwise ~ Year|Station, adjust= "bonferroni")$contrasts
 emmeans(mod.herbsrich, pairwise ~ Station|Year, adjust= "bonferroni")$contrasts
 x2 <- emmeans(mod.herbsrich, "Year", by="Station")
 plot(x2)
-
+x.resp <- emmeans(mod.herbsrich, "Year", by="Station", type="response")
 # Temporal beta diversity 
 
 # Create dataframe örter
@@ -137,8 +152,14 @@ beta.temporal <- beta.temp(pa.y1, pa.y6, index.family = "sorensen")
 # plot:
 beta.years <- read.csv2(here("data", "betatemp.ytskrap.csv"))
 
-beta.skrap <- ggplot(beta.years, aes(x=Station, y=Value, color=Beta.type)) + geom_point() +
-   ggtitle("Temporal beta diversity (incidence based: Sorensen)")
+beta.skrap <- ggplot(beta.years, aes(x=Station, y=Value, color=Beta.type)) + 
+  geom_point(size=4) +
+  ggtitle("Temporal beta diversity (incidence based: Sorensen)") +
+  ylab("Beta diversity") +
+  xlab("Station") +
+  theme(axis.text.x = element_text(size=14),
+        axis.text.y = element_text(size=14), 
+        axis.title = element_text(size=14))
 beta.skrap
 
 

@@ -1,0 +1,823 @@
+Year;Years after milling;Station;Datum;Pairnr;Treatment;Jordtyp;Vegetation height cm;Litter depth cm;Dug holes;No.subplots.with.more.than.50.bare.soil;No.subplots.with.more.than.50.rock;Area for growth m2;No.subplots.with.more.than.50.grass;Art;Occurrences out of 25;Species;Family;Tree/bush
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;Fuktighållande naturgrus alla dimensioner upptill 1 dmsten;0;0;0;0;2;0,23;5;Rödven;23;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Rödsvingel;3;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Knippfryle;7;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Hönsarv;1;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Äkta johannesört;8;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Vårtbjörk;25;Betula pendula;Betulaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Renfana;4;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Rödklöver;4;Trifolium pratense;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Humlelusern;1;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Control;;0;0;0;0;2;0,23;5;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Knippfryle;5;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Stormåra;1;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Hönsarv;1;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Knytling;7;Herniaria glabra;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Äkta johannesört;5;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Rödklöver;1;Trifolium pratense;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Ängsklocka;3;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Humlelusern;3;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Tall;1;Pinus sylvestris;Pinaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;3;Control;;0;0;0;1;2;0,23;1;Vårtbjörk;12;Betula pendula;Betulaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;1;Milled;;0;0;0;21;4;0,21;0;Äkta johannesört;5;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Milled;;0;0;0;21;4;0,21;0;Maskros;2;Taraxacum;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Milled;;0;0;0;21;4;0,21;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;1;Milled;;0;0;0;21;4;0,21;0;Knippfryle;1;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Milled;;0;0;0;21;4;0,21;0;Rödsvingel;3;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Milled;;0;0;0;21;4;0,21;0;Rödven;1;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Milled;;0;0;0;21;4;0,21;0;Hönsarv;2;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Milled;;0;0;0;21;4;0,21;0;Humlelusern;1;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;1;Milled;;0;0;0;21;4;0,21;0;Svinmolke;2;Sonchus asper;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Milled;F;0;0;0;22;3;0,22;0;Kråkvicker;3;Vicia cracca;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Milled;;0;0;0;22;3;0,22;0;Rödven;1;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Milled;;0;0;0;22;3;0,22;0;Rödsvingel;1;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Milled;;0;0;0;22;3;0,22;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;3;Milled;;0;0;0;22;3;0,22;0;Hönsarv;6;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Milled;;0;0;0;22;3;0,22;0;Äkta johannesört;8;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Milled;;0;0;0;22;3;0,22;0;Knytling;1;Herniaria glabra;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Milled;;0;0;0;22;3;0,22;0;Svinmolke;1;Sonchus asper;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;3;Milled;;0;0;0;22;3;0,22;0;Knippfryle;1;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Milled;;0;0;0;25;0;0,25;0;Rödven;3;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Milled;;0;0;0;25;0;0,25;0;Knippfryle;1;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Milled;;0;0;0;25;0;0,25;0;Rödsvingel;2;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Milled;;0;0;0;25;0;0,25;0;Åkerfräken;7;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Milled;;0;0;0;25;0;0,25;0;Hönsarv;3;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Milled;;0;0;0;25;0;0,25;0;Svinmolke;2;Sonchus asper;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Milled;;0;0;0;25;0;0,25;0;Humlelusern;3;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Milled;;0;0;0;25;0;0,25;0;Äkta johannesört;14;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Milled;;0;0;0;25;0;0,25;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Rödven;4;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Knippfryle;2;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Tall;2;Pinus sylvestris;Pinaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Svinmolke;3;Sonchus asper;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Äkta johannesört;16;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Ängsklocka;3;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Hönsarv;4;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Knytling;2;Herniaria glabra;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Sparvvicker;1;Vicia tetrasperma;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Åkerfräken;1;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Milled;;0;0;0;23;2;0,23;0;Humlelusern;2;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Rödsvingel;3;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Knippfryle;2;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Rödven;5;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Ängsklocka;4;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Äkta johannesört;9;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Stormåra;1;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Svinmolke;4;Sonchus asper;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Humlelusern;3;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Hönsarv;4;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Milled;;0;0;0;18;7;0,18;0;Vårtbjörk;2;Betula pendula;Betulaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Åkerfräken;23;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Rödsvingel;25;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Rödven;23;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Äkta johannesört;8;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Brunört;25;Prunella vulgaris;Lamiaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Rödklöver;2;Trifolium pratense;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Vårtbjörk;18;Betula pendula;Betulaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Knippfryle;10;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Käringtand;3;Lotus corniculatus;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Humlelusern;1;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;4;Control;;2,5;0,5;0;0;0;0,25;3;Åkervädd;1;Knautia arvensis;Caprifoliaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Åkerfräken;25;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Knippfryle;22;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Äkta johannesört;23;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Ängsklocka;2;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Ängssyra;5;Rumex acetosa;Polygonaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Vårtbjörk;22;Betula pendula;Betulaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Kråkvicker;3;Vicia cracca;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Brunört;25;Prunella vulgaris;Lamiaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Lönn;1;Acer platanoides;Sapindaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Käringtand;4;Lotus corniculatus;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Åkervädd;1;Knautia arvensis;Caprifoliaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Humlelusern;1;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Rödsvingel;21;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Vitklöver;1;Trifolium repens;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Hönsarv;3;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Rödven;6;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;5;Control;;2,5;0;0;0;1;0,24;0;Rödklöver;1;Trifolium pratense;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Rödsvingel;21;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Rödven;7;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Kråkvicker;2;Vicia cracca;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Käringtand;5;Lotus corniculatus;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Humlelusern;3;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Äkta johannesört;15;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Knippfryle;13;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Åkerfräken;18;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Vårtbjörk;24;Betula pendula;Betulaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Ängsklocka;5;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Hönsarv;2;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Brunört;4;Prunella vulgaris;Lamiaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Åkervädd;2;Knautia arvensis;Caprifoliaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;6;Control;;1;0;0;0;5;0,2;3;Rödklöver;1;Trifolium pratense;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Åkervädd;4;Knautia arvensis;Caprifoliaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Sälg;13;Salix caprea;Salicaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Tall;2;Pinus sylvestris;Pinaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Brunört;14;Prunella vulgaris;Lamiaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Ängssyra;4;Rumex acetosa;Polygonaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Hönsarv;3;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Vårtbjörk;15;Betula pendula;Betulaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Humlelusern;3;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Äkta johannesört;18;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Rödsvingel;24;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Knippfryle;18;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Ängsklocka;1;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Rödven;4;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Åkerfräken;15;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Control;;1;0;0;0;2;0,23;0;Rödklöver;2;Trifolium pratense;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Åkerfräken;11;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Renfana;4;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Knippfryle;10;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Käringtand;5;Lotus corniculatus;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Humlelusern;3;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Äkta johannesört;12;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Rödklöver;3;Trifolium pratense;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Vårtbjörk;18;Betula pendula;Betulaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Rödsvingel;24;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Rödven;1;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Control;;1,5;0;0;1;3;0,22;5;Ängsklocka;1;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Ängsgröe;3;Poa pratensis;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Rödven;16;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Kråkvicker;4;Vicia cracca;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Renfana;6;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Humlelusern;13;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Vårtbjörk;19;Betula pendula;Betulaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Gran;1;Picea abies;Pinaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Sälg;2;Salix caprea;Salicaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Äkta johannesört;13;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Svinmolke;2;Sonchus asper;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Hönsarv;6;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Åkervädd;1;Knautia arvensis;Caprifoliaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Teveronika;2;Veronica chamaedrys;Plantaginaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Stormåra;1;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Ängsklocka;1;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Control;;0;0;0;0;2;0,23;0;Hägg;1;Prunus padus;Rosaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Åkerfräken;8;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Äkta johannesört;11;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Kvickrot;1;Elytrigia repens;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Knippfryle;1;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Humlelusern;2;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Svinmolke;1;Sonchus asper;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Rödven;3;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;7;Milled;;0;0;0;24;1;0,24;0;Rödsvingel;1;Festuca rubra;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Milled;;0;0;2;23;2;0,23;0;Åkerfräken;25;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Milled;;0;0;2;23;2;0,23;0;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Milled;;0;0;2;23;2;0,23;0;Knippfryle;3;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Milled;;0;0;2;23;2;0,23;0;Rödven;7;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Milled;;0;0;2;23;2;0,23;0;Svinmolke;2;Sonchus asper;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Milled;;0;0;2;23;2;0,23;0;Humlelusern;5;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Milled;;0;0;2;23;2;0,23;0;Hönsarv;2;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Milled;;0;0;2;23;2;0,23;0;Ängsklocka;6;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;8;Milled;;0;0;2;23;2;0,23;0;Äkta johannesört;1;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Åkervädd;1;Knautia arvensis;Caprifoliaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Äkta johannesört;5;Hypericum perforatum;Hypericaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Humlelusern;10;Medicago lupulina;Fabaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Åkerfräken;13;Equisetum arvense;Equisetaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Höstfibbla;1;Scorzoneroides autumnalis;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Svinmolke;1;Sonchus asper;Asteraceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Kummin;1;Carum carvi;Apiaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Ängsklocka;2;Campanula patula;Campanulaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Rödven;6;Agrostis capillaris;Poaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Knippfryle;1;Luzula campestris;Juncaceae;0
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2020;Year 1;Norra Valbo;2020-06-15;9;Milled;;0;0;0;23;2;0,23;0;Sparvvicker;1;Vicia tetrasperma;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Control;Organiskt blandad jord med alla fraktioner. Mestadels Sten 1-5 cm;10;0,5;0;0;0;0,25;0;Skogsklöver;24;Trifolium medium;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Control;;10;0,5;0;0;0;0,25;0;Gråbo;1;Artemisia vulgaris;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;1;Control;;10;0,5;0;0;0;0,25;0;Rödven;25;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Control;;10;0,5;0;0;0;0,25;0;Stormåra;11;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Control;;10;0,5;0;0;0;0,25;0;Kvickrot;2;Elytrigia repens;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Control;;10;0,5;0;0;0;0,25;0;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;3;Control;;0;0;0;0;0;0,25;1;Renfana;8;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;3;Control;;0;0;0;0;0;0,25;1;Rödven;22;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Control;;0;0;0;0;0;0,25;1;Rödklöver;8;Trifolium pratense;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Control;;0;0;0;0;0;0,25;1;Ängsgröe;9;Poa pratensis;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Control;;0;0;0;0;0;0,25;1;Femfingerört;6;Potentilla argentea;Rosaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Control;;0;0;0;0;0;0,25;1;Strimsporre;3;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Control;;0;0;0;0;0;0,25;1;Rödsvingel;1;Festuca rubra;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Control;;0;0;0;0;0;0,25;1;Stormåra;2;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Control;;0;0;0;0;0;0,25;1;Groblad;1;Plantago major;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Milled;;0;0;0;24;1;0,24;1;Kvickrot;3;Elytrigia repens;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Milled;;0;0;0;24;1;0,24;1;Ängsgröe;17;Poa pratensis;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Milled;;0;0;0;24;1;0,24;1;Stormåra;5;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Milled;;0;0;0;24;1;0,24;1;Svinmålla;3;Chenopodium album;Amaranthaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Milled;;0;0;0;24;1;0,24;1;Grusnarv;3;Arenaria humifusa;Caryophyllaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Milled;;0;0;0;24;1;0,24;1;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;1;Milled;;0;0;0;24;1;0,24;1;Smultron;4;Fragaria vesca;Rosaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Milled;;0;0;0;24;1;0,24;1;Skogsklöver;6;Trifolium medium;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;1;Milled;;0;0;0;24;1;0,24;1;Strimsporre;1;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Ängsgröe;;Poa pratensis;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Renfana;3;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Stormåra;7;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Svinmålla;3;Chenopodium album;Amaranthaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Kvickrot;1;Elytrigia repens;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Skogsklöver;3;Trifolium medium;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Strimsporre;2;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Röllika;1;Achillea millefolium;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Hönsarv;1;Cerastium fontanum;Caryophyllaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Rödven;4;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;3;Milled;;0;0;0;1;24;0,01;1;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Control;;0;0,5;0;1;5;0,2;0;Stormåra;21;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Control;;0;0,5;0;1;5;0,2;0;Rödklöver;3;Trifolium pratense;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Control;;0;0,5;0;1;5;0,2;0;Strimsporre;8;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Control;;0;0,5;0;1;5;0,2;0;Grustrav;3;Arabidopsis suecica;Brassicaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Control;;0;0,5;0;1;5;0,2;0;Flockfibbla;5;Hieracium umbellatum;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;7;Control;;0;0,5;0;1;5;0,2;0;Rödven;20;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Milled;;0;0;0;11;14;0,11;0;Rödven;5;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Milled;;0;0;0;11;14;0,11;0;Stormåra;7;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Milled;;0;0;0;11;14;0,11;0;Ängsgröe;7;Poa pratensis;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Milled;;0;0;0;11;14;0,11;0;Flockfibbla;3;Hieracium umbellatum;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;7;Milled;;0;0;0;11;14;0,11;0;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;7;Milled;;0;0;0;11;14;0,11;0;Strimsporre;1;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;7;Milled;;0;0;0;11;14;0,11;0;Rödklöver;3;Trifolium pratense;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;8;Control;;1;1;0;1;4;0,21;0;Skogsklöver;11;Trifolium medium;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;8;Control;;1;1;0;1;4;0,21;0;Flockfibbla;14;Hieracium umbellatum;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;8;Control;;1;1;0;1;4;0,21;0;Stormåra;19;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;8;Control;;1;1;0;1;4;0,21;0;Gulmåra;4;Galium verum;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;8;Control;;1;1;0;1;4;0,21;0;Röllika;10;Achillea millefolium;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;8;Control;;1;1;0;1;4;0,21;0;Rödven;3;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;8;Control;;1;1;0;1;4;0,21;0;Bergssyra;1;Rumex acetosella;Polygonaceae;0
+2020;Year 1;Storvik;2020-06-16;8;Milled;;0;0;0;18;7;0,18;0;Rödven;2;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;8;Milled;;0;0;0;18;7;0,18;0;Ängsgröe;4;Poa pratensis;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;8;Milled;;0;0;0;18;7;0,18;0;Strimsporre;2;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;8;Milled;;0;0;0;18;7;0,18;0;Stormåra;7;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;9;Control;;7,5;2;0;0;0;0,25;0;Skogsklöver;25;Trifolium medium;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;9;Control;;7,5;2;0;0;0;0,25;0;Rödsvingel;25;Festuca rubra;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;9;Control;;7,5;2;0;0;0;0,25;0;Stormåra;6;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;9;Control;;7,5;2;0;0;0;0,25;0;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;9;Control;;7,5;2;0;0;0;0,25;0;Flockfibbla;2;Hieracium umbellatum;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;9;Milled;;0;0;0;18;7;0,18;0;Småsporre;2;Chaenorhinum minus;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;9;Milled;;0;0;0;18;7;0,18;0;Ängsgröe;8;Poa pratensis;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;9;Milled;;0;0;0;18;7;0,18;0;Rödven;4;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;9;Milled;;0;0;0;18;7;0,18;0;Rödsvingel;6;Festuca rubra;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;9;Milled;;0;0;0;18;7;0,18;0;Skogsklöver;6;Trifolium medium;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;9;Milled;;0;0;0;18;7;0,18;0;Renfana;9;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;9;Milled;;0;0;0;18;7;0,18;0;Stormåra;14;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;4;Milled;;0;0;0;24;1;0,24;0;Renfana;10;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;4;Milled;;0;0;0;24;1;0,24;0;Stormåra;6;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;4;Milled;;0;0;0;24;1;0,24;0;Ängsgröe;2;Poa pratensis;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;4;Milled;;0;0;0;24;1;0,24;0;Rödven;4;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;4;Milled;;0;0;0;24;1;0,24;0;Rödklöver;1;Trifolium pratense;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;5;Milled;;0;0;0;21;4;0,21;0;Korsört;1;Senecio vulgaris;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;5;Milled;;0;0;0;21;4;0,21;0;Ängsgröe;19;Poa pratensis;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;5;Milled;;0;0;0;21;4;0,21;0;Renfana;18;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;5;Milled;;0;0;0;21;4;0,21;0;Stormåra;3;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;5;Milled;;0;0;0;21;4;0,21;0;Skogsklöver;2;Trifolium medium;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;5;Milled;;0;0;0;21;4;0,21;0;Strimsporre;2;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;5;Milled;;0;0;0;21;4;0,21;0;Rödven;5;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;5;Milled;;0;0;0;21;4;0,21;0;Rödklöver;2;Trifolium pratense;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Milled;;0;0;0;10;6;0,19;1;Rödven;4;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Milled;;0;0;0;10;6;0,19;1;Ängsgröe;9;Poa pratensis;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Milled;;0;0;0;10;6;0,19;1;Stormåra;13;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Milled;;0;0;0;10;6;0,19;1;Renfana;12;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;6;Milled;;0;0;0;10;6;0,19;1;Rödklöver;2;Trifolium pratense;Fabaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Milled;;0;0;0;10;6;0,19;1;Småsporre;1;Chaenorhinum minus;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Milled;;0;0;0;10;6;0,19;1;Strimsporre;1;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;4;Control;;2,5;2;0;0;0;0,25;1;Rödven;25;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;4;Control;;2,5;2;0;0;0;0,25;1;Flockfibbla;3;Hieracium umbellatum;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;4;Control;;2,5;2;0;0;0;0,25;1;Renfana;14;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;4;Control;;2,5;2;0;0;0;0,25;1;Strimsporre;1;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;4;Control;;2,5;2;0;0;0;0,25;1;Stormåra;1;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;5;Control;;0;1;0;0;0;0,25;3;Rödven;25;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;5;Control;;0;1;0;0;0;0,25;3;Strimsporre;2;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;5;Control;;0;1;0;0;0;0,25;3;Renfana;6;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;6;Control;;5;1;0;0;0;0,25;2;Rödven;25;Agrostis capillaris;Poaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Control;;5;1;0;0;0;0,25;2;Flockfibbla;7;Hieracium umbellatum;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;6;Control;;5;1;0;0;0;0,25;2;Renfana;6;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Storvik;2020-06-16;6;Control;;5;1;0;0;0;0,25;2;Strimsporre;1;Linaria repens;Plantaginaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Control;;5;1;0;0;0;0,25;2;Femfingerört;1;Potentilla argentea;Rosaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Control;;5;1;0;0;0;0,25;2;Stormåra;1;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Storvik;2020-06-16;6;Control;;5;1;0;0;0;0,25;2;Rödklöver;2;Trifolium pratense;Fabaceae;0
+2020;Year 1;Tallåsen;2020-06-19;1;Milled;Alla fraktioner med genomsläpplighet för vatten. Rel mycket inslag av stora stenar 1-8 cm;0;0;0;24;1;0,24;0;;;;;
+2020;Year 1;Tallåsen;2020-06-19;1;Control;;5;3;0;0;0;0,25;0;Ängsgröe;1;Poa pratensis;Poaceae;0
+2020;Year 1;Tallåsen;2020-06-19;1;Control;;5;3;0;0;0;0,25;0;Lingon;24;Vaccinium vitis-idaea;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;1;Control;;5;3;0;0;0;0,25;0;Ljung;12;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;3;Milled;;0;0;0;24;1;0,24;0;;;;;
+2020;Year 1;Tallåsen;2020-06-19;3;Control;;0;0,5;0;3;1;0,24;0;Lingon;23;Vaccinium vitis-idaea;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;3;Control;;0;0,5;0;3;1;0,24;0;Vårtbjörk;5;Betula pendula;Betulaceae;1
+2020;Year 1;Tallåsen;2020-06-19;4;Milled;;0;0;0;20;5;0,2;0;Grustrav;2;Arabidopsis suecica;Brassicaceae;0
+2020;Year 1;Tallåsen;2020-06-19;4;Milled;;0;0;0;20;5;0,2;0;Strimsporre;1;Linaria repens;Plantaginaceae;0
+2020;Year 1;Tallåsen;2020-06-19;4;Control;;2,5;1;0;0;0;0,25;0;Lingon;25;Vaccinium vitis-idaea;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;4;Control;;2,5;1;0;0;0;0,25;0;Skogsklöver;7;Trifolium medium;Fabaceae;0
+2020;Year 1;Tallåsen;2020-06-19;4;Control;;2,5;1;0;0;0;0,25;0;Rödsvingel;2;Festuca rubra;Poaceae;0
+2020;Year 1;Tallåsen;2020-06-19;5;Milled;;0;0;0;14;11;0,14;0;Knölklocka;2;Campanula rapunculoides;Campanulaceae;0
+2020;Year 1;Tallåsen;2020-06-19;5;Milled;;0;0;0;14;11;0,14;0;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2020;Year 1;Tallåsen;2020-06-19;5;Control;;2,5;0;1;2;1;0,24;0;Lingon;25;Vaccinium vitis-idaea;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;5;Control;;2,5;0;1;2;1;0,24;0;Ljung;1;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;6;Milled;;0;0;0;8;17;0,08;0;Ljung;1;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;6;Control;;0;0;0;2;12;0,13;;Lingon;14;Vaccinium vitis-idaea;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;7;Milled;;0;0;0;4;21;0,04;0;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2020;Year 1;Tallåsen;2020-06-19;7;Milled;;0;0;0;4;21;0,04;0;Knölklocka;1;Campanula rapunculoides;Campanulaceae;0
+2020;Year 1;Tallåsen;2020-06-19;7;Control;;0;0;0;8;8;0,17;0;Lingon;19;Vaccinium vitis-idaea;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Milled;;0;0;0;12;13;0,12;0;Ängsgröe;1;Poa pratensis;Poaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Milled;;0;0;0;12;13;0,12;0;Rödsvingel;1;Festuca rubra;Poaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Milled;;0;0;0;12;13;0,12;0;Knölklocka;5;Campanula rapunculoides;Campanulaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Milled;;0;0;0;12;13;0,12;0;Skogsklöver;1;Trifolium medium;Fabaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Control;;5;2;0;0;0;0,25;0;Liten blåklocka;5;Campanula rotundifolia;Campanulaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Control;;5;2;0;0;0;0,25;0;Vitmåra;3;Galium boreale;Rubiaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Control;;5;2;0;0;0;0,25;0;Skogsklöver;15;Trifolium medium;Fabaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Control;;5;2;0;0;0;0,25;0;Rödsvingel;2;Festuca rubra;Poaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Control;;5;2;0;0;0;0,25;0;Knölklocka;1;Campanula rapunculoides;Campanulaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Control;;5;2;0;0;0;0,25;0;Lingon;25;Vaccinium vitis-idaea;Ericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;8;Control;;5;2;0;0;0;0,25;0;Stormåra;1;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Milled;;0;0;0;15;10;0,15;0;Skogsklöver;11;Trifolium medium;Fabaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Milled;;0;0;0;15;10;0,15;0;Bockrot;1;Pimpinella saxifraga;Apiaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Milled;;0;0;0;15;10;0,15;0;Knölklocka;6;Campanula rapunculoides;Campanulaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Milled;;0;0;0;15;10;0,15;0;Röllika;3;Achillea millefolium;Asteraceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Milled;;0;0;0;15;10;0,15;0;Ängsgröe;3;Poa pratensis;Poaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Control;;5;1,5;0;2;0;0,25;0;Skogsklöver;25;Trifolium medium;Fabaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Control;;5;1,5;0;2;0;0,25;0;Fyrkantig johannesört;3;Hypericum maculatum;Hypericaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Control;;5;1,5;0;2;0;0,25;0;Röllika;4;Achillea millefolium;Asteraceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Control;;5;1,5;0;2;0;0,25;0;Stormåra;6;Gallium mollugo;Rubiaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Control;;5;1,5;0;2;0;0,25;0;Vitmåra;5;Galium boreale;Rubiaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Control;;5;1,5;0;2;0;0,25;0;Prästkrage;4;Leucanthemum vulgare;Asteraceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Control;;5;1,5;0;2;0;0,25;0;Rödven;3;Agrostis capillaris;Poaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Control;;5;1,5;0;2;0;0,25;0;Rödsvingel;16;Festuca rubra;Poaceae;0
+2020;Year 1;Tallåsen;2020-06-19;9;Control;;5;1,5;0;2;0;0,25;0;Knölklocka;2;Campanula rapunculoides;Campanulaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;1;Milled;Sandrik morän genomsläppligt men med mycket stora fraktioner material 0-30cm. ;0;0;0;24;1;0,24;0;Kvastfibbla;1;Pilosella cymosa;Asteraceae;0
+2020;Year 1;Mo Grindar;2020-06-18;1;Control;;0;1,5;0;0;1;0,24;1;Fårsvingel;14;Festuca ovina;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;1;Control;;0;1,5;0;0;1;0,24;1;Flockfibbla;7;Hieracium umbellatum;Asteraceae;0
+2020;Year 1;Mo Grindar;2020-06-18;1;Control;;0;1,5;0;0;1;0,24;1;Gråfibbla;23;Pilosella officinarum;Asteraceae;0
+2020;Year 1;Mo Grindar;2020-06-18;1;Control;;0;1,5;0;0;1;0,24;1;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Mo Grindar;2020-06-18;3;Milled;;0;0;0;10;15;0,1;0;Ljung;2;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;3;Control;;20;3;0;0;0;0,25;0;Ljung;8;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;4;Milled;;0;0;0;21;4;0,21;0;;;;;
+2020;Year 1;Mo Grindar;2020-06-18;4;Control;;35;2;0;0;0;0,25;0;Ljung;25;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;5;Milled;;0;0;0;21;4;0,21;0;;;;;
+2020;Year 1;Mo Grindar;2020-06-18;5;Control;;20;1;0;0;0;0,25;0;Ljung;21;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;5;Control;;20;1;0;0;0;0,25;0;Lingon;1;Vaccinium vitis-idaea;Ericaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;5;Control;;20;1;0;0;0;0,25;0;Rödven;1;Agrostis capillaris;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;6;Milled;;0;0;0;22;3;0,22;0;;;;;
+2020;Year 1;Mo Grindar;2020-06-18;6;Control;;0;0,5;0;4;6;0,19;1;Fårsvingel;6;Festuca ovina;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;6;Control;;0;0,5;0;4;6;0,19;1;Gråfibbla;6;Pilosella officinarum;Asteraceae;0
+2020;Year 1;Mo Grindar;2020-06-18;6;Control;;0;0,5;0;4;6;0,19;1;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2020;Year 1;Mo Grindar;2020-06-18;6;Control;;0;0,5;0;4;6;0,19;1;Ljung;6;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;6;Control;;0;0,5;0;4;6;0,19;1;Flockfibbla;1;Hieracium umbellatum;Asteraceae;0
+2020;Year 1;Mo Grindar;2020-06-18;7;Milled;;0;0;0;8;17;0,08;0;Fårsvingel;2;Festuca ovina;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;7;Milled;;0;0;0;8;17;0,08;0;Rödven;3;Agrostis capillaris;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;7;Control;;7,5;0;0;6;0;0,25;0;Fårsvingel;5;Festuca ovina;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;7;Control;;7,5;0;0;6;0;0,25;0;Ljung;20;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;8;Milled;;0;0;0;22;3;0,22;0;Ängsgröe;3;Poa pratensis;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;8;Control;;10;0,5;0;0;8;0,17;0;Fårsvingel;5;Festuca ovina;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;8;Control;;10;0,5;0;0;8;0,17;0;Ljung;25;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;8;Control;;10;0,5;0;0;8;0,17;0;Gråfibbla;1;Pilosella officinarum;Asteraceae;0
+2020;Year 1;Mo Grindar;2020-06-18;8;Control;;10;0,5;0;0;8;0,17;0;Ängssvingel;1;Schedonorus pratensis;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;8;Control;;10;0,5;0;0;8;0,17;0;Flockfibbla;4;Hieracium umbellatum;Asteraceae;0
+2020;Year 1;Mo Grindar;2020-06-18;9;Milled;;0;0;0;8;17;0,08;0;Fårsvingel;1;Festuca ovina;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;9;Milled;;0;0;0;8;17;0,08;0;Rödven;1;Agrostis capillaris;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;9;Milled;;0;0;0;8;17;0,08;0;Bergsyra;1;Rumex acetosella;Polygonaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;9;Control;;10;2;0;0;10;0,15;0;Rödsvingel;2;Festuca rubra;Poaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;9;Control;;10;2;0;0;10;0,15;0;Ljung;25;Calluna vulgaris;Ericaceae;0
+2020;Year 1;Mo Grindar;2020-06-18;9;Control;;10;2;0;0;10;0,15;0;Gråfibbla;;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;1;Control;;7,5;1;;0;0;0,25;0;Skogsklöver;24;Trifolium medium;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Control;;7,5;1;;0;0;0,25;0;Stormåra;25;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Control;;7,5;1;;0;0;0,25;0;Berggröe;5;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Control;;7,5;1;;0;0;0,25;0;Kvickrot;3;Elytrigia repens;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Control;;7,5;1;;0;0;0,25;0;Rödven;11;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Control;;7,5;1;;0;0;0,25;0;Gulsporre;2;Linaria vulgaris;Plantaginaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Milled;;5;0,5;;0;2;0,23;0;Stormåra;25;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Milled;;5;0,5;;0;2;0,23;0;Skogsklöver;24;Trifolium medium;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Milled;;5;0,5;;0;2;0,23;0;Gulsporre;2;Linaria vulgaris;Plantaginaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Milled;;5;0,5;;0;2;0,23;0;Kvickrot;11;Elytrigia repens;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Milled;;5;0,5;;0;2;0,23;0;Ängsgröe;1;Poa pratensis;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Milled;;5;0,5;;0;2;0,23;0;Berggröe;4;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;1;Milled;;5;0,5;;0;2;0,23;0;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;3;Control;;40;0,5;;0;0;0,25;0;Renfana;24;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;3;Control;;40;0,5;;0;0;0,25;0;Skogsklöver;19;Trifolium medium;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Control;;40;0,5;;0;0;0,25;0;Stormåra;10;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Control;;40;0,5;;0;0;0,25;0;Berggröe;21;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Control;;40;0,5;;0;0;0,25;0;Rödven;25;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Control;;40;0,5;;0;0;0,25;0;Kvickrot;20;Elytrigia repens;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Control;;40;0,5;;0;0;0,25;0;Röllika;7;Achillea millefolium;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;3;Control;;40;0,5;;0;0;0,25;0;Gulsporre;2;Linaria vulgaris;Plantaginaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Control;;40;0,5;;0;0;0,25;0;Ängssvingel;1;Schedonorus pratensis;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Milled;;5;1;;0;0;0,25;19;Skogsklöver;8;Trifolium medium;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Milled;;5;1;;0;0;0,25;19;Stormåra;12;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Milled;;5;1;;0;0;0,25;19;Berggröe;25;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Milled;;5;1;;0;0;0,25;19;Kvickrot;12;Elytrigia repens;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Milled;;5;1;;0;0;0,25;19;Rödven;24;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;3;Milled;;5;1;;0;0;0,25;19;Röllika;1;Achillea millefolium;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;4;Control;;30;0,5;;0;3;0,22;0;Renfana;25;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;4;Control;;30;0,5;;0;3;0,22;0;Stormåra;23;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;4;Control;;30;0,5;;0;3;0,22;0;Hagfibbla;1;Hieracium sect. Vulgata;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;4;Control;;30;0,5;;0;3;0,22;0;Rödklöver;1;Trifolium pratense;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;4;Control;;30;0,5;;0;3;0,22;0;Berggröe;3;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;4;Control;;30;0,5;;0;3;0,22;0;Rödven;1;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;4;Milled;;0;0;;19;4;0,21;0;Renfana;10;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;4;Milled;;0;0;;19;4;0,21;0;Stormåra;12;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;4;Milled;;0;0;;19;4;0,21;0;Gulsporre;3;Linaria vulgaris;Plantaginaceae;0
+2022;Year 2;Storvik;2022-07-04;4;Milled;;0;0;;19;4;0,21;0;Rödven;6;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Control;;1;0,5;;0;0;0,25;21;Rödven;25;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Control;;1;0,5;;0;0;0,25;21;Renfana;3;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;5;Control;;1;0,5;;0;0;0,25;21;Stormåra;6;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Control;;1;0,5;;0;0;0,25;21;Rödklöver;1;Trifolium pratense;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Control;;1;0,5;;0;0;0,25;21;Berggröe;1;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Milled;;0;0;;20;10;0,15;0;Renfana;15;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;5;Milled;;0;0;;20;10;0,15;0;Stormåra;2;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Milled;;0;0;;20;10;0,15;0;Rödklöver;1;Trifolium pratense;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Milled;;0;0;;20;10;0,15;0;Gulsporre;7;Linaria vulgaris;Plantaginaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Milled;;0;0;;20;10;0,15;0;Berggröe;1;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Milled;;0;0;;20;10;0,15;0;Rödven;9;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;5;Milled;;0;0;;20;10;0,15;0;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Stormåra;25;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Flockfibbla;2;Hieracium umbellatum;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Renfana;3;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Gulsporre;4;Linaria vulgaris;Plantaginaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Rödven;25;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Berggröe;2;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Ängsgröe;1;Poa pratensis;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Femfingerört;1;Potentilla argentea;Rosaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Rödklöver;13;Trifolium pratense;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Control;;10;1;;0;0;0,25;7;Åkervädd;1;Knautia arvensis;Caprifoliaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Milled;;1,5;0;;15;0;0,25;9;Berggröe;2;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Milled;;1,5;0;;15;0;0,25;9;Rödven;6;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Milled;;1,5;0;;15;0;0,25;9;Renfana;7;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;6;Milled;;1,5;0;;15;0;0,25;9;Stormåra;9;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Milled;;1,5;0;;15;0;0,25;9;Rödklöver;7;Trifolium pratense;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;6;Milled;;1,5;0;;15;0;0,25;9;Gulsporre;5;Linaria vulgaris;Plantaginaceae;0
+2022;Year 2;Storvik;2022-07-04;7;Control;;1;0;;9;7;0,18;1;Rödven;25;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;7;Control;;1;0;;9;7;0,18;1;Stormåra;13;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;7;Control;;1;0;;9;7;0,18;1;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;7;Control;;1;0;;9;7;0,18;1;Gulsporre;2;Linaria vulgaris;Plantaginaceae;0
+2022;Year 2;Storvik;2022-07-04;7;Control;;1;0;;9;7;0,18;1;Asp;1;Populus tremula;Salicaceae;1
+2022;Year 2;Storvik;2022-07-04;7;Control;;1;0;;9;7;0,18;1;Grustrav;1;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Storvik;2022-07-04;7;Control;;1;0;;9;7;0,18;1;Hagfibbla;1;Hieracium sect. Vulgata;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;7;Control;;1;0;;9;7;0,18;1;Ärenpris;2;Veronica officinalis;Plantaginaceae;0
+2022;Year 2;Storvik;2022-07-04;7;Milled;;0;0;;22;10;0,15;6;Rödven;10;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;7;Milled;;0;0;;22;10;0,15;6;Berggröe;4;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;7;Milled;;0;0;;22;10;0,15;6;Stormåra;1;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;7;Milled;;0;0;;22;10;0,15;6;Hagfibbla;3;Hieracium sect. Vulgata;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;8;Control;;2,5;0,5;;0;6;0,19;0;Hagfibbla;6;Hieracium sect. Vulgata;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;8;Control;;2,5;0,5;;0;6;0,19;0;Röllika;3;Achillea millefolium;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;8;Control;;2,5;0,5;;0;6;0,19;0;Stormåra;23;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;8;Control;;2,5;0,5;;0;6;0,19;0;Bergsyra;4;Rumex acetosella;Polygonaceae;0
+2022;Year 2;Storvik;2022-07-04;8;Control;;2,5;0,5;;0;6;0,19;0;Skogsklöver;14;Trifolium medium;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;8;Control;;2,5;0,5;;0;6;0,19;0;Åkervinda;1;Convolvulus arvensis;Convolvulaceae;0
+2022;Year 2;Storvik;2022-07-04;8;Control;;2,5;0,5;;0;6;0,19;0;Gulmåra;6;Galium verum;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;8;Control;;2,5;0,5;;0;6;0,19;0;Mjölkört;1;Chamaenerion angustifolium;Onagraceae;0
+2022;Year 2;Storvik;2022-07-04;8;Milled;;2,5;0;;1;11;0,14;2;Berggröe;25;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;8;Milled;;2,5;0;;1;11;0,14;2;Stormåra;22;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;8;Milled;;2,5;0;;1;11;0,14;2;Röllika;7;Achillea millefolium;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;8;Milled;;2,5;0;;1;11;0,14;2;Hagfibbla;4;Hieracium sect. Vulgata;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;8;Milled;;2,5;0;;1;11;0,14;2;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;8;Milled;;2,5;0;;1;11;0,14;2;Skogsklöver;1;Trifolium medium;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;8;Milled;;2,5;0;;1;11;0,14;2;Mjölkört;1;Chamaenerion angustifolium;Onagraceae;0
+2022;Year 2;Storvik;2022-07-04;8;Milled;;2,5;0;;1;11;0,14;2;Ängsgröe;1;Poa pratensis;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Control;;15;1,5;;0;0;0,25;2;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;9;Control;;15;1,5;;0;0;0,25;2;Stormåra;25;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Control;;15;1,5;;0;0;0,25;2;Skogsklöver;25;Trifolium medium;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Control;;15;1,5;;0;0;0,25;2;Rödsvingel;25;Festuca rubra;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Control;;15;1,5;;0;0;0,25;2;Hagfibbla;1;Hieracium sect. Vulgata;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;9;Control;;15;1,5;;0;0;0,25;2;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Milled;;7,5;0,5;;0;0;0,25;2;Flockfibbla;1;Hieracium umbellatum;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;9;Milled;;7,5;0,5;;0;0;0,25;2;Rödven;25;Agrostis capillaris;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Milled;;7,5;0,5;;0;0;0,25;2;Rödsvingel;20;Festuca rubra;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Milled;;7,5;0,5;;0;0;0,25;2;Berggröe;15;Poa compressa;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Milled;;7,5;0,5;;0;0;0,25;2;Ängsgröe;1;Poa pratensis;Poaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Milled;;7,5;0,5;;0;0;0,25;2;Stormåra;24;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Milled;;7,5;0,5;;0;0;0,25;2;Skogsklöver;11;Trifolium medium;Fabaceae;0
+2022;Year 2;Storvik;2022-07-04;9;Milled;;7,5;0,5;;0;0;0,25;2;Renfana;7;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Storvik;2022-07-04;9;Milled;;7,5;0,5;;0;0;0,25;2;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Glasbjörk;25;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Asp;1;Populus tremula;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Humlelusern;1;Medicago lupulina;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Ängsfryle;7;Luzula multiflora;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Knippfryle;5;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Rödven;25;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Ängsgröe;1;Poa pratensis;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Rödsvingel;25;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Control;;2,5;1;;0;0;0,25;0;Gran;1;Picea abies;Pinaceae;1
+2022;Year 2;Norra Valbo;2022-07-04;1;Milled;;2,5;0;;19;2;0,23;0;Äkta johannesört;18;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Milled;;2,5;0;;19;2;0,23;0;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Milled;;2,5;0;;19;2;0,23;0;Åkerfräken;10;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Milled;;2,5;0;;19;2;0,23;0;Rödven;6;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Milled;;2,5;0;;19;2;0,23;0;Knippfryle;4;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Milled;;2,5;0;;19;2;0,23;0;Glasbjörk;1;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-04;1;Milled;;2,5;0;;19;2;0,23;0;Stormåra;2;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Milled;;2,5;0;;19;2;0,23;0;Rödsvingel;4;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;1;Milled;;2,5;0;;19;2;0,23;0;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Glasbjörk;25;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Rödklöver;3;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Röllika;1;Achillea millefolium;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Humlelusern;2;Medicago lupulina;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Äkta johannesört;8;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Flockfibbla;2;Hieracium umbellatum;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Sälg;1;Salix caprea;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Rödsvingel;25;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Control;;0;0,5;;2;3;0,22;4;Åkerspärgel;1;Spergula arvensis;Caryophyllaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Rödven;22;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Äkta johannesört;13;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Maskros;2;Taraxacum;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Åkerspärgel;1;Spergula arvensis;Caryophyllaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Rödklöver;1;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Rödsvingel;1;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Knippfryle;2;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-04;3;Milled;;0;0,5;;8;0;0,25;1;Brunört;;Prunella vulgaris;Lamiaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Control;;10;2;;0;0;0,25;0;Glasbjörk;25;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;4;Control;;10;2;;0;0;0,25;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;4;Control;;10;2;;0;0;0,25;0;Åkerfräken;25;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Control;;10;2;;0;0;0,25;0;Rödven;20;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Control;;10;2;;0;0;0,25;0;Rödsvingel;25;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Control;;10;2;;0;0;0,25;0;Knippfryle;2;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Control;;10;2;;0;0;0,25;0;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Control;;10;2;;0;0;0,25;0;Äkta johannesört;2;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Rödven;21;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Knippfryle;6;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Glasbjörk;11;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Harstarr;2;Carex leporina;Cyperaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Rödklöver;6;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Flockfibbla;1;Hieracium umbellatum;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Äkta johannesört;7;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Åkerfräken;14;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Berggröe;1;Poa compressa;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Gran;2;Picea abies;Pinaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Rödsvingel;1;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;4;Milled;;2,5;0,5;;0;0;0,25;0;Svartvide;2;Salix myrsinifolia;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Sälg;23;Salix caprea;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Kråkvicker;9;Vicia cracca;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Åkerfräken;25;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Glasbjörk;25;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Knippfryle;2;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Rödsvingel;6;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Berggröe;1;Poa compressa;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Harstarr;1;Carex leporina;Cyperaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Rödklöver;4;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Control;;20;1,5;;0;1;0,24;0;Äkta johannesört;2;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Rödven;18;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Kråkvicker;4;Vicia cracca;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Renfana;3;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Brunört;12;Prunella vulgaris;Lamiaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Rödklöver;7;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Äkta johannesört;9;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Bergdunört;1;Epilobium montanum;Onagraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Knippfryle;3;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Rödsvingel;2;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Maskros;2;Taraxacum;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Åkermolke;2;Sonchus arvensis;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;5;Milled;;0;0;;25;3;0,22;0;Höstfibbla;1;Scorzoneroides autumnalis;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Glasbjörk;25;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Sälg;2;Salix caprea;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Rödsvingel;10;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Skavfräken;1;Equisetum hyemale;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Åkerfräken;25;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Äkta johannesört;2;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Rödklöver;3;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Kråkvicker;2;Vicia cracca;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Brunört;4;Prunella vulgaris;Lamiaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Asp;1;Populus tremula;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Rödven;3;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Knippfryle;1;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Berggröe;1;Poa compressa;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Control;;7,5;0,5;;0;1;0,24;0;Bergdunört;3;Epilobium montanum;Onagraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Renfana;2;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Berggröe;1;Poa compressa;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Rödven;20;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Knippfryle;5;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Åkerfräken;2;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Äkta johannesört;6;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Brunört;10;Prunella vulgaris;Lamiaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Glasbjörk;1;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Bergdunört;2;Epilobium montanum;Onagraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Åkerspärgel;2;Spergula arvensis;Caryophyllaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Kråkvicker;2;Vicia cracca;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Rödklöver;4;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Humlelusern;1;Medicago lupulina;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Ängssyra;2;Rumex acetosa;Polygonaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;6;Milled;;2,5;0;;13;5;0,2;0;Gran;1;Picea abies;Pinaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Glasbjörk;19;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Åkerfräken;22;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Sälg;13;Salix caprea;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Rödven;3;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Rödsvingel;25;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Tall;5;Pinus sylvestris;Pinaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Åkervädd;2;Knautia arvensis;Caprifoliaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Brunört;2;Prunella vulgaris;Lamiaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Äkta johannesört;3;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Rödklöver;6;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Control;;10;1;;0;1;0,24;1;Knippfryle;2;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Knippfryle;7;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Åkerfräken;22;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Brunört;4;Prunella vulgaris;Lamiaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Bergdunört;2;Epilobium montanum;Onagraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Äkta johannesört;2;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Rödklöver;20;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Berggröe;2;Poa compressa;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Rödven;25;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Rödsvingel;23;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;7;Milled;;0;0;;22;9;0,16;0;Liten blåklocka;1;Campanula rotundifolia;Campanulaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Åkerfräken;20;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Asp;5;Populus tremula;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Sälg;5;Salix caprea;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Rödsvingel;25;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Rödven;10;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Knippfryle;4;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Rödklöver;20;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Äkta johannesört;3;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Glasbjörk;25;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Flockfibbla;1;Hieracium umbellatum;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Brunört;1;Prunella vulgaris;Lamiaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Control;;5;0,5;;0;2;0,23;0;Svartvide;1;Salix myrsinifolia;Salicaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Åkerfräken;16;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Rödklöver;10;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Gran;2;Picea abies;Pinaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Glasbjörk;6;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Rödven;12;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Berggröe;2;Poa compressa;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Knippfryle;2;Luzula campestris;Juncaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Äkta johannesört;1;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Brunört;4;Prunella vulgaris;Lamiaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Bergdunört;1;Epilobium montanum;Onagraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Rödsvingel;9;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;8;Milled;;1;0;;11;11;0,14;1;Maskros;1;Taraxacum;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Control;;10;2,5;;1;1;0,24;3;Glasbjörk;25;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;9;Control;;10;2,5;;1;1;0,24;3;Rödsvingel;25;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Control;;10;2,5;;1;1;0,24;3;Harstarr;2;Carex leporina;Cyperaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Control;;10;2,5;;1;1;0,24;3;Åkerfräken;5;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Control;;10;2,5;;1;1;0,24;3;Äkta johannesört;1;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Åkerfräken;22;Equisetum arvense;Equisetaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Rödven;25;Agrostis capillaris;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Kråkvicker;1;Vicia cracca;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Rödsvingel;25;Festuca rubra;Poaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Ängssyra;1;Rumex acetosa;Polygonaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Rödklöver;5;Trifolium pratense;Fabaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Bergdunört;1;Epilobium montanum;Onagraceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Äkta johannesört;1;Hypericum perforatum;Hypericaceae;0
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Glasbjörk;3;Betula pubescens;Betulaceae;1
+2022;Year 2;Norra Valbo;2022-07-05;9;Milled;;5;0,5;;6;3;0,22;2;Berggröe;1;Poa compressa;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;1;Control;;1;0,5;;0;2;0,23;0;Renfana;7;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;1;Control;;1;0,5;;0;2;0,23;0;Gråfibbla;25;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;1;Control;;1;0,5;;0;2;0,23;0;Fårsvingel;5;Festuca ovina;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;1;Control;;1;0,5;;0;2;0,23;0;Rödven;1;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;1;Milled;;1;0;;22;1;0,24;2;Gråfibbla;16;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;1;Milled;;1;0;;22;1;0,24;2;Renfana;9;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;1;Milled;;1;0;;22;1;0,24;2;Rödven;23;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;1;Milled;;1;0;;22;1;0,24;2;Ljung;1;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;3;Control;;0;1;;0;4;0,21;P;Ljung;25;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;3;Milled;;0;0;;13;7;0,18;1;Grustrav;2;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;3;Milled;;0;0;;13;7;0,18;1;Bergsyra;3;Rumex acetosella;Polygonaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;3;Milled;;0;0;;13;7;0,18;1;Maskros;3;Taraxacum;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;3;Milled;;0;0;;13;7;0,18;1;Tall;1;Pinus sylvestris;Pinaceae;1
+2022;Year 2;Mo Grindar;2022-07-05;3;Milled;;0;0;;13;7;0,18;1;Rödven;10;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;3;Milled;;0;0;;13;7;0,18;1;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;3;Milled;;0;0;;13;7;0,18;1;Ljung;8;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;3;Milled;;0;0;;13;7;0,18;1;Gråfibbla;5;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;3;Milled;;0;0;;13;7;0,18;1;Styvfibbla;2;Hieracium sect. Tridentata;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;4;Control;;10;2,5;;0;3;0,22;0;Ljung;25;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;4;Milled;;5;0;;9;9;0,16;4;Rödven;13;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;4;Milled;;5;0;;9;9;0,16;4;Ljung;10;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;4;Milled;;5;0;;9;9;0,16;4;Gråfibbla;5;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;4;Milled;;5;0;;9;9;0,16;4;Glasbjörk;1;Betula pubescens;Betulaceae;1
+2022;Year 2;Mo Grindar;2022-07-05;5;Control;;15;1;;0;0;0,25;0;Ljung;24;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;5;Milled;;0;0;;13;3;0,22;6;Ljung;3;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;5;Milled;;0;0;;13;3;0,22;6;Knippfryle;1;Luzula campestris;Juncaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;5;Milled;;0;0;;13;3;0,22;6;Glasbjörk;1;Betula pubescens;Betulaceae;1
+2022;Year 2;Mo Grindar;2022-07-05;5;Milled;;0;0;;13;3;0,22;6;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;5;Milled;;0;0;;13;3;0,22;6;Rödven;25;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;5;Milled;;0;0;;13;3;0,22;6;Bergsyra;1;Rumex acetosella;Polygonaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;6;Control;;10;1,5;;3;6;0,19;0;Ljung;25;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;6;Control;;10;1,5;;3;6;0,19;0;Gråfibbla;18;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;6;Milled;;0;0;;25;2;0,23;0;Maskros;2;Taraxacum;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;6;Milled;;0;0;;25;2;0,23;0;Rödven;3;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;6;Milled;;0;0;;25;2;0,23;0;Strimsporre;1;Linaria repens;Plantaginaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;6;Milled;;0;0;;25;2;0,23;0;Renfana;1;Tanacetum vulgare;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;6;Milled;;0;0;;25;2;0,23;0;Grustrav;6;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;6;Milled;;0;0;;25;2;0,23;0;Gran;3;Picea abies;Pinaceae;1
+2022;Year 2;Mo Grindar;2022-07-05;7;Control;;15;1,5;;0;1;0,24;0;Ljung;23;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;7;Control;;15;1,5;;0;1;0,24;0;Gråfibbla;4;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;7;Control;;15;1,5;;0;1;0,24;0;Rödven;1;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;7;Control;;15;1,5;;0;1;0,24;0;Röllika;1;Achillea millefolium;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;7;Milled;;2,5;0;;19;2;0,23;0;Rödven;5;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;7;Milled;;2,5;0;;19;2;0,23;0;Strimsporre;19;Linaria repens;Plantaginaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Control;;1,5;0,5;;5;5;0,2;2;Kruståtel;16;Avenella flexuosa;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Control;;1,5;0,5;;5;5;0,2;2;Rödsvingel;1;Festuca rubra;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Control;;1,5;0,5;;5;5;0,2;2;Styvfibbla;1;Hieracium sect. Tridentata;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Control;;1,5;0,5;;5;5;0,2;2;Ljung;23;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Control;;1,5;0,5;;5;5;0,2;2;Gråfibbla;2;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Control;;1,5;0,5;;5;5;0,2;2;Pillerstarr;1;Carex pilulifera;Cyperaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Milled;;0;0;;24;2;0,23;1;Ljung;1;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Milled;;0;0;;24;2;0,23;1;Rödven;7;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Milled;;0;0;;24;2;0,23;1;Kruståtel;2;Avenella flexuosa;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Milled;;0;0;;24;2;0,23;1;Strimsporre;1;Linaria repens;Plantaginaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Milled;;0;0;;24;2;0,23;1;Grustrav;5;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;8;Milled;;0;0;;24;2;0,23;1;Bergsyra;1;Rumex acetosella;Polygonaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;9;Control;;5;2;;0;6;0,19;0;Ljung;25;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;9;Control;;5;2;;0;6;0,19;0;Kruståtel;2;Avenella flexuosa;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;9;Milled;;0;0;;25;0;0,25;0;Bergsyra;2;Rumex acetosella;Polygonaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;9;Milled;;0;0;;25;0;0,25;0;Strimsporre;1;Linaria repens;Plantaginaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;9;Milled;;0;0;;25;0;0,25;0;Rödven;5;Agrostis capillaris;Poaceae;0
+2022;Year 2;Mo Grindar;2022-07-05;9;Milled;;0;0;;25;0;0,25;0;Grustrav;3;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Control;;5;1;;1;0;0,25;0;Lingon;25;Vaccinium vitis-idaea;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Control;;5;1;;1;0;0,25;0;Styvfibbla;4;Hieracium sect. Tridentata;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Control;;5;1;;1;0;0,25;0;Rödsvingel;3;Festuca rubra;Poaceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Milled;;1;0;;22;0;0,25;0;Vårtbjörk;8;Betula pendula;Betulaceae;1
+2022;Year 2;Tallåsen;2022-07-06;1;Milled;;1;0;;22;0;0,25;0;Rödklöver;4;Trifolium pratense;Fabaceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Milled;;1;0;;22;0;0,25;0;Prästkrage;9;Leucanthemum vulgare;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Milled;;1;0;;22;0;0,25;0;Fårsvingel;1;Festuca ovina;Poaceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Milled;;1;0;;22;0;0,25;0;Grustrav;2;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Milled;;1;0;;22;0;0,25;0;Gulvial;4;Lathyrus pratensis;Fabaceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Milled;;1;0;;22;0;0,25;0;Rödsvingel;1;Festuca rubra;Poaceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Milled;;1;0;;22;0;0,25;0;Gråfibbla;1;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;1;Milled;;1;0;;22;0;0,25;0;Färgkulla;3;Cota tinctoria;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;3;Control;;2,5;2,5;;0;1;0,24;0;Lingon;24;Vaccinium vitis-idaea;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;3;Control;;2,5;2,5;;0;1;0,24;0;Ljung;3;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;3;Control;;2,5;2,5;;0;1;0,24;0;Asp;1;Populus tremula;Salicaceae;1
+2022;Year 2;Tallåsen;2022-07-06;3;Milled;;0;0;;23;22;0,03;0;Prästkrage;4;Leucanthemum vulgare;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;3;Milled;;0;0;;23;22;0,03;0;Liten blåklocka;1;Campanula rotundifolia;Campanulaceae;0
+2022;Year 2;Tallåsen;2022-07-06;3;Milled;;0;0;;23;22;0,03;0;Fårsvingel;1;Festuca ovina;Poaceae;0
+2022;Year 2;Tallåsen;2022-07-06;3;Milled;;0;0;;23;22;0,03;0;Strimsporre;3;Linaria repens;Plantaginaceae;0
+2022;Year 2;Tallåsen;2022-07-06;3;Milled;;0;0;;23;22;0,03;0;Grustrav;9;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Tallåsen;2022-07-06;3;Milled;;0;0;;23;22;0,03;0;Rödven;2;Agrostis capillaris;Poaceae;0
+2022;Year 2;Tallåsen;2022-07-06;3;Milled;;0;0;;23;22;0,03;0;Styvfibbla;2;Hieracium sect. Tridentata;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;4;Control;;2,5;1;;0;0;0,25;0;Lingon;25;Vaccinium vitis-idaea;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;4;Control;;2,5;1;;0;0;0,25;0;Glasbjörk;2;Betula pubescens;Betulaceae;1
+2022;Year 2;Tallåsen;2022-07-06;4;Milled;;0;0;;25;12;0,13;0;Liten blåklocka;2;Campanula rotundifolia;Campanulaceae;0
+2022;Year 2;Tallåsen;2022-07-06;4;Milled;;0;0;;25;12;0,13;0;Gråfibbla;2;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;4;Milled;;0;0;;25;12;0,13;0;Gran;1;Picea abies;Pinaceae;1
+2022;Year 2;Tallåsen;2022-07-06;4;Milled;;0;0;;25;12;0,13;0;Grustrav;18;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Tallåsen;2022-07-06;4;Milled;;0;0;;25;12;0,13;0;Styvfibbla;2;Hieracium sect. Tridentata;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;5;Control;;5;2;;0;0;0,25;0;Lingon;25;Vaccinium vitis-idaea;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;5;Control;;5;2;;0;0;0,25;0;Skogsklöver;9;Trifolium medium;Fabaceae;0
+2022;Year 2;Tallåsen;2022-07-06;5;Control;;5;2;;0;0;0,25;0;Asp;4;Populus tremula;Salicaceae;1
+2022;Year 2;Tallåsen;2022-07-06;5;Milled;;0;0;;24;5;0,2;0;Liten blåklocka;3;Campanula rotundifolia;Campanulaceae;0
+2022;Year 2;Tallåsen;2022-07-06;5;Milled;;0;0;;24;5;0,2;0;Strimsporre;9;Linaria repens;Plantaginaceae;0
+2022;Year 2;Tallåsen;2022-07-06;5;Milled;;0;0;;24;5;0,2;0;Grustrav;3;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Tallåsen;2022-07-06;5;Milled;;0;0;;24;5;0,2;0;Färgkulla;3;Cota tinctoria;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;5;Milled;;0;0;;24;5;0,2;0;Gråfibbla;3;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;5;Milled;;0;0;;24;5;0,2;0;Lingon;2;Vaccinium vitis-idaea;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;5;Milled;;0;0;;24;5;0,2;0;Prästkrage;1;Leucanthemum vulgare;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;6;Control;;1;0;;8;2;0,23;0;Lingon;19;Vaccinium vitis-idaea;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;6;Control;;1;0;;8;2;0,23;0;Ljung;5;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;6;Control;;1;0;;8;2;0,23;0;Asp;1;Populus tremula;Salicaceae;1
+2022;Year 2;Tallåsen;2022-07-06;6;Control;;1;0;;8;2;0,23;0;Skogsklöver;3;Trifolium medium;Fabaceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Milled;;0;0;;25;2;0,23;0;Knölklocka;3;Campanula rapunculoides;Campanulaceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Milled;;0;0;;25;2;0,23;0;Grustrav;8;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Milled;;0;0;;25;2;0,23;0;Gråfibbla;1;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Milled;;0;0;;25;2;0,23;0;Färgkulla;9;Cota tinctoria;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Milled;;0;0;;25;2;0,23;0;Strimsporre;4;Linaria repens;Plantaginaceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Milled;;0;0;;25;2;0,23;0;Prästkrage;2;Leucanthemum vulgare;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Milled;;0;0;;25;2;0,23;0;Styvfibbla;1;Hieracium sect. Tridentata;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;6;Milled;;0;0;;25;5;0,2;0;Röllika;2;Achillea millefolium;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;6;Milled;;0;0;;25;5;0,2;0;Färgkulla;2;Cota tinctoria;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;6;Milled;;0;0;;25;5;0,2;0;Kråkvicker;6;Vicia cracca;Fabaceae;0
+2022;Year 2;Tallåsen;2022-07-06;6;Milled;;0;0;;25;5;0,2;0;Tall;1;Pinus sylvestris;Pinaceae;1
+2022;Year 2;Tallåsen;2022-07-06;6;Milled;;0;0;;25;5;0,2;0;Knölklocka;5;Campanula rapunculoides;Campanulaceae;0
+2022;Year 2;Tallåsen;2022-07-06;6;Milled;;0;0;;25;5;0,2;0;Grustrav;14;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Control;;0;0;;25;1;0,24;0;Lingon;3;Vaccinium vitis-idaea;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Control;;0;0;;25;1;0,24;0;Kvastfibbla;1;Pilosella cymosa;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;7;Control;;0;0;;25;1;0,24;0;Gråfibbla;4;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Control;;2,5;1;;0;2;0,23;0;Lingon;5;Vaccinium vitis-idaea;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Control;;2,5;1;;0;2;0,23;0;Mjölon;23;Arctostaphylos uva-ursi;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Control;;2,5;1;;0;2;0,23;0;Liten blåklocka;4;Campanula rotundifolia;Campanulaceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Control;;2,5;1;;0;2;0,23;0;Skogsklöver;2;Trifolium medium;Fabaceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Control;;2,5;1;;0;2;0,23;0;Knölklocka;2;Campanula rapunculoides;Campanulaceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Control;;2,5;1;;0;2;0,23;0;Ljung;1;Calluna vulgaris;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Milled;;0;0;;25;3;0,22;0;Rödven;6;Agrostis capillaris;Poaceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Milled;;0;0;;25;3;0,22;0;Strimsporre;2;Linaria repens;Plantaginaceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Milled;;0;0;;25;3;0,22;0;Gråfibbla;1;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Milled;;0;0;;25;3;0,22;0;Färgkulla;1;Cota tinctoria;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Milled;;0;0;;25;3;0,22;0;Röllika;1;Achillea millefolium;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Milled;;0;0;;25;3;0,22;0;Styvfibbla;2;Hieracium sect. Tridentata;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;8;Milled;;0;0;;25;3;0,22;0;Grustrav;3;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Control;;5;2,5;;0;1;0,24;0;Mjölon;12;Arctostaphylos uva-ursi;Ericaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Control;;5;2,5;;0;1;0,24;0;Skogsklöver;15;Trifolium medium;Fabaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Control;;5;2,5;;0;1;0,24;0;Stormåra;5;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Control;;5;2,5;;0;1;0,24;0;Vitmåra;2;Galium boreale;Rubiaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Control;;5;2,5;;0;1;0,24;0;Knölklocka;3;Campanula rapunculoides;Campanulaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Milled;;0;0;;22;2;0,23;0;Fårsvingel;2;Festuca ovina;Poaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Milled;;0;0;;22;2;0,23;0;Rödsvingel;3;Festuca rubra;Poaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Milled;;0;0;;22;2;0,23;0;Rödven;2;Agrostis capillaris;Poaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Milled;;0;0;;22;2;0,23;0;Gråfibbla;2;Pilosella officinarum;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Milled;;0;0;;22;2;0,23;0;Stormåra;6;Gallium mollugo;Rubiaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Milled;;0;0;;22;2;0,23;0;Knölklocka;14;Campanula rapunculoides;Campanulaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Milled;;0;0;;22;2;0,23;0;Grustrav;1;Arabidopsis suecica;Brassicaceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Milled;;0;0;;22;2;0,23;0;Prästkrage;1;Leucanthemum vulgare;Asteraceae;0
+2022;Year 2;Tallåsen;2022-07-06;9;Milled;;0;0;;22;2;0,23;0;Styvfibbla;1;Hieracium sect. Tridentata;Asteraceae;0
